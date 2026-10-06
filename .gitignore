@@ -1,0 +1,26 @@
+# Dati e risultati: restano in locale
+/videos/
+/fit3d dataset/
+/cache/
+/3dkeypoints/
+/evaluation/*.csv
+
+# Pesi dei modelli
+*.pt
+*.pth
+*.bin
+*.onnx
+*.task
+
+# Modelli del corpo di PEAR (licenza di ricerca, vedi README.md)
+PEAR/assets/SMPLX/SMPLX_NEUTRAL_2020.npz
+PEAR/assets/SMPLX/flame_generic_model.pkl
+PEAR/assets/FLAME/FLAME2020/
+
+# Python ed editor
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/

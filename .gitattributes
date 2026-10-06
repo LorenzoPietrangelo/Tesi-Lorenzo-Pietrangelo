@@ -1,0 +1,18 @@
+# I file binari sono dichiarati esplicitamente: con core.autocrlf=true git può
+# scambiare per testo un .pkl senza byte NUL e corromperlo convertendo i fine
+# riga.
+
+*.pt      binary
+*.pth     binary
+*.bin     binary
+*.onnx    binary
+*.task    binary
+*.npy     binary
+*.npz     binary
+*.pkl     binary
+*.obj     binary
+
+*.py      text eol=lf
+*.md      text eol=lf
+*.txt     text eol=lf
+*.yaml    text eol=lf

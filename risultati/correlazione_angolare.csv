@@ -1,0 +1,2689 @@
+sistema,ramo,soggetto,esercizio,camera,articolazione,lato,correlazione
+lagann,due stadi,s03,deadlift,50591643,ginocchio,dx,0.9957
+lagann,due stadi,s03,deadlift,50591643,ginocchio,sx,0.9952
+lagann,due stadi,s03,deadlift,50591643,anca,dx,0.998
+lagann,due stadi,s03,deadlift,50591643,anca,sx,0.9974
+lagann,due stadi,s03,deadlift,50591643,gomito,dx,0.3808
+lagann,due stadi,s03,deadlift,50591643,gomito,sx,0.4005
+lagann,due stadi,s03,deadlift,58860488,ginocchio,dx,0.9901
+lagann,due stadi,s03,deadlift,58860488,ginocchio,sx,0.9934
+lagann,due stadi,s03,deadlift,58860488,anca,dx,0.9985
+lagann,due stadi,s03,deadlift,58860488,anca,sx,0.9973
+lagann,due stadi,s03,deadlift,58860488,gomito,dx,0.0395
+lagann,due stadi,s03,deadlift,58860488,gomito,sx,0.7077
+lagann,due stadi,s03,deadlift,60457274,ginocchio,dx,0.9941
+lagann,due stadi,s03,deadlift,60457274,ginocchio,sx,0.9893
+lagann,due stadi,s03,deadlift,60457274,anca,dx,0.9976
+lagann,due stadi,s03,deadlift,60457274,anca,sx,0.9977
+lagann,due stadi,s03,deadlift,60457274,gomito,dx,0.4721
+lagann,due stadi,s03,deadlift,60457274,gomito,sx,-0.229
+lagann,due stadi,s03,deadlift,65906101,ginocchio,dx,0.9834
+lagann,due stadi,s03,deadlift,65906101,ginocchio,sx,0.9908
+lagann,due stadi,s03,deadlift,65906101,anca,dx,0.9973
+lagann,due stadi,s03,deadlift,65906101,anca,sx,0.9986
+lagann,due stadi,s03,deadlift,65906101,gomito,dx,-0.0086
+lagann,due stadi,s03,deadlift,65906101,gomito,sx,0.8391
+lagann,due stadi,s03,squat,50591643,ginocchio,dx,0.9925
+lagann,due stadi,s03,squat,50591643,ginocchio,sx,0.9922
+lagann,due stadi,s03,squat,50591643,anca,dx,0.992
+lagann,due stadi,s03,squat,50591643,anca,sx,0.9935
+lagann,due stadi,s03,squat,50591643,gomito,dx,0.9917
+lagann,due stadi,s03,squat,50591643,gomito,sx,0.9944
+lagann,due stadi,s03,squat,58860488,ginocchio,dx,0.9907
+lagann,due stadi,s03,squat,58860488,ginocchio,sx,0.9858
+lagann,due stadi,s03,squat,58860488,anca,dx,0.9981
+lagann,due stadi,s03,squat,58860488,anca,sx,0.9977
+lagann,due stadi,s03,squat,58860488,gomito,dx,0.9912
+lagann,due stadi,s03,squat,58860488,gomito,sx,0.9915
+lagann,due stadi,s03,squat,60457274,ginocchio,dx,0.9898
+lagann,due stadi,s03,squat,60457274,ginocchio,sx,0.9942
+lagann,due stadi,s03,squat,60457274,anca,dx,0.9959
+lagann,due stadi,s03,squat,60457274,anca,sx,0.9957
+lagann,due stadi,s03,squat,60457274,gomito,dx,0.9942
+lagann,due stadi,s03,squat,60457274,gomito,sx,0.9874
+lagann,due stadi,s03,squat,65906101,ginocchio,dx,0.9927
+lagann,due stadi,s03,squat,65906101,ginocchio,sx,0.9923
+lagann,due stadi,s03,squat,65906101,anca,dx,0.9972
+lagann,due stadi,s03,squat,65906101,anca,sx,0.9972
+lagann,due stadi,s03,squat,65906101,gomito,dx,0.9947
+lagann,due stadi,s03,squat,65906101,gomito,sx,0.994
+lagann,due stadi,s04,deadlift,50591643,ginocchio,dx,0.9883
+lagann,due stadi,s04,deadlift,50591643,ginocchio,sx,0.9828
+lagann,due stadi,s04,deadlift,50591643,anca,dx,0.9994
+lagann,due stadi,s04,deadlift,50591643,anca,sx,0.997
+lagann,due stadi,s04,deadlift,50591643,gomito,dx,0.5511
+lagann,due stadi,s04,deadlift,50591643,gomito,sx,0.0594
+lagann,due stadi,s04,deadlift,58860488,ginocchio,dx,0.9687
+lagann,due stadi,s04,deadlift,58860488,ginocchio,sx,0.9761
+lagann,due stadi,s04,deadlift,58860488,anca,dx,0.9971
+lagann,due stadi,s04,deadlift,58860488,anca,sx,0.9981
+lagann,due stadi,s04,deadlift,58860488,gomito,dx,0.3551
+lagann,due stadi,s04,deadlift,58860488,gomito,sx,0.4031
+lagann,due stadi,s04,deadlift,60457274,ginocchio,dx,0.973
+lagann,due stadi,s04,deadlift,60457274,ginocchio,sx,0.9751
+lagann,due stadi,s04,deadlift,60457274,anca,dx,0.9985
+lagann,due stadi,s04,deadlift,60457274,anca,sx,0.9934
+lagann,due stadi,s04,deadlift,60457274,gomito,dx,0.3327
+lagann,due stadi,s04,deadlift,60457274,gomito,sx,0.2986
+lagann,due stadi,s04,deadlift,65906101,ginocchio,dx,0.952
+lagann,due stadi,s04,deadlift,65906101,ginocchio,sx,0.9578
+lagann,due stadi,s04,deadlift,65906101,anca,dx,0.9936
+lagann,due stadi,s04,deadlift,65906101,anca,sx,0.9942
+lagann,due stadi,s04,deadlift,65906101,gomito,dx,0.3136
+lagann,due stadi,s04,deadlift,65906101,gomito,sx,0.6207
+lagann,due stadi,s04,squat,50591643,ginocchio,dx,0.9948
+lagann,due stadi,s04,squat,50591643,ginocchio,sx,0.9931
+lagann,due stadi,s04,squat,50591643,anca,dx,0.9983
+lagann,due stadi,s04,squat,50591643,anca,sx,0.9981
+lagann,due stadi,s04,squat,50591643,gomito,dx,0.9881
+lagann,due stadi,s04,squat,50591643,gomito,sx,0.9935
+lagann,due stadi,s04,squat,58860488,ginocchio,dx,0.9925
+lagann,due stadi,s04,squat,58860488,ginocchio,sx,0.9923
+lagann,due stadi,s04,squat,58860488,anca,dx,0.9982
+lagann,due stadi,s04,squat,58860488,anca,sx,0.9979
+lagann,due stadi,s04,squat,58860488,gomito,dx,0.9911
+lagann,due stadi,s04,squat,58860488,gomito,sx,0.988
+lagann,due stadi,s04,squat,60457274,ginocchio,dx,0.9959
+lagann,due stadi,s04,squat,60457274,ginocchio,sx,0.9972
+lagann,due stadi,s04,squat,60457274,anca,dx,0.9976
+lagann,due stadi,s04,squat,60457274,anca,sx,0.9955
+lagann,due stadi,s04,squat,60457274,gomito,dx,0.9868
+lagann,due stadi,s04,squat,60457274,gomito,sx,0.9821
+lagann,due stadi,s04,squat,65906101,ginocchio,dx,0.9948
+lagann,due stadi,s04,squat,65906101,ginocchio,sx,0.9946
+lagann,due stadi,s04,squat,65906101,anca,dx,0.996
+lagann,due stadi,s04,squat,65906101,anca,sx,0.9974
+lagann,due stadi,s04,squat,65906101,gomito,dx,0.9733
+lagann,due stadi,s04,squat,65906101,gomito,sx,0.9835
+lagann,due stadi,s05,deadlift,50591643,ginocchio,dx,0.9684
+lagann,due stadi,s05,deadlift,50591643,ginocchio,sx,0.9908
+lagann,due stadi,s05,deadlift,50591643,anca,dx,0.9992
+lagann,due stadi,s05,deadlift,50591643,anca,sx,0.9986
+lagann,due stadi,s05,deadlift,50591643,gomito,dx,0.539
+lagann,due stadi,s05,deadlift,50591643,gomito,sx,0.4923
+lagann,due stadi,s05,deadlift,58860488,ginocchio,dx,0.98
+lagann,due stadi,s05,deadlift,58860488,ginocchio,sx,0.9227
+lagann,due stadi,s05,deadlift,58860488,anca,dx,0.999
+lagann,due stadi,s05,deadlift,58860488,anca,sx,0.999
+lagann,due stadi,s05,deadlift,58860488,gomito,dx,0.7134
+lagann,due stadi,s05,deadlift,58860488,gomito,sx,0.4835
+lagann,due stadi,s05,deadlift,60457274,ginocchio,dx,0.9918
+lagann,due stadi,s05,deadlift,60457274,ginocchio,sx,0.9932
+lagann,due stadi,s05,deadlift,60457274,anca,dx,0.9988
+lagann,due stadi,s05,deadlift,60457274,anca,sx,0.9981
+lagann,due stadi,s05,deadlift,60457274,gomito,dx,0.915
+lagann,due stadi,s05,deadlift,60457274,gomito,sx,0.4166
+lagann,due stadi,s05,deadlift,65906101,ginocchio,dx,0.994
+lagann,due stadi,s05,deadlift,65906101,ginocchio,sx,0.9882
+lagann,due stadi,s05,deadlift,65906101,anca,dx,0.999
+lagann,due stadi,s05,deadlift,65906101,anca,sx,0.9983
+lagann,due stadi,s05,deadlift,65906101,gomito,dx,0.6513
+lagann,due stadi,s05,deadlift,65906101,gomito,sx,0.7667
+lagann,due stadi,s05,squat,50591643,ginocchio,dx,0.9934
+lagann,due stadi,s05,squat,50591643,ginocchio,sx,0.9889
+lagann,due stadi,s05,squat,50591643,anca,dx,0.9713
+lagann,due stadi,s05,squat,50591643,anca,sx,0.9886
+lagann,due stadi,s05,squat,50591643,gomito,dx,0.991
+lagann,due stadi,s05,squat,50591643,gomito,sx,0.9948
+lagann,due stadi,s05,squat,58860488,ginocchio,dx,0.9907
+lagann,due stadi,s05,squat,58860488,ginocchio,sx,0.987
+lagann,due stadi,s05,squat,58860488,anca,dx,0.9939
+lagann,due stadi,s05,squat,58860488,anca,sx,0.9942
+lagann,due stadi,s05,squat,58860488,gomito,dx,0.9871
+lagann,due stadi,s05,squat,58860488,gomito,sx,0.995
+lagann,due stadi,s05,squat,60457274,ginocchio,dx,0.9853
+lagann,due stadi,s05,squat,60457274,ginocchio,sx,0.9952
+lagann,due stadi,s05,squat,60457274,anca,dx,0.9848
+lagann,due stadi,s05,squat,60457274,anca,sx,0.9901
+lagann,due stadi,s05,squat,60457274,gomito,dx,0.9939
+lagann,due stadi,s05,squat,60457274,gomito,sx,0.9959
+lagann,due stadi,s05,squat,65906101,ginocchio,dx,0.9896
+lagann,due stadi,s05,squat,65906101,ginocchio,sx,0.9838
+lagann,due stadi,s05,squat,65906101,anca,dx,0.9943
+lagann,due stadi,s05,squat,65906101,anca,sx,0.9821
+lagann,due stadi,s05,squat,65906101,gomito,dx,0.9969
+lagann,due stadi,s05,squat,65906101,gomito,sx,0.9966
+lagann,due stadi,s07,deadlift,50591643,ginocchio,dx,0.9868
+lagann,due stadi,s07,deadlift,50591643,ginocchio,sx,0.9836
+lagann,due stadi,s07,deadlift,50591643,anca,dx,0.9987
+lagann,due stadi,s07,deadlift,50591643,anca,sx,0.9965
+lagann,due stadi,s07,deadlift,50591643,gomito,dx,0.633
+lagann,due stadi,s07,deadlift,50591643,gomito,sx,0.5536
+lagann,due stadi,s07,deadlift,58860488,ginocchio,dx,0.9843
+lagann,due stadi,s07,deadlift,58860488,ginocchio,sx,0.9826
+lagann,due stadi,s07,deadlift,58860488,anca,dx,0.9985
+lagann,due stadi,s07,deadlift,58860488,anca,sx,0.9977
+lagann,due stadi,s07,deadlift,58860488,gomito,dx,0.575
+lagann,due stadi,s07,deadlift,58860488,gomito,sx,0.5694
+lagann,due stadi,s07,deadlift,60457274,ginocchio,dx,0.9958
+lagann,due stadi,s07,deadlift,60457274,ginocchio,sx,0.9935
+lagann,due stadi,s07,deadlift,60457274,anca,dx,0.9984
+lagann,due stadi,s07,deadlift,60457274,anca,sx,0.9931
+lagann,due stadi,s07,deadlift,60457274,gomito,dx,0.7597
+lagann,due stadi,s07,deadlift,60457274,gomito,sx,0.4714
+lagann,due stadi,s07,deadlift,65906101,ginocchio,dx,0.9945
+lagann,due stadi,s07,deadlift,65906101,ginocchio,sx,0.9946
+lagann,due stadi,s07,deadlift,65906101,anca,dx,0.9986
+lagann,due stadi,s07,deadlift,65906101,anca,sx,0.9977
+lagann,due stadi,s07,deadlift,65906101,gomito,dx,0.5585
+lagann,due stadi,s07,deadlift,65906101,gomito,sx,0.792
+lagann,due stadi,s07,squat,50591643,ginocchio,dx,0.97
+lagann,due stadi,s07,squat,50591643,ginocchio,sx,0.9632
+lagann,due stadi,s07,squat,50591643,anca,dx,0.9159
+lagann,due stadi,s07,squat,50591643,anca,sx,0.9842
+lagann,due stadi,s07,squat,50591643,gomito,dx,0.9924
+lagann,due stadi,s07,squat,50591643,gomito,sx,0.9865
+lagann,due stadi,s07,squat,58860488,ginocchio,dx,0.9777
+lagann,due stadi,s07,squat,58860488,ginocchio,sx,0.9643
+lagann,due stadi,s07,squat,58860488,anca,dx,0.9682
+lagann,due stadi,s07,squat,58860488,anca,sx,0.8739
+lagann,due stadi,s07,squat,58860488,gomito,dx,0.9899
+lagann,due stadi,s07,squat,58860488,gomito,sx,0.9761
+lagann,due stadi,s07,squat,60457274,ginocchio,dx,0.9866
+lagann,due stadi,s07,squat,60457274,ginocchio,sx,0.9805
+lagann,due stadi,s07,squat,60457274,anca,dx,0.9757
+lagann,due stadi,s07,squat,60457274,anca,sx,0.9942
+lagann,due stadi,s07,squat,60457274,gomito,dx,0.9962
+lagann,due stadi,s07,squat,60457274,gomito,sx,0.9938
+lagann,due stadi,s07,squat,65906101,ginocchio,dx,0.9765
+lagann,due stadi,s07,squat,65906101,ginocchio,sx,0.9813
+lagann,due stadi,s07,squat,65906101,anca,dx,0.9935
+lagann,due stadi,s07,squat,65906101,anca,sx,0.9601
+lagann,due stadi,s07,squat,65906101,gomito,dx,0.9918
+lagann,due stadi,s07,squat,65906101,gomito,sx,0.9878
+lagann,due stadi,s08,deadlift,50591643,ginocchio,dx,0.6155
+lagann,due stadi,s08,deadlift,50591643,ginocchio,sx,0.858
+lagann,due stadi,s08,deadlift,50591643,anca,dx,0.9802
+lagann,due stadi,s08,deadlift,50591643,anca,sx,0.9984
+lagann,due stadi,s08,deadlift,50591643,gomito,dx,0.703
+lagann,due stadi,s08,deadlift,50591643,gomito,sx,0.5023
+lagann,due stadi,s08,deadlift,58860488,ginocchio,dx,0.9532
+lagann,due stadi,s08,deadlift,58860488,ginocchio,sx,0.9445
+lagann,due stadi,s08,deadlift,58860488,anca,dx,0.9917
+lagann,due stadi,s08,deadlift,58860488,anca,sx,0.9935
+lagann,due stadi,s08,deadlift,58860488,gomito,dx,0.5909
+lagann,due stadi,s08,deadlift,58860488,gomito,sx,0.6205
+lagann,due stadi,s08,deadlift,60457274,ginocchio,dx,0.7875
+lagann,due stadi,s08,deadlift,60457274,ginocchio,sx,0.7995
+lagann,due stadi,s08,deadlift,60457274,anca,dx,0.9858
+lagann,due stadi,s08,deadlift,60457274,anca,sx,0.9634
+lagann,due stadi,s08,deadlift,60457274,gomito,dx,0.8526
+lagann,due stadi,s08,deadlift,60457274,gomito,sx,0.4993
+lagann,due stadi,s08,deadlift,65906101,ginocchio,dx,0.952
+lagann,due stadi,s08,deadlift,65906101,ginocchio,sx,0.9305
+lagann,due stadi,s08,deadlift,65906101,anca,dx,0.9811
+lagann,due stadi,s08,deadlift,65906101,anca,sx,0.9879
+lagann,due stadi,s08,deadlift,65906101,gomito,dx,0.6808
+lagann,due stadi,s08,deadlift,65906101,gomito,sx,0.7969
+lagann,due stadi,s08,squat,50591643,ginocchio,dx,0.9227
+lagann,due stadi,s08,squat,50591643,ginocchio,sx,0.9566
+lagann,due stadi,s08,squat,50591643,anca,dx,0.7094
+lagann,due stadi,s08,squat,50591643,anca,sx,0.977
+lagann,due stadi,s08,squat,50591643,gomito,dx,0.8576
+lagann,due stadi,s08,squat,50591643,gomito,sx,0.9655
+lagann,due stadi,s08,squat,58860488,ginocchio,dx,0.9663
+lagann,due stadi,s08,squat,58860488,ginocchio,sx,0.9641
+lagann,due stadi,s08,squat,58860488,anca,dx,0.9711
+lagann,due stadi,s08,squat,58860488,anca,sx,0.882
+lagann,due stadi,s08,squat,58860488,gomito,dx,0.9775
+lagann,due stadi,s08,squat,58860488,gomito,sx,0.864
+lagann,due stadi,s08,squat,60457274,ginocchio,dx,0.6041
+lagann,due stadi,s08,squat,60457274,ginocchio,sx,0.9593
+lagann,due stadi,s08,squat,60457274,anca,dx,0.9517
+lagann,due stadi,s08,squat,60457274,anca,sx,0.984
+lagann,due stadi,s08,squat,60457274,gomito,dx,0.9317
+lagann,due stadi,s08,squat,60457274,gomito,sx,0.965
+lagann,due stadi,s08,squat,65906101,ginocchio,dx,0.9849
+lagann,due stadi,s08,squat,65906101,ginocchio,sx,0.962
+lagann,due stadi,s08,squat,65906101,anca,dx,0.9928
+lagann,due stadi,s08,squat,65906101,anca,sx,0.9892
+lagann,due stadi,s08,squat,65906101,gomito,dx,0.9666
+lagann,due stadi,s08,squat,65906101,gomito,sx,0.9333
+lagann,due stadi,s09,deadlift,50591643,ginocchio,dx,0.9514
+lagann,due stadi,s09,deadlift,50591643,ginocchio,sx,0.9624
+lagann,due stadi,s09,deadlift,50591643,anca,dx,0.9973
+lagann,due stadi,s09,deadlift,50591643,anca,sx,0.9988
+lagann,due stadi,s09,deadlift,50591643,gomito,dx,0.7268
+lagann,due stadi,s09,deadlift,50591643,gomito,sx,-0.2585
+lagann,due stadi,s09,deadlift,58860488,ginocchio,dx,0.9606
+lagann,due stadi,s09,deadlift,58860488,ginocchio,sx,0.9521
+lagann,due stadi,s09,deadlift,58860488,anca,dx,0.9949
+lagann,due stadi,s09,deadlift,58860488,anca,sx,0.9964
+lagann,due stadi,s09,deadlift,58860488,gomito,dx,-0.2659
+lagann,due stadi,s09,deadlift,58860488,gomito,sx,0.1518
+lagann,due stadi,s09,deadlift,60457274,ginocchio,dx,0.9567
+lagann,due stadi,s09,deadlift,60457274,ginocchio,sx,0.9537
+lagann,due stadi,s09,deadlift,60457274,anca,dx,0.9941
+lagann,due stadi,s09,deadlift,60457274,anca,sx,0.9874
+lagann,due stadi,s09,deadlift,60457274,gomito,dx,0.7546
+lagann,due stadi,s09,deadlift,60457274,gomito,sx,0.5743
+lagann,due stadi,s09,deadlift,65906101,ginocchio,dx,0.9657
+lagann,due stadi,s09,deadlift,65906101,ginocchio,sx,0.9672
+lagann,due stadi,s09,deadlift,65906101,anca,dx,0.997
+lagann,due stadi,s09,deadlift,65906101,anca,sx,0.9952
+lagann,due stadi,s09,deadlift,65906101,gomito,dx,0.6231
+lagann,due stadi,s09,deadlift,65906101,gomito,sx,0.4989
+lagann,due stadi,s09,squat,50591643,ginocchio,dx,0.9945
+lagann,due stadi,s09,squat,50591643,ginocchio,sx,0.9914
+lagann,due stadi,s09,squat,50591643,anca,dx,0.9587
+lagann,due stadi,s09,squat,50591643,anca,sx,0.9832
+lagann,due stadi,s09,squat,50591643,gomito,dx,0.9841
+lagann,due stadi,s09,squat,50591643,gomito,sx,0.9934
+lagann,due stadi,s09,squat,58860488,ginocchio,dx,0.9846
+lagann,due stadi,s09,squat,58860488,ginocchio,sx,0.9854
+lagann,due stadi,s09,squat,58860488,anca,dx,0.9815
+lagann,due stadi,s09,squat,58860488,anca,sx,0.962
+lagann,due stadi,s09,squat,58860488,gomito,dx,0.9918
+lagann,due stadi,s09,squat,58860488,gomito,sx,0.9692
+lagann,due stadi,s09,squat,60457274,ginocchio,dx,0.9774
+lagann,due stadi,s09,squat,60457274,ginocchio,sx,0.9874
+lagann,due stadi,s09,squat,60457274,anca,dx,0.9898
+lagann,due stadi,s09,squat,60457274,anca,sx,0.993
+lagann,due stadi,s09,squat,60457274,gomito,dx,0.9946
+lagann,due stadi,s09,squat,60457274,gomito,sx,0.9959
+lagann,due stadi,s09,squat,65906101,ginocchio,dx,0.9896
+lagann,due stadi,s09,squat,65906101,ginocchio,sx,0.9884
+lagann,due stadi,s09,squat,65906101,anca,dx,0.9944
+lagann,due stadi,s09,squat,65906101,anca,sx,0.9914
+lagann,due stadi,s09,squat,65906101,gomito,dx,0.9967
+lagann,due stadi,s09,squat,65906101,gomito,sx,0.9644
+lagann,due stadi,s10,deadlift,50591643,ginocchio,dx,0.99
+lagann,due stadi,s10,deadlift,50591643,ginocchio,sx,0.9904
+lagann,due stadi,s10,deadlift,50591643,anca,dx,0.9976
+lagann,due stadi,s10,deadlift,50591643,anca,sx,0.9983
+lagann,due stadi,s10,deadlift,50591643,gomito,dx,0.177
+lagann,due stadi,s10,deadlift,50591643,gomito,sx,0.0321
+lagann,due stadi,s10,deadlift,58860488,ginocchio,dx,0.9888
+lagann,due stadi,s10,deadlift,58860488,ginocchio,sx,0.9701
+lagann,due stadi,s10,deadlift,58860488,anca,dx,0.9992
+lagann,due stadi,s10,deadlift,58860488,anca,sx,0.9964
+lagann,due stadi,s10,deadlift,58860488,gomito,dx,0.2599
+lagann,due stadi,s10,deadlift,58860488,gomito,sx,0.3117
+lagann,due stadi,s10,deadlift,60457274,ginocchio,dx,0.9901
+lagann,due stadi,s10,deadlift,60457274,ginocchio,sx,0.9929
+lagann,due stadi,s10,deadlift,60457274,anca,dx,0.9983
+lagann,due stadi,s10,deadlift,60457274,anca,sx,0.9972
+lagann,due stadi,s10,deadlift,60457274,gomito,dx,0.7799
+lagann,due stadi,s10,deadlift,60457274,gomito,sx,0.6281
+lagann,due stadi,s10,deadlift,65906101,ginocchio,dx,0.988
+lagann,due stadi,s10,deadlift,65906101,ginocchio,sx,0.9863
+lagann,due stadi,s10,deadlift,65906101,anca,dx,0.9981
+lagann,due stadi,s10,deadlift,65906101,anca,sx,0.9981
+lagann,due stadi,s10,deadlift,65906101,gomito,dx,0.6119
+lagann,due stadi,s10,deadlift,65906101,gomito,sx,0.828
+lagann,due stadi,s10,squat,50591643,ginocchio,dx,0.9969
+lagann,due stadi,s10,squat,50591643,ginocchio,sx,0.9861
+lagann,due stadi,s10,squat,50591643,anca,dx,0.9946
+lagann,due stadi,s10,squat,50591643,anca,sx,0.9985
+lagann,due stadi,s10,squat,50591643,gomito,dx,0.9748
+lagann,due stadi,s10,squat,50591643,gomito,sx,0.9874
+lagann,due stadi,s10,squat,58860488,ginocchio,dx,0.9935
+lagann,due stadi,s10,squat,58860488,ginocchio,sx,0.9841
+lagann,due stadi,s10,squat,58860488,anca,dx,0.9987
+lagann,due stadi,s10,squat,58860488,anca,sx,0.9948
+lagann,due stadi,s10,squat,58860488,gomito,dx,0.9608
+lagann,due stadi,s10,squat,58860488,gomito,sx,0.9846
+lagann,due stadi,s10,squat,60457274,ginocchio,dx,0.9918
+lagann,due stadi,s10,squat,60457274,ginocchio,sx,0.9957
+lagann,due stadi,s10,squat,60457274,anca,dx,0.9977
+lagann,due stadi,s10,squat,60457274,anca,sx,0.9969
+lagann,due stadi,s10,squat,60457274,gomito,dx,0.9909
+lagann,due stadi,s10,squat,60457274,gomito,sx,0.992
+lagann,due stadi,s10,squat,65906101,ginocchio,dx,0.9943
+lagann,due stadi,s10,squat,65906101,ginocchio,sx,0.9906
+lagann,due stadi,s10,squat,65906101,anca,dx,0.9988
+lagann,due stadi,s10,squat,65906101,anca,sx,0.9969
+lagann,due stadi,s10,squat,65906101,gomito,dx,0.9943
+lagann,due stadi,s10,squat,65906101,gomito,sx,0.9861
+lagann,due stadi,s11,deadlift,50591643,ginocchio,dx,0.9759
+lagann,due stadi,s11,deadlift,50591643,ginocchio,sx,0.9829
+lagann,due stadi,s11,deadlift,50591643,anca,dx,0.9914
+lagann,due stadi,s11,deadlift,50591643,anca,sx,0.9989
+lagann,due stadi,s11,deadlift,50591643,gomito,dx,0.6845
+lagann,due stadi,s11,deadlift,50591643,gomito,sx,0.7037
+lagann,due stadi,s11,deadlift,58860488,ginocchio,dx,0.9759
+lagann,due stadi,s11,deadlift,58860488,ginocchio,sx,0.9456
+lagann,due stadi,s11,deadlift,58860488,anca,dx,0.9842
+lagann,due stadi,s11,deadlift,58860488,anca,sx,0.8934
+lagann,due stadi,s11,deadlift,58860488,gomito,dx,0.4494
+lagann,due stadi,s11,deadlift,58860488,gomito,sx,0.7765
+lagann,due stadi,s11,deadlift,60457274,ginocchio,dx,0.986
+lagann,due stadi,s11,deadlift,60457274,ginocchio,sx,0.9899
+lagann,due stadi,s11,deadlift,60457274,anca,dx,0.9978
+lagann,due stadi,s11,deadlift,60457274,anca,sx,0.9955
+lagann,due stadi,s11,deadlift,60457274,gomito,dx,0.8477
+lagann,due stadi,s11,deadlift,60457274,gomito,sx,0.0529
+lagann,due stadi,s11,deadlift,65906101,ginocchio,dx,0.9824
+lagann,due stadi,s11,deadlift,65906101,ginocchio,sx,0.9801
+lagann,due stadi,s11,deadlift,65906101,anca,dx,0.9968
+lagann,due stadi,s11,deadlift,65906101,anca,sx,0.9982
+lagann,due stadi,s11,deadlift,65906101,gomito,dx,0.3247
+lagann,due stadi,s11,deadlift,65906101,gomito,sx,0.7716
+lagann,due stadi,s11,squat,50591643,ginocchio,dx,0.9884
+lagann,due stadi,s11,squat,50591643,ginocchio,sx,0.9867
+lagann,due stadi,s11,squat,50591643,anca,dx,0.8082
+lagann,due stadi,s11,squat,50591643,anca,sx,0.9446
+lagann,due stadi,s11,squat,50591643,gomito,dx,0.9779
+lagann,due stadi,s11,squat,50591643,gomito,sx,0.9788
+lagann,due stadi,s11,squat,58860488,ginocchio,dx,0.984
+lagann,due stadi,s11,squat,58860488,ginocchio,sx,0.9731
+lagann,due stadi,s11,squat,58860488,anca,dx,0.9148
+lagann,due stadi,s11,squat,58860488,anca,sx,0.7213
+lagann,due stadi,s11,squat,58860488,gomito,dx,0.9565
+lagann,due stadi,s11,squat,58860488,gomito,sx,0.9709
+lagann,due stadi,s11,squat,60457274,ginocchio,dx,0.9566
+lagann,due stadi,s11,squat,60457274,ginocchio,sx,0.9879
+lagann,due stadi,s11,squat,60457274,anca,dx,0.9945
+lagann,due stadi,s11,squat,60457274,anca,sx,0.9945
+lagann,due stadi,s11,squat,60457274,gomito,dx,0.9925
+lagann,due stadi,s11,squat,60457274,gomito,sx,0.9933
+lagann,due stadi,s11,squat,65906101,ginocchio,dx,0.9859
+lagann,due stadi,s11,squat,65906101,ginocchio,sx,0.9856
+lagann,due stadi,s11,squat,65906101,anca,dx,0.9947
+lagann,due stadi,s11,squat,65906101,anca,sx,0.9904
+lagann,due stadi,s11,squat,65906101,gomito,dx,0.9884
+lagann,due stadi,s11,squat,65906101,gomito,sx,0.9939
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,ginocchio,dx,0.9126
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,ginocchio,sx,0.9417
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,anca,dx,0.9623
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,anca,sx,0.9902
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,gomito,dx,0.2928
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,gomito,sx,0.5856
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,ginocchio,dx,0.9436
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,ginocchio,sx,0.8631
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,anca,dx,0.9969
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,anca,sx,0.986
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,gomito,dx,0.3513
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,gomito,sx,0.5966
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,ginocchio,dx,0.9535
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,ginocchio,sx,0.9643
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,anca,dx,0.9918
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,anca,sx,0.9969
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,gomito,dx,0.4774
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,gomito,sx,0.7911
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,ginocchio,dx,0.9393
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,ginocchio,sx,0.942
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,anca,dx,0.9973
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,anca,sx,0.9901
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,gomito,dx,0.4022
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,gomito,sx,0.7702
+hrnet_w48_384x288,due stadi,s03,squat,50591643,ginocchio,dx,0.9827
+hrnet_w48_384x288,due stadi,s03,squat,50591643,ginocchio,sx,0.9834
+hrnet_w48_384x288,due stadi,s03,squat,50591643,anca,dx,0.9869
+hrnet_w48_384x288,due stadi,s03,squat,50591643,anca,sx,0.9962
+hrnet_w48_384x288,due stadi,s03,squat,50591643,gomito,dx,0.994
+hrnet_w48_384x288,due stadi,s03,squat,50591643,gomito,sx,0.9911
+hrnet_w48_384x288,due stadi,s03,squat,58860488,ginocchio,dx,0.9807
+hrnet_w48_384x288,due stadi,s03,squat,58860488,ginocchio,sx,0.9444
+hrnet_w48_384x288,due stadi,s03,squat,58860488,anca,dx,0.9959
+hrnet_w48_384x288,due stadi,s03,squat,58860488,anca,sx,0.9919
+hrnet_w48_384x288,due stadi,s03,squat,58860488,gomito,dx,0.9827
+hrnet_w48_384x288,due stadi,s03,squat,58860488,gomito,sx,0.9901
+hrnet_w48_384x288,due stadi,s03,squat,60457274,ginocchio,dx,0.9084
+hrnet_w48_384x288,due stadi,s03,squat,60457274,ginocchio,sx,0.9625
+hrnet_w48_384x288,due stadi,s03,squat,60457274,anca,dx,0.993
+hrnet_w48_384x288,due stadi,s03,squat,60457274,anca,sx,0.995
+hrnet_w48_384x288,due stadi,s03,squat,60457274,gomito,dx,0.9822
+hrnet_w48_384x288,due stadi,s03,squat,60457274,gomito,sx,0.9755
+hrnet_w48_384x288,due stadi,s03,squat,65906101,ginocchio,dx,0.9646
+hrnet_w48_384x288,due stadi,s03,squat,65906101,ginocchio,sx,0.951
+hrnet_w48_384x288,due stadi,s03,squat,65906101,anca,dx,0.993
+hrnet_w48_384x288,due stadi,s03,squat,65906101,anca,sx,0.9928
+hrnet_w48_384x288,due stadi,s03,squat,65906101,gomito,dx,0.9908
+hrnet_w48_384x288,due stadi,s03,squat,65906101,gomito,sx,0.9869
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,ginocchio,dx,0.9574
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,ginocchio,sx,0.9548
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,anca,dx,0.9908
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,anca,sx,0.996
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,gomito,dx,0.0668
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,gomito,sx,-0.2146
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,ginocchio,dx,0.9353
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,ginocchio,sx,0.9239
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,anca,dx,0.9893
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,anca,sx,0.9819
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,gomito,dx,-0.1385
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,gomito,sx,0.0426
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,ginocchio,dx,0.9418
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,ginocchio,sx,0.9623
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,anca,dx,0.9967
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,anca,sx,0.9954
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,gomito,dx,0.0929
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,gomito,sx,0.059
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,ginocchio,dx,0.9154
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,ginocchio,sx,0.9405
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,anca,dx,0.9933
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,anca,sx,0.9929
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,gomito,dx,-0.0031
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,gomito,sx,0.2528
+hrnet_w48_384x288,due stadi,s04,squat,50591643,ginocchio,dx,0.9932
+hrnet_w48_384x288,due stadi,s04,squat,50591643,ginocchio,sx,0.9938
+hrnet_w48_384x288,due stadi,s04,squat,50591643,anca,dx,0.9928
+hrnet_w48_384x288,due stadi,s04,squat,50591643,anca,sx,0.9919
+hrnet_w48_384x288,due stadi,s04,squat,50591643,gomito,dx,0.9799
+hrnet_w48_384x288,due stadi,s04,squat,50591643,gomito,sx,0.9865
+hrnet_w48_384x288,due stadi,s04,squat,58860488,ginocchio,dx,0.9913
+hrnet_w48_384x288,due stadi,s04,squat,58860488,ginocchio,sx,0.9908
+hrnet_w48_384x288,due stadi,s04,squat,58860488,anca,dx,0.9917
+hrnet_w48_384x288,due stadi,s04,squat,58860488,anca,sx,0.9928
+hrnet_w48_384x288,due stadi,s04,squat,58860488,gomito,dx,0.9841
+hrnet_w48_384x288,due stadi,s04,squat,58860488,gomito,sx,0.9813
+hrnet_w48_384x288,due stadi,s04,squat,60457274,ginocchio,dx,0.9609
+hrnet_w48_384x288,due stadi,s04,squat,60457274,ginocchio,sx,0.9859
+hrnet_w48_384x288,due stadi,s04,squat,60457274,anca,dx,0.995
+hrnet_w48_384x288,due stadi,s04,squat,60457274,anca,sx,0.9949
+hrnet_w48_384x288,due stadi,s04,squat,60457274,gomito,dx,0.9725
+hrnet_w48_384x288,due stadi,s04,squat,60457274,gomito,sx,0.9631
+hrnet_w48_384x288,due stadi,s04,squat,65906101,ginocchio,dx,0.9838
+hrnet_w48_384x288,due stadi,s04,squat,65906101,ginocchio,sx,0.9639
+hrnet_w48_384x288,due stadi,s04,squat,65906101,anca,dx,0.9928
+hrnet_w48_384x288,due stadi,s04,squat,65906101,anca,sx,0.9941
+hrnet_w48_384x288,due stadi,s04,squat,65906101,gomito,dx,0.9681
+hrnet_w48_384x288,due stadi,s04,squat,65906101,gomito,sx,0.9734
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,ginocchio,dx,0.9364
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,ginocchio,sx,0.976
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,anca,dx,0.984
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,anca,sx,0.9927
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,gomito,dx,0.772
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,gomito,sx,0.2019
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,ginocchio,dx,0.9726
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,ginocchio,sx,0.8806
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,anca,dx,0.9932
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,anca,sx,0.9876
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,gomito,dx,0.4109
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,gomito,sx,0.5255
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,ginocchio,dx,0.9876
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,ginocchio,sx,0.9875
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,anca,dx,0.9989
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,anca,sx,0.9986
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,gomito,dx,0.6293
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,gomito,sx,0.1956
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,ginocchio,dx,0.9826
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,ginocchio,sx,0.9806
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,anca,dx,0.9989
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,anca,sx,0.9989
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,gomito,dx,0.3957
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,gomito,sx,0.417
+hrnet_w48_384x288,due stadi,s05,squat,50591643,ginocchio,dx,0.9919
+hrnet_w48_384x288,due stadi,s05,squat,50591643,ginocchio,sx,0.9965
+hrnet_w48_384x288,due stadi,s05,squat,50591643,anca,dx,0.9883
+hrnet_w48_384x288,due stadi,s05,squat,50591643,anca,sx,0.9944
+hrnet_w48_384x288,due stadi,s05,squat,50591643,gomito,dx,0.9866
+hrnet_w48_384x288,due stadi,s05,squat,50591643,gomito,sx,0.9863
+hrnet_w48_384x288,due stadi,s05,squat,58860488,ginocchio,dx,0.996
+hrnet_w48_384x288,due stadi,s05,squat,58860488,ginocchio,sx,0.9897
+hrnet_w48_384x288,due stadi,s05,squat,58860488,anca,dx,0.995
+hrnet_w48_384x288,due stadi,s05,squat,58860488,anca,sx,0.9911
+hrnet_w48_384x288,due stadi,s05,squat,58860488,gomito,dx,0.9815
+hrnet_w48_384x288,due stadi,s05,squat,58860488,gomito,sx,0.9853
+hrnet_w48_384x288,due stadi,s05,squat,60457274,ginocchio,dx,0.9164
+hrnet_w48_384x288,due stadi,s05,squat,60457274,ginocchio,sx,0.9643
+hrnet_w48_384x288,due stadi,s05,squat,60457274,anca,dx,0.9837
+hrnet_w48_384x288,due stadi,s05,squat,60457274,anca,sx,0.9917
+hrnet_w48_384x288,due stadi,s05,squat,60457274,gomito,dx,0.9822
+hrnet_w48_384x288,due stadi,s05,squat,60457274,gomito,sx,0.9844
+hrnet_w48_384x288,due stadi,s05,squat,65906101,ginocchio,dx,0.9553
+hrnet_w48_384x288,due stadi,s05,squat,65906101,ginocchio,sx,0.9443
+hrnet_w48_384x288,due stadi,s05,squat,65906101,anca,dx,0.9922
+hrnet_w48_384x288,due stadi,s05,squat,65906101,anca,sx,0.9864
+hrnet_w48_384x288,due stadi,s05,squat,65906101,gomito,dx,0.9884
+hrnet_w48_384x288,due stadi,s05,squat,65906101,gomito,sx,0.9906
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,ginocchio,dx,0.9778
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,ginocchio,sx,0.9841
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,anca,dx,0.9862
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,anca,sx,0.9927
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,gomito,dx,0.4352
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,gomito,sx,0.2146
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,ginocchio,dx,0.9886
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,ginocchio,sx,0.9916
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,anca,dx,0.9953
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,anca,sx,0.9947
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,gomito,dx,-0.0164
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,gomito,sx,0.4629
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,ginocchio,dx,0.9876
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,ginocchio,sx,0.9828
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,anca,dx,0.9984
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,anca,sx,0.9982
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,gomito,dx,0.2257
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,gomito,sx,-0.0226
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,ginocchio,dx,0.9902
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,ginocchio,sx,0.988
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,anca,dx,0.9982
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,anca,sx,0.9976
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,gomito,dx,0.053
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,gomito,sx,0.3403
+hrnet_w48_384x288,due stadi,s07,squat,50591643,ginocchio,dx,0.9842
+hrnet_w48_384x288,due stadi,s07,squat,50591643,ginocchio,sx,0.9891
+hrnet_w48_384x288,due stadi,s07,squat,50591643,anca,dx,0.9897
+hrnet_w48_384x288,due stadi,s07,squat,50591643,anca,sx,0.9937
+hrnet_w48_384x288,due stadi,s07,squat,50591643,gomito,dx,0.9883
+hrnet_w48_384x288,due stadi,s07,squat,50591643,gomito,sx,0.982
+hrnet_w48_384x288,due stadi,s07,squat,58860488,ginocchio,dx,0.9861
+hrnet_w48_384x288,due stadi,s07,squat,58860488,ginocchio,sx,0.9829
+hrnet_w48_384x288,due stadi,s07,squat,58860488,anca,dx,0.9911
+hrnet_w48_384x288,due stadi,s07,squat,58860488,anca,sx,0.9836
+hrnet_w48_384x288,due stadi,s07,squat,58860488,gomito,dx,0.9861
+hrnet_w48_384x288,due stadi,s07,squat,58860488,gomito,sx,0.9891
+hrnet_w48_384x288,due stadi,s07,squat,60457274,ginocchio,dx,0.9336
+hrnet_w48_384x288,due stadi,s07,squat,60457274,ginocchio,sx,0.9657
+hrnet_w48_384x288,due stadi,s07,squat,60457274,anca,dx,0.993
+hrnet_w48_384x288,due stadi,s07,squat,60457274,anca,sx,0.9951
+hrnet_w48_384x288,due stadi,s07,squat,60457274,gomito,dx,0.9846
+hrnet_w48_384x288,due stadi,s07,squat,60457274,gomito,sx,0.9741
+hrnet_w48_384x288,due stadi,s07,squat,65906101,ginocchio,dx,0.9359
+hrnet_w48_384x288,due stadi,s07,squat,65906101,ginocchio,sx,0.904
+hrnet_w48_384x288,due stadi,s07,squat,65906101,anca,dx,0.994
+hrnet_w48_384x288,due stadi,s07,squat,65906101,anca,sx,0.994
+hrnet_w48_384x288,due stadi,s07,squat,65906101,gomito,dx,0.9804
+hrnet_w48_384x288,due stadi,s07,squat,65906101,gomito,sx,0.9875
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,ginocchio,dx,0.9521
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,ginocchio,sx,0.9529
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,anca,dx,0.9915
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,anca,sx,0.9902
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,gomito,dx,0.4736
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,gomito,sx,0.4509
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,ginocchio,dx,0.9354
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,ginocchio,sx,0.8922
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,anca,dx,0.9924
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,anca,sx,0.9901
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,gomito,dx,0.0405
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,gomito,sx,0.6543
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,ginocchio,dx,0.6731
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,ginocchio,sx,0.7889
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,anca,dx,0.9894
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,anca,sx,0.9868
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,gomito,dx,0.1598
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,gomito,sx,0.1385
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,ginocchio,dx,0.9038
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,ginocchio,sx,0.9214
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,anca,dx,0.9921
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,anca,sx,0.995
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,gomito,dx,0.3366
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,gomito,sx,0.5256
+hrnet_w48_384x288,due stadi,s08,squat,50591643,ginocchio,dx,0.9808
+hrnet_w48_384x288,due stadi,s08,squat,50591643,ginocchio,sx,0.9704
+hrnet_w48_384x288,due stadi,s08,squat,50591643,anca,dx,0.994
+hrnet_w48_384x288,due stadi,s08,squat,50591643,anca,sx,0.9921
+hrnet_w48_384x288,due stadi,s08,squat,50591643,gomito,dx,0.9744
+hrnet_w48_384x288,due stadi,s08,squat,50591643,gomito,sx,0.9892
+hrnet_w48_384x288,due stadi,s08,squat,58860488,ginocchio,dx,0.9615
+hrnet_w48_384x288,due stadi,s08,squat,58860488,ginocchio,sx,0.9717
+hrnet_w48_384x288,due stadi,s08,squat,58860488,anca,dx,0.9924
+hrnet_w48_384x288,due stadi,s08,squat,58860488,anca,sx,0.9883
+hrnet_w48_384x288,due stadi,s08,squat,58860488,gomito,dx,0.9715
+hrnet_w48_384x288,due stadi,s08,squat,58860488,gomito,sx,0.9797
+hrnet_w48_384x288,due stadi,s08,squat,60457274,ginocchio,dx,0.7494
+hrnet_w48_384x288,due stadi,s08,squat,60457274,ginocchio,sx,0.9265
+hrnet_w48_384x288,due stadi,s08,squat,60457274,anca,dx,0.9866
+hrnet_w48_384x288,due stadi,s08,squat,60457274,anca,sx,0.991
+hrnet_w48_384x288,due stadi,s08,squat,60457274,gomito,dx,0.7244
+hrnet_w48_384x288,due stadi,s08,squat,60457274,gomito,sx,0.8113
+hrnet_w48_384x288,due stadi,s08,squat,65906101,ginocchio,dx,0.8902
+hrnet_w48_384x288,due stadi,s08,squat,65906101,ginocchio,sx,0.8148
+hrnet_w48_384x288,due stadi,s08,squat,65906101,anca,dx,0.991
+hrnet_w48_384x288,due stadi,s08,squat,65906101,anca,sx,0.9863
+hrnet_w48_384x288,due stadi,s08,squat,65906101,gomito,dx,0.718
+hrnet_w48_384x288,due stadi,s08,squat,65906101,gomito,sx,0.7898
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,ginocchio,dx,0.9512
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,ginocchio,sx,0.9741
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,anca,dx,0.981
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,anca,sx,0.9949
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,gomito,dx,0.4103
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,gomito,sx,-0.1825
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,ginocchio,dx,0.9757
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,ginocchio,sx,0.9279
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,anca,dx,0.9963
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,anca,sx,0.993
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,gomito,dx,-0.5857
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,gomito,sx,0.3979
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,ginocchio,dx,0.9133
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,ginocchio,sx,0.9372
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,anca,dx,0.9969
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,anca,sx,0.9977
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,gomito,dx,-0.3967
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,gomito,sx,-0.1234
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,ginocchio,dx,0.9599
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,ginocchio,sx,0.9471
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,anca,dx,0.9968
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,anca,sx,0.9952
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,gomito,dx,-0.4675
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,gomito,sx,-0.246
+hrnet_w48_384x288,due stadi,s09,squat,50591643,ginocchio,dx,0.9817
+hrnet_w48_384x288,due stadi,s09,squat,50591643,ginocchio,sx,0.9864
+hrnet_w48_384x288,due stadi,s09,squat,50591643,anca,dx,0.9923
+hrnet_w48_384x288,due stadi,s09,squat,50591643,anca,sx,0.9971
+hrnet_w48_384x288,due stadi,s09,squat,50591643,gomito,dx,0.9761
+hrnet_w48_384x288,due stadi,s09,squat,50591643,gomito,sx,0.9927
+hrnet_w48_384x288,due stadi,s09,squat,58860488,ginocchio,dx,0.9786
+hrnet_w48_384x288,due stadi,s09,squat,58860488,ginocchio,sx,0.9747
+hrnet_w48_384x288,due stadi,s09,squat,58860488,anca,dx,0.9977
+hrnet_w48_384x288,due stadi,s09,squat,58860488,anca,sx,0.9911
+hrnet_w48_384x288,due stadi,s09,squat,58860488,gomito,dx,0.9908
+hrnet_w48_384x288,due stadi,s09,squat,58860488,gomito,sx,0.9766
+hrnet_w48_384x288,due stadi,s09,squat,60457274,ginocchio,dx,0.9192
+hrnet_w48_384x288,due stadi,s09,squat,60457274,ginocchio,sx,0.9838
+hrnet_w48_384x288,due stadi,s09,squat,60457274,anca,dx,0.9911
+hrnet_w48_384x288,due stadi,s09,squat,60457274,anca,sx,0.9952
+hrnet_w48_384x288,due stadi,s09,squat,60457274,gomito,dx,0.9891
+hrnet_w48_384x288,due stadi,s09,squat,60457274,gomito,sx,0.9891
+hrnet_w48_384x288,due stadi,s09,squat,65906101,ginocchio,dx,0.9726
+hrnet_w48_384x288,due stadi,s09,squat,65906101,ginocchio,sx,0.9386
+hrnet_w48_384x288,due stadi,s09,squat,65906101,anca,dx,0.9952
+hrnet_w48_384x288,due stadi,s09,squat,65906101,anca,sx,0.9938
+hrnet_w48_384x288,due stadi,s09,squat,65906101,gomito,dx,0.9878
+hrnet_w48_384x288,due stadi,s09,squat,65906101,gomito,sx,0.9879
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,ginocchio,dx,0.8871
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,ginocchio,sx,0.8912
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,anca,dx,0.9887
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,anca,sx,0.9966
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,gomito,dx,0.3225
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,gomito,sx,0.0327
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,ginocchio,dx,0.9036
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,ginocchio,sx,0.7867
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,anca,dx,0.9982
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,anca,sx,0.9949
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,gomito,dx,-0.012
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,gomito,sx,0.3373
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,ginocchio,dx,0.9684
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,ginocchio,sx,0.9803
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,anca,dx,0.9972
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,anca,sx,0.9974
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,gomito,dx,0.5532
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,gomito,sx,0.3267
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,ginocchio,dx,0.9815
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,ginocchio,sx,0.9848
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,anca,dx,0.9991
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,anca,sx,0.9982
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,gomito,dx,0.3426
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,gomito,sx,0.7506
+hrnet_w48_384x288,due stadi,s10,squat,50591643,ginocchio,dx,0.972
+hrnet_w48_384x288,due stadi,s10,squat,50591643,ginocchio,sx,0.9603
+hrnet_w48_384x288,due stadi,s10,squat,50591643,anca,dx,0.9916
+hrnet_w48_384x288,due stadi,s10,squat,50591643,anca,sx,0.9965
+hrnet_w48_384x288,due stadi,s10,squat,50591643,gomito,dx,0.9771
+hrnet_w48_384x288,due stadi,s10,squat,50591643,gomito,sx,0.9874
+hrnet_w48_384x288,due stadi,s10,squat,58860488,ginocchio,dx,0.9837
+hrnet_w48_384x288,due stadi,s10,squat,58860488,ginocchio,sx,0.958
+hrnet_w48_384x288,due stadi,s10,squat,58860488,anca,dx,0.9982
+hrnet_w48_384x288,due stadi,s10,squat,58860488,anca,sx,0.9947
+hrnet_w48_384x288,due stadi,s10,squat,58860488,gomito,dx,0.9851
+hrnet_w48_384x288,due stadi,s10,squat,58860488,gomito,sx,0.9811
+hrnet_w48_384x288,due stadi,s10,squat,60457274,ginocchio,dx,0.928
+hrnet_w48_384x288,due stadi,s10,squat,60457274,ginocchio,sx,0.9804
+hrnet_w48_384x288,due stadi,s10,squat,60457274,anca,dx,0.9938
+hrnet_w48_384x288,due stadi,s10,squat,60457274,anca,sx,0.9961
+hrnet_w48_384x288,due stadi,s10,squat,60457274,gomito,dx,0.9897
+hrnet_w48_384x288,due stadi,s10,squat,60457274,gomito,sx,0.9901
+hrnet_w48_384x288,due stadi,s10,squat,65906101,ginocchio,dx,0.9664
+hrnet_w48_384x288,due stadi,s10,squat,65906101,ginocchio,sx,0.96
+hrnet_w48_384x288,due stadi,s10,squat,65906101,anca,dx,0.9965
+hrnet_w48_384x288,due stadi,s10,squat,65906101,anca,sx,0.9952
+hrnet_w48_384x288,due stadi,s10,squat,65906101,gomito,dx,0.9897
+hrnet_w48_384x288,due stadi,s10,squat,65906101,gomito,sx,0.9927
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,ginocchio,dx,0.9745
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,ginocchio,sx,0.9824
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,anca,dx,0.9908
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,anca,sx,0.9975
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,gomito,dx,0.4255
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,gomito,sx,0.7758
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,ginocchio,dx,0.9659
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,ginocchio,sx,0.8748
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,anca,dx,0.9972
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,anca,sx,0.9896
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,gomito,dx,0.4829
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,gomito,sx,0.4685
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,ginocchio,dx,0.95
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,ginocchio,sx,0.9604
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,anca,dx,0.9968
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,anca,sx,0.9973
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,gomito,dx,0.863
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,gomito,sx,0.8645
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,ginocchio,dx,0.9775
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,ginocchio,sx,0.9582
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,anca,dx,0.9984
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,anca,sx,0.9977
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,gomito,dx,0.752
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,gomito,sx,0.8851
+hrnet_w48_384x288,due stadi,s11,squat,50591643,ginocchio,dx,0.9803
+hrnet_w48_384x288,due stadi,s11,squat,50591643,ginocchio,sx,0.9782
+hrnet_w48_384x288,due stadi,s11,squat,50591643,anca,dx,0.9861
+hrnet_w48_384x288,due stadi,s11,squat,50591643,anca,sx,0.9973
+hrnet_w48_384x288,due stadi,s11,squat,50591643,gomito,dx,0.9819
+hrnet_w48_384x288,due stadi,s11,squat,50591643,gomito,sx,0.993
+hrnet_w48_384x288,due stadi,s11,squat,58860488,ginocchio,dx,0.9824
+hrnet_w48_384x288,due stadi,s11,squat,58860488,ginocchio,sx,0.9694
+hrnet_w48_384x288,due stadi,s11,squat,58860488,anca,dx,0.9947
+hrnet_w48_384x288,due stadi,s11,squat,58860488,anca,sx,0.9816
+hrnet_w48_384x288,due stadi,s11,squat,58860488,gomito,dx,0.9919
+hrnet_w48_384x288,due stadi,s11,squat,58860488,gomito,sx,0.9651
+hrnet_w48_384x288,due stadi,s11,squat,60457274,ginocchio,dx,0.8209
+hrnet_w48_384x288,due stadi,s11,squat,60457274,ginocchio,sx,0.9611
+hrnet_w48_384x288,due stadi,s11,squat,60457274,anca,dx,0.9929
+hrnet_w48_384x288,due stadi,s11,squat,60457274,anca,sx,0.9946
+hrnet_w48_384x288,due stadi,s11,squat,60457274,gomito,dx,0.992
+hrnet_w48_384x288,due stadi,s11,squat,60457274,gomito,sx,0.9928
+hrnet_w48_384x288,due stadi,s11,squat,65906101,ginocchio,dx,0.9567
+hrnet_w48_384x288,due stadi,s11,squat,65906101,ginocchio,sx,0.9029
+hrnet_w48_384x288,due stadi,s11,squat,65906101,anca,dx,0.9935
+hrnet_w48_384x288,due stadi,s11,squat,65906101,anca,sx,0.9905
+hrnet_w48_384x288,due stadi,s11,squat,65906101,gomito,dx,0.9916
+hrnet_w48_384x288,due stadi,s11,squat,65906101,gomito,sx,0.9917
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,ginocchio,dx,0.9581
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,ginocchio,sx,0.9671
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,anca,dx,0.964
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,anca,sx,0.9906
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,gomito,dx,0.4206
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,gomito,sx,0.5897
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,ginocchio,dx,0.9775
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,ginocchio,sx,0.9423
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,anca,dx,0.9967
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,anca,sx,0.9907
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,gomito,dx,0.2604
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,gomito,sx,0.54
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,ginocchio,dx,0.9119
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,ginocchio,sx,0.9081
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,anca,dx,0.99
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,anca,sx,0.9961
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,gomito,dx,0.4051
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,gomito,sx,0.7194
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,ginocchio,dx,0.9193
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,ginocchio,sx,0.9368
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,anca,dx,0.9972
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,anca,sx,0.9898
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,gomito,dx,0.2728
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,gomito,sx,0.7611
+vitpose_plus_huge,due stadi,s03,squat,50591643,ginocchio,dx,0.9813
+vitpose_plus_huge,due stadi,s03,squat,50591643,ginocchio,sx,0.9799
+vitpose_plus_huge,due stadi,s03,squat,50591643,anca,dx,0.9913
+vitpose_plus_huge,due stadi,s03,squat,50591643,anca,sx,0.9968
+vitpose_plus_huge,due stadi,s03,squat,50591643,gomito,dx,0.9935
+vitpose_plus_huge,due stadi,s03,squat,50591643,gomito,sx,0.9927
+vitpose_plus_huge,due stadi,s03,squat,58860488,ginocchio,dx,0.9852
+vitpose_plus_huge,due stadi,s03,squat,58860488,ginocchio,sx,0.9648
+vitpose_plus_huge,due stadi,s03,squat,58860488,anca,dx,0.9962
+vitpose_plus_huge,due stadi,s03,squat,58860488,anca,sx,0.9946
+vitpose_plus_huge,due stadi,s03,squat,58860488,gomito,dx,0.988
+vitpose_plus_huge,due stadi,s03,squat,58860488,gomito,sx,0.9889
+vitpose_plus_huge,due stadi,s03,squat,60457274,ginocchio,dx,0.9203
+vitpose_plus_huge,due stadi,s03,squat,60457274,ginocchio,sx,0.9659
+vitpose_plus_huge,due stadi,s03,squat,60457274,anca,dx,0.9943
+vitpose_plus_huge,due stadi,s03,squat,60457274,anca,sx,0.9948
+vitpose_plus_huge,due stadi,s03,squat,60457274,gomito,dx,0.9804
+vitpose_plus_huge,due stadi,s03,squat,60457274,gomito,sx,0.9834
+vitpose_plus_huge,due stadi,s03,squat,65906101,ginocchio,dx,0.9552
+vitpose_plus_huge,due stadi,s03,squat,65906101,ginocchio,sx,0.9488
+vitpose_plus_huge,due stadi,s03,squat,65906101,anca,dx,0.9926
+vitpose_plus_huge,due stadi,s03,squat,65906101,anca,sx,0.9932
+vitpose_plus_huge,due stadi,s03,squat,65906101,gomito,dx,0.988
+vitpose_plus_huge,due stadi,s03,squat,65906101,gomito,sx,0.9809
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,ginocchio,dx,0.9599
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,ginocchio,sx,0.9642
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,anca,dx,0.9906
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,anca,sx,0.9966
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,gomito,dx,-0.0965
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,gomito,sx,0.0003
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,ginocchio,dx,0.935
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,ginocchio,sx,0.937
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,anca,dx,0.9881
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,anca,sx,0.9834
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,gomito,dx,-0.2947
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,gomito,sx,-0.2615
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,ginocchio,dx,0.9417
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,ginocchio,sx,0.96
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,anca,dx,0.9973
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,anca,sx,0.9941
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,gomito,dx,0.2715
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,gomito,sx,0.1018
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,ginocchio,dx,0.9197
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,ginocchio,sx,0.9441
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,anca,dx,0.9952
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,anca,sx,0.9946
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,gomito,dx,-0.0715
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,gomito,sx,0.3247
+vitpose_plus_huge,due stadi,s04,squat,50591643,ginocchio,dx,0.9933
+vitpose_plus_huge,due stadi,s04,squat,50591643,ginocchio,sx,0.9944
+vitpose_plus_huge,due stadi,s04,squat,50591643,anca,dx,0.9932
+vitpose_plus_huge,due stadi,s04,squat,50591643,anca,sx,0.9941
+vitpose_plus_huge,due stadi,s04,squat,50591643,gomito,dx,0.9782
+vitpose_plus_huge,due stadi,s04,squat,50591643,gomito,sx,0.9862
+vitpose_plus_huge,due stadi,s04,squat,58860488,ginocchio,dx,0.991
+vitpose_plus_huge,due stadi,s04,squat,58860488,ginocchio,sx,0.9928
+vitpose_plus_huge,due stadi,s04,squat,58860488,anca,dx,0.9914
+vitpose_plus_huge,due stadi,s04,squat,58860488,anca,sx,0.9925
+vitpose_plus_huge,due stadi,s04,squat,58860488,gomito,dx,0.9815
+vitpose_plus_huge,due stadi,s04,squat,58860488,gomito,sx,0.9862
+vitpose_plus_huge,due stadi,s04,squat,60457274,ginocchio,dx,0.9657
+vitpose_plus_huge,due stadi,s04,squat,60457274,ginocchio,sx,0.9879
+vitpose_plus_huge,due stadi,s04,squat,60457274,anca,dx,0.996
+vitpose_plus_huge,due stadi,s04,squat,60457274,anca,sx,0.9944
+vitpose_plus_huge,due stadi,s04,squat,60457274,gomito,dx,0.9717
+vitpose_plus_huge,due stadi,s04,squat,60457274,gomito,sx,0.97
+vitpose_plus_huge,due stadi,s04,squat,65906101,ginocchio,dx,0.9876
+vitpose_plus_huge,due stadi,s04,squat,65906101,ginocchio,sx,0.9704
+vitpose_plus_huge,due stadi,s04,squat,65906101,anca,dx,0.9937
+vitpose_plus_huge,due stadi,s04,squat,65906101,anca,sx,0.9939
+vitpose_plus_huge,due stadi,s04,squat,65906101,gomito,dx,0.9724
+vitpose_plus_huge,due stadi,s04,squat,65906101,gomito,sx,0.97
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,ginocchio,dx,0.9504
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,ginocchio,sx,0.9783
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,anca,dx,0.9854
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,anca,sx,0.9956
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,gomito,dx,0.8378
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,gomito,sx,0.3675
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,ginocchio,dx,0.9848
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,ginocchio,sx,0.967
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,anca,dx,0.9965
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,anca,sx,0.9936
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,gomito,dx,0.4606
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,gomito,sx,0.6222
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,ginocchio,dx,0.9844
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,ginocchio,sx,0.9862
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,anca,dx,0.9989
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,anca,sx,0.9983
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,gomito,dx,0.6746
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,gomito,sx,0.2814
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,ginocchio,dx,0.9808
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,ginocchio,sx,0.9882
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,anca,dx,0.9986
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,anca,sx,0.9989
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,gomito,dx,0.5003
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,gomito,sx,0.3894
+vitpose_plus_huge,due stadi,s05,squat,50591643,ginocchio,dx,0.9937
+vitpose_plus_huge,due stadi,s05,squat,50591643,ginocchio,sx,0.9926
+vitpose_plus_huge,due stadi,s05,squat,50591643,anca,dx,0.9881
+vitpose_plus_huge,due stadi,s05,squat,50591643,anca,sx,0.9939
+vitpose_plus_huge,due stadi,s05,squat,50591643,gomito,dx,0.99
+vitpose_plus_huge,due stadi,s05,squat,50591643,gomito,sx,0.9913
+vitpose_plus_huge,due stadi,s05,squat,58860488,ginocchio,dx,0.9945
+vitpose_plus_huge,due stadi,s05,squat,58860488,ginocchio,sx,0.9842
+vitpose_plus_huge,due stadi,s05,squat,58860488,anca,dx,0.995
+vitpose_plus_huge,due stadi,s05,squat,58860488,anca,sx,0.9902
+vitpose_plus_huge,due stadi,s05,squat,58860488,gomito,dx,0.9795
+vitpose_plus_huge,due stadi,s05,squat,58860488,gomito,sx,0.9919
+vitpose_plus_huge,due stadi,s05,squat,60457274,ginocchio,dx,0.931
+vitpose_plus_huge,due stadi,s05,squat,60457274,ginocchio,sx,0.9708
+vitpose_plus_huge,due stadi,s05,squat,60457274,anca,dx,0.9815
+vitpose_plus_huge,due stadi,s05,squat,60457274,anca,sx,0.9913
+vitpose_plus_huge,due stadi,s05,squat,60457274,gomito,dx,0.981
+vitpose_plus_huge,due stadi,s05,squat,60457274,gomito,sx,0.9854
+vitpose_plus_huge,due stadi,s05,squat,65906101,ginocchio,dx,0.9538
+vitpose_plus_huge,due stadi,s05,squat,65906101,ginocchio,sx,0.9486
+vitpose_plus_huge,due stadi,s05,squat,65906101,anca,dx,0.992
+vitpose_plus_huge,due stadi,s05,squat,65906101,anca,sx,0.9861
+vitpose_plus_huge,due stadi,s05,squat,65906101,gomito,dx,0.9874
+vitpose_plus_huge,due stadi,s05,squat,65906101,gomito,sx,0.9839
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,ginocchio,dx,0.9897
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,ginocchio,sx,0.991
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,anca,dx,0.9894
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,anca,sx,0.9954
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,gomito,dx,0.3767
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,gomito,sx,-0.0149
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,ginocchio,dx,0.9952
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,ginocchio,sx,0.9928
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,anca,dx,0.9973
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,anca,sx,0.9955
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,gomito,dx,-0.2373
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,gomito,sx,0.5469
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,ginocchio,dx,0.9773
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,ginocchio,sx,0.9806
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,anca,dx,0.998
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,anca,sx,0.9976
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,gomito,dx,0.0714
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,gomito,sx,0.0442
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,ginocchio,dx,0.9903
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,ginocchio,sx,0.9886
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,anca,dx,0.9981
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,anca,sx,0.9978
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,gomito,dx,0.0695
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,gomito,sx,0.2821
+vitpose_plus_huge,due stadi,s07,squat,50591643,ginocchio,dx,0.983
+vitpose_plus_huge,due stadi,s07,squat,50591643,ginocchio,sx,0.9862
+vitpose_plus_huge,due stadi,s07,squat,50591643,anca,dx,0.9898
+vitpose_plus_huge,due stadi,s07,squat,50591643,anca,sx,0.9928
+vitpose_plus_huge,due stadi,s07,squat,50591643,gomito,dx,0.9924
+vitpose_plus_huge,due stadi,s07,squat,50591643,gomito,sx,0.9777
+vitpose_plus_huge,due stadi,s07,squat,58860488,ginocchio,dx,0.9851
+vitpose_plus_huge,due stadi,s07,squat,58860488,ginocchio,sx,0.9858
+vitpose_plus_huge,due stadi,s07,squat,58860488,anca,dx,0.9934
+vitpose_plus_huge,due stadi,s07,squat,58860488,anca,sx,0.9924
+vitpose_plus_huge,due stadi,s07,squat,58860488,gomito,dx,0.9838
+vitpose_plus_huge,due stadi,s07,squat,58860488,gomito,sx,0.9921
+vitpose_plus_huge,due stadi,s07,squat,60457274,ginocchio,dx,0.9386
+vitpose_plus_huge,due stadi,s07,squat,60457274,ginocchio,sx,0.9638
+vitpose_plus_huge,due stadi,s07,squat,60457274,anca,dx,0.992
+vitpose_plus_huge,due stadi,s07,squat,60457274,anca,sx,0.991
+vitpose_plus_huge,due stadi,s07,squat,60457274,gomito,dx,0.9819
+vitpose_plus_huge,due stadi,s07,squat,60457274,gomito,sx,0.9812
+vitpose_plus_huge,due stadi,s07,squat,65906101,ginocchio,dx,0.9482
+vitpose_plus_huge,due stadi,s07,squat,65906101,ginocchio,sx,0.9224
+vitpose_plus_huge,due stadi,s07,squat,65906101,anca,dx,0.9951
+vitpose_plus_huge,due stadi,s07,squat,65906101,anca,sx,0.994
+vitpose_plus_huge,due stadi,s07,squat,65906101,gomito,dx,0.9823
+vitpose_plus_huge,due stadi,s07,squat,65906101,gomito,sx,0.9846
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,ginocchio,dx,0.9391
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,ginocchio,sx,0.9541
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,anca,dx,0.995
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,anca,sx,0.9918
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,gomito,dx,0.4976
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,gomito,sx,0.4551
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,ginocchio,dx,0.9491
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,ginocchio,sx,0.9399
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,anca,dx,0.9914
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,anca,sx,0.9927
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,gomito,dx,0.1676
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,gomito,sx,0.7874
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,ginocchio,dx,0.6704
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,ginocchio,sx,0.8035
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,anca,dx,0.9887
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,anca,sx,0.9857
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,gomito,dx,0.1814
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,gomito,sx,0.0979
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,ginocchio,dx,0.8961
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,ginocchio,sx,0.9144
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,anca,dx,0.9919
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,anca,sx,0.9946
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,gomito,dx,0.2644
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,gomito,sx,0.5665
+vitpose_plus_huge,due stadi,s08,squat,50591643,ginocchio,dx,0.9807
+vitpose_plus_huge,due stadi,s08,squat,50591643,ginocchio,sx,0.9739
+vitpose_plus_huge,due stadi,s08,squat,50591643,anca,dx,0.9907
+vitpose_plus_huge,due stadi,s08,squat,50591643,anca,sx,0.9913
+vitpose_plus_huge,due stadi,s08,squat,50591643,gomito,dx,0.9797
+vitpose_plus_huge,due stadi,s08,squat,50591643,gomito,sx,0.9835
+vitpose_plus_huge,due stadi,s08,squat,58860488,ginocchio,dx,0.9628
+vitpose_plus_huge,due stadi,s08,squat,58860488,ginocchio,sx,0.9686
+vitpose_plus_huge,due stadi,s08,squat,58860488,anca,dx,0.9922
+vitpose_plus_huge,due stadi,s08,squat,58860488,anca,sx,0.9881
+vitpose_plus_huge,due stadi,s08,squat,58860488,gomito,dx,0.9708
+vitpose_plus_huge,due stadi,s08,squat,58860488,gomito,sx,0.9841
+vitpose_plus_huge,due stadi,s08,squat,60457274,ginocchio,dx,0.7937
+vitpose_plus_huge,due stadi,s08,squat,60457274,ginocchio,sx,0.9238
+vitpose_plus_huge,due stadi,s08,squat,60457274,anca,dx,0.9886
+vitpose_plus_huge,due stadi,s08,squat,60457274,anca,sx,0.9907
+vitpose_plus_huge,due stadi,s08,squat,60457274,gomito,dx,0.7959
+vitpose_plus_huge,due stadi,s08,squat,60457274,gomito,sx,0.917
+vitpose_plus_huge,due stadi,s08,squat,65906101,ginocchio,dx,0.9267
+vitpose_plus_huge,due stadi,s08,squat,65906101,ginocchio,sx,0.8547
+vitpose_plus_huge,due stadi,s08,squat,65906101,anca,dx,0.9943
+vitpose_plus_huge,due stadi,s08,squat,65906101,anca,sx,0.9918
+vitpose_plus_huge,due stadi,s08,squat,65906101,gomito,dx,0.8973
+vitpose_plus_huge,due stadi,s08,squat,65906101,gomito,sx,0.8806
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,ginocchio,dx,0.9726
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,ginocchio,sx,0.9783
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,anca,dx,0.98
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,anca,sx,0.9964
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,gomito,dx,0.5299
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,gomito,sx,-0.1331
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,ginocchio,dx,0.9784
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,ginocchio,sx,0.9275
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,anca,dx,0.9962
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,anca,sx,0.9916
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,gomito,dx,-0.6198
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,gomito,sx,0.3524
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,ginocchio,dx,0.8836
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,ginocchio,sx,0.9244
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,anca,dx,0.9933
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,anca,sx,0.9958
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,gomito,dx,-0.4119
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,gomito,sx,-0.0722
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,ginocchio,dx,0.9643
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,ginocchio,sx,0.9564
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,anca,dx,0.9971
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,anca,sx,0.9945
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,gomito,dx,-0.5384
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,gomito,sx,-0.0861
+vitpose_plus_huge,due stadi,s09,squat,50591643,ginocchio,dx,0.9898
+vitpose_plus_huge,due stadi,s09,squat,50591643,ginocchio,sx,0.9871
+vitpose_plus_huge,due stadi,s09,squat,50591643,anca,dx,0.9893
+vitpose_plus_huge,due stadi,s09,squat,50591643,anca,sx,0.9969
+vitpose_plus_huge,due stadi,s09,squat,50591643,gomito,dx,0.9803
+vitpose_plus_huge,due stadi,s09,squat,50591643,gomito,sx,0.9895
+vitpose_plus_huge,due stadi,s09,squat,58860488,ginocchio,dx,0.9814
+vitpose_plus_huge,due stadi,s09,squat,58860488,ginocchio,sx,0.9818
+vitpose_plus_huge,due stadi,s09,squat,58860488,anca,dx,0.998
+vitpose_plus_huge,due stadi,s09,squat,58860488,anca,sx,0.9956
+vitpose_plus_huge,due stadi,s09,squat,58860488,gomito,dx,0.987
+vitpose_plus_huge,due stadi,s09,squat,58860488,gomito,sx,0.9825
+vitpose_plus_huge,due stadi,s09,squat,60457274,ginocchio,dx,0.9007
+vitpose_plus_huge,due stadi,s09,squat,60457274,ginocchio,sx,0.9686
+vitpose_plus_huge,due stadi,s09,squat,60457274,anca,dx,0.9855
+vitpose_plus_huge,due stadi,s09,squat,60457274,anca,sx,0.9908
+vitpose_plus_huge,due stadi,s09,squat,60457274,gomito,dx,0.9801
+vitpose_plus_huge,due stadi,s09,squat,60457274,gomito,sx,0.9878
+vitpose_plus_huge,due stadi,s09,squat,65906101,ginocchio,dx,0.9715
+vitpose_plus_huge,due stadi,s09,squat,65906101,ginocchio,sx,0.9535
+vitpose_plus_huge,due stadi,s09,squat,65906101,anca,dx,0.9947
+vitpose_plus_huge,due stadi,s09,squat,65906101,anca,sx,0.9914
+vitpose_plus_huge,due stadi,s09,squat,65906101,gomito,dx,0.9884
+vitpose_plus_huge,due stadi,s09,squat,65906101,gomito,sx,0.9858
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,ginocchio,dx,0.9284
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,ginocchio,sx,0.9298
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,anca,dx,0.9915
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,anca,sx,0.9977
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,gomito,dx,0.3601
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,gomito,sx,0.1266
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,ginocchio,dx,0.9247
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,ginocchio,sx,0.8579
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,anca,dx,0.998
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,anca,sx,0.9944
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,gomito,dx,-0.1355
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,gomito,sx,0.5723
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,ginocchio,dx,0.9719
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,ginocchio,sx,0.9701
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,anca,dx,0.9972
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,anca,sx,0.9961
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,gomito,dx,0.7847
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,gomito,sx,0.4166
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,ginocchio,dx,0.9702
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,ginocchio,sx,0.9856
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,anca,dx,0.998
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,anca,sx,0.9987
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,gomito,dx,0.3168
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,gomito,sx,0.7303
+vitpose_plus_huge,due stadi,s10,squat,50591643,ginocchio,dx,0.9854
+vitpose_plus_huge,due stadi,s10,squat,50591643,ginocchio,sx,0.9761
+vitpose_plus_huge,due stadi,s10,squat,50591643,anca,dx,0.9893
+vitpose_plus_huge,due stadi,s10,squat,50591643,anca,sx,0.9971
+vitpose_plus_huge,due stadi,s10,squat,50591643,gomito,dx,0.9806
+vitpose_plus_huge,due stadi,s10,squat,50591643,gomito,sx,0.9889
+vitpose_plus_huge,due stadi,s10,squat,58860488,ginocchio,dx,0.9891
+vitpose_plus_huge,due stadi,s10,squat,58860488,ginocchio,sx,0.9738
+vitpose_plus_huge,due stadi,s10,squat,58860488,anca,dx,0.9976
+vitpose_plus_huge,due stadi,s10,squat,58860488,anca,sx,0.9959
+vitpose_plus_huge,due stadi,s10,squat,58860488,gomito,dx,0.9845
+vitpose_plus_huge,due stadi,s10,squat,58860488,gomito,sx,0.9837
+vitpose_plus_huge,due stadi,s10,squat,60457274,ginocchio,dx,0.9541
+vitpose_plus_huge,due stadi,s10,squat,60457274,ginocchio,sx,0.9876
+vitpose_plus_huge,due stadi,s10,squat,60457274,anca,dx,0.9962
+vitpose_plus_huge,due stadi,s10,squat,60457274,anca,sx,0.9959
+vitpose_plus_huge,due stadi,s10,squat,60457274,gomito,dx,0.988
+vitpose_plus_huge,due stadi,s10,squat,60457274,gomito,sx,0.9897
+vitpose_plus_huge,due stadi,s10,squat,65906101,ginocchio,dx,0.9883
+vitpose_plus_huge,due stadi,s10,squat,65906101,ginocchio,sx,0.9846
+vitpose_plus_huge,due stadi,s10,squat,65906101,anca,dx,0.9977
+vitpose_plus_huge,due stadi,s10,squat,65906101,anca,sx,0.9972
+vitpose_plus_huge,due stadi,s10,squat,65906101,gomito,dx,0.9912
+vitpose_plus_huge,due stadi,s10,squat,65906101,gomito,sx,0.9907
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,ginocchio,dx,0.9785
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,ginocchio,sx,0.9854
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,anca,dx,0.9924
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,anca,sx,0.9981
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,gomito,dx,0.313
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,gomito,sx,0.8741
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,ginocchio,dx,0.9768
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,ginocchio,sx,0.9559
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,anca,dx,0.9977
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,anca,sx,0.9939
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,gomito,dx,0.5793
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,gomito,sx,0.7878
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,ginocchio,dx,0.9543
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,ginocchio,sx,0.9622
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,anca,dx,0.9986
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,anca,sx,0.9968
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,gomito,dx,0.8415
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,gomito,sx,0.8281
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,ginocchio,dx,0.9738
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,ginocchio,sx,0.9732
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,anca,dx,0.9973
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,anca,sx,0.9983
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,gomito,dx,0.7182
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,gomito,sx,0.8577
+vitpose_plus_huge,due stadi,s11,squat,50591643,ginocchio,dx,0.9856
+vitpose_plus_huge,due stadi,s11,squat,50591643,ginocchio,sx,0.9852
+vitpose_plus_huge,due stadi,s11,squat,50591643,anca,dx,0.9871
+vitpose_plus_huge,due stadi,s11,squat,50591643,anca,sx,0.9969
+vitpose_plus_huge,due stadi,s11,squat,50591643,gomito,dx,0.9827
+vitpose_plus_huge,due stadi,s11,squat,50591643,gomito,sx,0.9936
+vitpose_plus_huge,due stadi,s11,squat,58860488,ginocchio,dx,0.9801
+vitpose_plus_huge,due stadi,s11,squat,58860488,ginocchio,sx,0.9585
+vitpose_plus_huge,due stadi,s11,squat,58860488,anca,dx,0.9967
+vitpose_plus_huge,due stadi,s11,squat,58860488,anca,sx,0.9907
+vitpose_plus_huge,due stadi,s11,squat,58860488,gomito,dx,0.9899
+vitpose_plus_huge,due stadi,s11,squat,58860488,gomito,sx,0.9687
+vitpose_plus_huge,due stadi,s11,squat,60457274,ginocchio,dx,0.8241
+vitpose_plus_huge,due stadi,s11,squat,60457274,ginocchio,sx,0.9732
+vitpose_plus_huge,due stadi,s11,squat,60457274,anca,dx,0.9932
+vitpose_plus_huge,due stadi,s11,squat,60457274,anca,sx,0.9946
+vitpose_plus_huge,due stadi,s11,squat,60457274,gomito,dx,0.9904
+vitpose_plus_huge,due stadi,s11,squat,60457274,gomito,sx,0.9928
+vitpose_plus_huge,due stadi,s11,squat,65906101,ginocchio,dx,0.9732
+vitpose_plus_huge,due stadi,s11,squat,65906101,ginocchio,sx,0.9416
+vitpose_plus_huge,due stadi,s11,squat,65906101,anca,dx,0.9955
+vitpose_plus_huge,due stadi,s11,squat,65906101,anca,sx,0.9926
+vitpose_plus_huge,due stadi,s11,squat,65906101,gomito,dx,0.9916
+vitpose_plus_huge,due stadi,s11,squat,65906101,gomito,sx,0.9916
+yolo26x_pose,due stadi,s03,deadlift,50591643,ginocchio,dx,0.942
+yolo26x_pose,due stadi,s03,deadlift,50591643,ginocchio,sx,0.9585
+yolo26x_pose,due stadi,s03,deadlift,50591643,anca,dx,0.9704
+yolo26x_pose,due stadi,s03,deadlift,50591643,anca,sx,0.9917
+yolo26x_pose,due stadi,s03,deadlift,50591643,gomito,dx,-0.0432
+yolo26x_pose,due stadi,s03,deadlift,50591643,gomito,sx,0.3822
+yolo26x_pose,due stadi,s03,deadlift,58860488,ginocchio,dx,0.9808
+yolo26x_pose,due stadi,s03,deadlift,58860488,ginocchio,sx,0.9481
+yolo26x_pose,due stadi,s03,deadlift,58860488,anca,dx,0.998
+yolo26x_pose,due stadi,s03,deadlift,58860488,anca,sx,0.9932
+yolo26x_pose,due stadi,s03,deadlift,58860488,gomito,dx,0.2476
+yolo26x_pose,due stadi,s03,deadlift,58860488,gomito,sx,-0.2228
+yolo26x_pose,due stadi,s03,deadlift,60457274,ginocchio,dx,0.9367
+yolo26x_pose,due stadi,s03,deadlift,60457274,ginocchio,sx,0.94
+yolo26x_pose,due stadi,s03,deadlift,60457274,anca,dx,0.9906
+yolo26x_pose,due stadi,s03,deadlift,60457274,anca,sx,0.9961
+yolo26x_pose,due stadi,s03,deadlift,60457274,gomito,dx,0.3853
+yolo26x_pose,due stadi,s03,deadlift,60457274,gomito,sx,0.7335
+yolo26x_pose,due stadi,s03,deadlift,65906101,ginocchio,dx,0.9132
+yolo26x_pose,due stadi,s03,deadlift,65906101,ginocchio,sx,0.9403
+yolo26x_pose,due stadi,s03,deadlift,65906101,anca,dx,0.9969
+yolo26x_pose,due stadi,s03,deadlift,65906101,anca,sx,0.9911
+yolo26x_pose,due stadi,s03,deadlift,65906101,gomito,dx,0.41
+yolo26x_pose,due stadi,s03,deadlift,65906101,gomito,sx,0.7352
+yolo26x_pose,due stadi,s03,squat,50591643,ginocchio,dx,0.9764
+yolo26x_pose,due stadi,s03,squat,50591643,ginocchio,sx,0.9823
+yolo26x_pose,due stadi,s03,squat,50591643,anca,dx,0.9818
+yolo26x_pose,due stadi,s03,squat,50591643,anca,sx,0.995
+yolo26x_pose,due stadi,s03,squat,50591643,gomito,dx,0.9958
+yolo26x_pose,due stadi,s03,squat,50591643,gomito,sx,0.9944
+yolo26x_pose,due stadi,s03,squat,58860488,ginocchio,dx,0.9867
+yolo26x_pose,due stadi,s03,squat,58860488,ginocchio,sx,0.9646
+yolo26x_pose,due stadi,s03,squat,58860488,anca,dx,0.9975
+yolo26x_pose,due stadi,s03,squat,58860488,anca,sx,0.9956
+yolo26x_pose,due stadi,s03,squat,58860488,gomito,dx,0.9913
+yolo26x_pose,due stadi,s03,squat,58860488,gomito,sx,0.9937
+yolo26x_pose,due stadi,s03,squat,60457274,ginocchio,dx,0.9416
+yolo26x_pose,due stadi,s03,squat,60457274,ginocchio,sx,0.971
+yolo26x_pose,due stadi,s03,squat,60457274,anca,dx,0.9916
+yolo26x_pose,due stadi,s03,squat,60457274,anca,sx,0.9931
+yolo26x_pose,due stadi,s03,squat,60457274,gomito,dx,0.9825
+yolo26x_pose,due stadi,s03,squat,60457274,gomito,sx,0.9769
+yolo26x_pose,due stadi,s03,squat,65906101,ginocchio,dx,0.9669
+yolo26x_pose,due stadi,s03,squat,65906101,ginocchio,sx,0.9567
+yolo26x_pose,due stadi,s03,squat,65906101,anca,dx,0.9911
+yolo26x_pose,due stadi,s03,squat,65906101,anca,sx,0.9916
+yolo26x_pose,due stadi,s03,squat,65906101,gomito,dx,0.9864
+yolo26x_pose,due stadi,s03,squat,65906101,gomito,sx,0.9833
+yolo26x_pose,due stadi,s04,deadlift,50591643,ginocchio,dx,0.9054
+yolo26x_pose,due stadi,s04,deadlift,50591643,ginocchio,sx,0.8943
+yolo26x_pose,due stadi,s04,deadlift,50591643,anca,dx,0.9852
+yolo26x_pose,due stadi,s04,deadlift,50591643,anca,sx,0.9821
+yolo26x_pose,due stadi,s04,deadlift,50591643,gomito,dx,0.207
+yolo26x_pose,due stadi,s04,deadlift,50591643,gomito,sx,0.0637
+yolo26x_pose,due stadi,s04,deadlift,58860488,ginocchio,dx,0.8129
+yolo26x_pose,due stadi,s04,deadlift,58860488,ginocchio,sx,0.851
+yolo26x_pose,due stadi,s04,deadlift,58860488,anca,dx,0.9841
+yolo26x_pose,due stadi,s04,deadlift,58860488,anca,sx,0.9756
+yolo26x_pose,due stadi,s04,deadlift,58860488,gomito,dx,0.289
+yolo26x_pose,due stadi,s04,deadlift,58860488,gomito,sx,0.2953
+yolo26x_pose,due stadi,s04,deadlift,60457274,ginocchio,dx,0.5887
+yolo26x_pose,due stadi,s04,deadlift,60457274,ginocchio,sx,0.6408
+yolo26x_pose,due stadi,s04,deadlift,60457274,anca,dx,0.9552
+yolo26x_pose,due stadi,s04,deadlift,60457274,anca,sx,0.9274
+yolo26x_pose,due stadi,s04,deadlift,60457274,gomito,dx,0.0094
+yolo26x_pose,due stadi,s04,deadlift,60457274,gomito,sx,-0.1998
+yolo26x_pose,due stadi,s04,deadlift,65906101,ginocchio,dx,0.7841
+yolo26x_pose,due stadi,s04,deadlift,65906101,ginocchio,sx,0.5213
+yolo26x_pose,due stadi,s04,deadlift,65906101,anca,dx,0.952
+yolo26x_pose,due stadi,s04,deadlift,65906101,anca,sx,0.9451
+yolo26x_pose,due stadi,s04,deadlift,65906101,gomito,dx,-0.3812
+yolo26x_pose,due stadi,s04,deadlift,65906101,gomito,sx,0.4304
+yolo26x_pose,due stadi,s04,squat,50591643,ginocchio,dx,0.9899
+yolo26x_pose,due stadi,s04,squat,50591643,ginocchio,sx,0.9914
+yolo26x_pose,due stadi,s04,squat,50591643,anca,dx,0.9848
+yolo26x_pose,due stadi,s04,squat,50591643,anca,sx,0.9847
+yolo26x_pose,due stadi,s04,squat,50591643,gomito,dx,0.9838
+yolo26x_pose,due stadi,s04,squat,50591643,gomito,sx,0.9818
+yolo26x_pose,due stadi,s04,squat,58860488,ginocchio,dx,0.9894
+yolo26x_pose,due stadi,s04,squat,58860488,ginocchio,sx,0.9901
+yolo26x_pose,due stadi,s04,squat,58860488,anca,dx,0.9951
+yolo26x_pose,due stadi,s04,squat,58860488,anca,sx,0.9962
+yolo26x_pose,due stadi,s04,squat,58860488,gomito,dx,0.9811
+yolo26x_pose,due stadi,s04,squat,58860488,gomito,sx,0.9865
+yolo26x_pose,due stadi,s04,squat,60457274,ginocchio,dx,0.9793
+yolo26x_pose,due stadi,s04,squat,60457274,ginocchio,sx,0.9874
+yolo26x_pose,due stadi,s04,squat,60457274,anca,dx,0.9794
+yolo26x_pose,due stadi,s04,squat,60457274,anca,sx,0.9721
+yolo26x_pose,due stadi,s04,squat,60457274,gomito,dx,0.9593
+yolo26x_pose,due stadi,s04,squat,60457274,gomito,sx,0.945
+yolo26x_pose,due stadi,s04,squat,65906101,ginocchio,dx,0.9923
+yolo26x_pose,due stadi,s04,squat,65906101,ginocchio,sx,0.9862
+yolo26x_pose,due stadi,s04,squat,65906101,anca,dx,0.995
+yolo26x_pose,due stadi,s04,squat,65906101,anca,sx,0.9965
+yolo26x_pose,due stadi,s04,squat,65906101,gomito,dx,0.9759
+yolo26x_pose,due stadi,s04,squat,65906101,gomito,sx,0.9754
+yolo26x_pose,due stadi,s05,deadlift,50591643,ginocchio,dx,0.9433
+yolo26x_pose,due stadi,s05,deadlift,50591643,ginocchio,sx,0.985
+yolo26x_pose,due stadi,s05,deadlift,50591643,anca,dx,0.9879
+yolo26x_pose,due stadi,s05,deadlift,50591643,anca,sx,0.9961
+yolo26x_pose,due stadi,s05,deadlift,50591643,gomito,dx,0.5907
+yolo26x_pose,due stadi,s05,deadlift,50591643,gomito,sx,0.4159
+yolo26x_pose,due stadi,s05,deadlift,58860488,ginocchio,dx,0.9771
+yolo26x_pose,due stadi,s05,deadlift,58860488,ginocchio,sx,0.9458
+yolo26x_pose,due stadi,s05,deadlift,58860488,anca,dx,0.9958
+yolo26x_pose,due stadi,s05,deadlift,58860488,anca,sx,0.9949
+yolo26x_pose,due stadi,s05,deadlift,58860488,gomito,dx,0.4849
+yolo26x_pose,due stadi,s05,deadlift,58860488,gomito,sx,0.4126
+yolo26x_pose,due stadi,s05,deadlift,60457274,ginocchio,dx,0.9578
+yolo26x_pose,due stadi,s05,deadlift,60457274,ginocchio,sx,0.981
+yolo26x_pose,due stadi,s05,deadlift,60457274,anca,dx,0.9979
+yolo26x_pose,due stadi,s05,deadlift,60457274,anca,sx,0.9975
+yolo26x_pose,due stadi,s05,deadlift,60457274,gomito,dx,0.627
+yolo26x_pose,due stadi,s05,deadlift,60457274,gomito,sx,0.0755
+yolo26x_pose,due stadi,s05,deadlift,65906101,ginocchio,dx,0.9778
+yolo26x_pose,due stadi,s05,deadlift,65906101,ginocchio,sx,0.9867
+yolo26x_pose,due stadi,s05,deadlift,65906101,anca,dx,0.9985
+yolo26x_pose,due stadi,s05,deadlift,65906101,anca,sx,0.9986
+yolo26x_pose,due stadi,s05,deadlift,65906101,gomito,dx,0.1733
+yolo26x_pose,due stadi,s05,deadlift,65906101,gomito,sx,0.3106
+yolo26x_pose,due stadi,s05,squat,50591643,ginocchio,dx,0.9922
+yolo26x_pose,due stadi,s05,squat,50591643,ginocchio,sx,0.9958
+yolo26x_pose,due stadi,s05,squat,50591643,anca,dx,0.9844
+yolo26x_pose,due stadi,s05,squat,50591643,anca,sx,0.9925
+yolo26x_pose,due stadi,s05,squat,50591643,gomito,dx,0.9907
+yolo26x_pose,due stadi,s05,squat,50591643,gomito,sx,0.9934
+yolo26x_pose,due stadi,s05,squat,58860488,ginocchio,dx,0.9954
+yolo26x_pose,due stadi,s05,squat,58860488,ginocchio,sx,0.9902
+yolo26x_pose,due stadi,s05,squat,58860488,anca,dx,0.9946
+yolo26x_pose,due stadi,s05,squat,58860488,anca,sx,0.9925
+yolo26x_pose,due stadi,s05,squat,58860488,gomito,dx,0.9846
+yolo26x_pose,due stadi,s05,squat,58860488,gomito,sx,0.9908
+yolo26x_pose,due stadi,s05,squat,60457274,ginocchio,dx,0.9272
+yolo26x_pose,due stadi,s05,squat,60457274,ginocchio,sx,0.972
+yolo26x_pose,due stadi,s05,squat,60457274,anca,dx,0.9855
+yolo26x_pose,due stadi,s05,squat,60457274,anca,sx,0.9903
+yolo26x_pose,due stadi,s05,squat,60457274,gomito,dx,0.9857
+yolo26x_pose,due stadi,s05,squat,60457274,gomito,sx,0.9806
+yolo26x_pose,due stadi,s05,squat,65906101,ginocchio,dx,0.9587
+yolo26x_pose,due stadi,s05,squat,65906101,ginocchio,sx,0.9569
+yolo26x_pose,due stadi,s05,squat,65906101,anca,dx,0.9925
+yolo26x_pose,due stadi,s05,squat,65906101,anca,sx,0.9899
+yolo26x_pose,due stadi,s05,squat,65906101,gomito,dx,0.9818
+yolo26x_pose,due stadi,s05,squat,65906101,gomito,sx,0.9863
+yolo26x_pose,due stadi,s07,deadlift,50591643,ginocchio,dx,0.98
+yolo26x_pose,due stadi,s07,deadlift,50591643,ginocchio,sx,0.9708
+yolo26x_pose,due stadi,s07,deadlift,50591643,anca,dx,0.9671
+yolo26x_pose,due stadi,s07,deadlift,50591643,anca,sx,0.9871
+yolo26x_pose,due stadi,s07,deadlift,50591643,gomito,dx,0.3145
+yolo26x_pose,due stadi,s07,deadlift,50591643,gomito,sx,-0.0219
+yolo26x_pose,due stadi,s07,deadlift,58860488,ginocchio,dx,0.9705
+yolo26x_pose,due stadi,s07,deadlift,58860488,ginocchio,sx,0.9663
+yolo26x_pose,due stadi,s07,deadlift,58860488,anca,dx,0.988
+yolo26x_pose,due stadi,s07,deadlift,58860488,anca,sx,0.9797
+yolo26x_pose,due stadi,s07,deadlift,58860488,gomito,dx,-0.2809
+yolo26x_pose,due stadi,s07,deadlift,58860488,gomito,sx,0.2582
+yolo26x_pose,due stadi,s07,deadlift,60457274,ginocchio,dx,0.5318
+yolo26x_pose,due stadi,s07,deadlift,60457274,ginocchio,sx,0.8751
+yolo26x_pose,due stadi,s07,deadlift,60457274,anca,dx,0.9233
+yolo26x_pose,due stadi,s07,deadlift,60457274,anca,sx,0.9127
+yolo26x_pose,due stadi,s07,deadlift,60457274,gomito,dx,0.1874
+yolo26x_pose,due stadi,s07,deadlift,60457274,gomito,sx,0.1098
+yolo26x_pose,due stadi,s07,deadlift,65906101,ginocchio,dx,0.8819
+yolo26x_pose,due stadi,s07,deadlift,65906101,ginocchio,sx,0.8625
+yolo26x_pose,due stadi,s07,deadlift,65906101,anca,dx,0.964
+yolo26x_pose,due stadi,s07,deadlift,65906101,anca,sx,0.9564
+yolo26x_pose,due stadi,s07,deadlift,65906101,gomito,dx,0.2682
+yolo26x_pose,due stadi,s07,deadlift,65906101,gomito,sx,0.1854
+yolo26x_pose,due stadi,s07,squat,50591643,ginocchio,dx,0.9807
+yolo26x_pose,due stadi,s07,squat,50591643,ginocchio,sx,0.9885
+yolo26x_pose,due stadi,s07,squat,50591643,anca,dx,0.9869
+yolo26x_pose,due stadi,s07,squat,50591643,anca,sx,0.9936
+yolo26x_pose,due stadi,s07,squat,50591643,gomito,dx,0.9896
+yolo26x_pose,due stadi,s07,squat,50591643,gomito,sx,0.9872
+yolo26x_pose,due stadi,s07,squat,58860488,ginocchio,dx,0.9794
+yolo26x_pose,due stadi,s07,squat,58860488,ginocchio,sx,0.9837
+yolo26x_pose,due stadi,s07,squat,58860488,anca,dx,0.9917
+yolo26x_pose,due stadi,s07,squat,58860488,anca,sx,0.9883
+yolo26x_pose,due stadi,s07,squat,58860488,gomito,dx,0.9864
+yolo26x_pose,due stadi,s07,squat,58860488,gomito,sx,0.9845
+yolo26x_pose,due stadi,s07,squat,60457274,ginocchio,dx,0.935
+yolo26x_pose,due stadi,s07,squat,60457274,ginocchio,sx,0.9636
+yolo26x_pose,due stadi,s07,squat,60457274,anca,dx,0.9933
+yolo26x_pose,due stadi,s07,squat,60457274,anca,sx,0.995
+yolo26x_pose,due stadi,s07,squat,60457274,gomito,dx,0.9868
+yolo26x_pose,due stadi,s07,squat,60457274,gomito,sx,0.9799
+yolo26x_pose,due stadi,s07,squat,65906101,ginocchio,dx,0.9222
+yolo26x_pose,due stadi,s07,squat,65906101,ginocchio,sx,0.8928
+yolo26x_pose,due stadi,s07,squat,65906101,anca,dx,0.994
+yolo26x_pose,due stadi,s07,squat,65906101,anca,sx,0.9939
+yolo26x_pose,due stadi,s07,squat,65906101,gomito,dx,0.981
+yolo26x_pose,due stadi,s07,squat,65906101,gomito,sx,0.9838
+yolo26x_pose,due stadi,s08,deadlift,50591643,ginocchio,dx,0.9286
+yolo26x_pose,due stadi,s08,deadlift,50591643,ginocchio,sx,0.955
+yolo26x_pose,due stadi,s08,deadlift,50591643,anca,dx,0.9952
+yolo26x_pose,due stadi,s08,deadlift,50591643,anca,sx,0.9924
+yolo26x_pose,due stadi,s08,deadlift,50591643,gomito,dx,0.371
+yolo26x_pose,due stadi,s08,deadlift,50591643,gomito,sx,0.4367
+yolo26x_pose,due stadi,s08,deadlift,58860488,ginocchio,dx,0.9566
+yolo26x_pose,due stadi,s08,deadlift,58860488,ginocchio,sx,0.9411
+yolo26x_pose,due stadi,s08,deadlift,58860488,anca,dx,0.994
+yolo26x_pose,due stadi,s08,deadlift,58860488,anca,sx,0.9955
+yolo26x_pose,due stadi,s08,deadlift,58860488,gomito,dx,0.1891
+yolo26x_pose,due stadi,s08,deadlift,58860488,gomito,sx,0.5611
+yolo26x_pose,due stadi,s08,deadlift,60457274,ginocchio,dx,0.3472
+yolo26x_pose,due stadi,s08,deadlift,60457274,ginocchio,sx,0.632
+yolo26x_pose,due stadi,s08,deadlift,60457274,anca,dx,0.9888
+yolo26x_pose,due stadi,s08,deadlift,60457274,anca,sx,0.9861
+yolo26x_pose,due stadi,s08,deadlift,60457274,gomito,dx,0.1797
+yolo26x_pose,due stadi,s08,deadlift,60457274,gomito,sx,0.1171
+yolo26x_pose,due stadi,s08,deadlift,65906101,ginocchio,dx,0.8691
+yolo26x_pose,due stadi,s08,deadlift,65906101,ginocchio,sx,0.8912
+yolo26x_pose,due stadi,s08,deadlift,65906101,anca,dx,0.9929
+yolo26x_pose,due stadi,s08,deadlift,65906101,anca,sx,0.9945
+yolo26x_pose,due stadi,s08,deadlift,65906101,gomito,dx,0.1739
+yolo26x_pose,due stadi,s08,deadlift,65906101,gomito,sx,0.4893
+yolo26x_pose,due stadi,s08,squat,50591643,ginocchio,dx,0.9845
+yolo26x_pose,due stadi,s08,squat,50591643,ginocchio,sx,0.9799
+yolo26x_pose,due stadi,s08,squat,50591643,anca,dx,0.9904
+yolo26x_pose,due stadi,s08,squat,50591643,anca,sx,0.9926
+yolo26x_pose,due stadi,s08,squat,50591643,gomito,dx,0.9748
+yolo26x_pose,due stadi,s08,squat,50591643,gomito,sx,0.9878
+yolo26x_pose,due stadi,s08,squat,58860488,ginocchio,dx,0.9666
+yolo26x_pose,due stadi,s08,squat,58860488,ginocchio,sx,0.9753
+yolo26x_pose,due stadi,s08,squat,58860488,anca,dx,0.9915
+yolo26x_pose,due stadi,s08,squat,58860488,anca,sx,0.9843
+yolo26x_pose,due stadi,s08,squat,58860488,gomito,dx,0.9772
+yolo26x_pose,due stadi,s08,squat,58860488,gomito,sx,0.9825
+yolo26x_pose,due stadi,s08,squat,60457274,ginocchio,dx,0.7332
+yolo26x_pose,due stadi,s08,squat,60457274,ginocchio,sx,0.8984
+yolo26x_pose,due stadi,s08,squat,60457274,anca,dx,0.9888
+yolo26x_pose,due stadi,s08,squat,60457274,anca,sx,0.9904
+yolo26x_pose,due stadi,s08,squat,60457274,gomito,dx,0.761
+yolo26x_pose,due stadi,s08,squat,60457274,gomito,sx,0.7593
+yolo26x_pose,due stadi,s08,squat,65906101,ginocchio,dx,0.8999
+yolo26x_pose,due stadi,s08,squat,65906101,ginocchio,sx,0.8325
+yolo26x_pose,due stadi,s08,squat,65906101,anca,dx,0.9883
+yolo26x_pose,due stadi,s08,squat,65906101,anca,sx,0.9843
+yolo26x_pose,due stadi,s08,squat,65906101,gomito,dx,0.6913
+yolo26x_pose,due stadi,s08,squat,65906101,gomito,sx,0.7838
+yolo26x_pose,due stadi,s09,deadlift,50591643,ginocchio,dx,0.9585
+yolo26x_pose,due stadi,s09,deadlift,50591643,ginocchio,sx,0.964
+yolo26x_pose,due stadi,s09,deadlift,50591643,anca,dx,0.9778
+yolo26x_pose,due stadi,s09,deadlift,50591643,anca,sx,0.9957
+yolo26x_pose,due stadi,s09,deadlift,50591643,gomito,dx,0.4746
+yolo26x_pose,due stadi,s09,deadlift,50591643,gomito,sx,-0.3779
+yolo26x_pose,due stadi,s09,deadlift,58860488,ginocchio,dx,0.979
+yolo26x_pose,due stadi,s09,deadlift,58860488,ginocchio,sx,0.9407
+yolo26x_pose,due stadi,s09,deadlift,58860488,anca,dx,0.9981
+yolo26x_pose,due stadi,s09,deadlift,58860488,anca,sx,0.9956
+yolo26x_pose,due stadi,s09,deadlift,58860488,gomito,dx,-0.5998
+yolo26x_pose,due stadi,s09,deadlift,58860488,gomito,sx,0.1485
+yolo26x_pose,due stadi,s09,deadlift,60457274,ginocchio,dx,0.8738
+yolo26x_pose,due stadi,s09,deadlift,60457274,ginocchio,sx,0.8639
+yolo26x_pose,due stadi,s09,deadlift,60457274,anca,dx,0.9951
+yolo26x_pose,due stadi,s09,deadlift,60457274,anca,sx,0.9964
+yolo26x_pose,due stadi,s09,deadlift,60457274,gomito,dx,-0.3977
+yolo26x_pose,due stadi,s09,deadlift,60457274,gomito,sx,-0.1408
+yolo26x_pose,due stadi,s09,deadlift,65906101,ginocchio,dx,0.9511
+yolo26x_pose,due stadi,s09,deadlift,65906101,ginocchio,sx,0.9422
+yolo26x_pose,due stadi,s09,deadlift,65906101,anca,dx,0.9972
+yolo26x_pose,due stadi,s09,deadlift,65906101,anca,sx,0.9966
+yolo26x_pose,due stadi,s09,deadlift,65906101,gomito,dx,-0.4796
+yolo26x_pose,due stadi,s09,deadlift,65906101,gomito,sx,-0.1207
+yolo26x_pose,due stadi,s09,squat,50591643,ginocchio,dx,0.9866
+yolo26x_pose,due stadi,s09,squat,50591643,ginocchio,sx,0.9891
+yolo26x_pose,due stadi,s09,squat,50591643,anca,dx,0.9845
+yolo26x_pose,due stadi,s09,squat,50591643,anca,sx,0.9959
+yolo26x_pose,due stadi,s09,squat,50591643,gomito,dx,0.977
+yolo26x_pose,due stadi,s09,squat,50591643,gomito,sx,0.9925
+yolo26x_pose,due stadi,s09,squat,58860488,ginocchio,dx,0.9847
+yolo26x_pose,due stadi,s09,squat,58860488,ginocchio,sx,0.982
+yolo26x_pose,due stadi,s09,squat,58860488,anca,dx,0.9977
+yolo26x_pose,due stadi,s09,squat,58860488,anca,sx,0.9929
+yolo26x_pose,due stadi,s09,squat,58860488,gomito,dx,0.9873
+yolo26x_pose,due stadi,s09,squat,58860488,gomito,sx,0.9812
+yolo26x_pose,due stadi,s09,squat,60457274,ginocchio,dx,0.9287
+yolo26x_pose,due stadi,s09,squat,60457274,ginocchio,sx,0.9711
+yolo26x_pose,due stadi,s09,squat,60457274,anca,dx,0.9881
+yolo26x_pose,due stadi,s09,squat,60457274,anca,sx,0.9936
+yolo26x_pose,due stadi,s09,squat,60457274,gomito,dx,0.985
+yolo26x_pose,due stadi,s09,squat,60457274,gomito,sx,0.985
+yolo26x_pose,due stadi,s09,squat,65906101,ginocchio,dx,0.9631
+yolo26x_pose,due stadi,s09,squat,65906101,ginocchio,sx,0.8959
+yolo26x_pose,due stadi,s09,squat,65906101,anca,dx,0.9919
+yolo26x_pose,due stadi,s09,squat,65906101,anca,sx,0.9929
+yolo26x_pose,due stadi,s09,squat,65906101,gomito,dx,0.9847
+yolo26x_pose,due stadi,s09,squat,65906101,gomito,sx,0.9816
+yolo26x_pose,due stadi,s10,deadlift,50591643,ginocchio,dx,0.9547
+yolo26x_pose,due stadi,s10,deadlift,50591643,ginocchio,sx,0.9597
+yolo26x_pose,due stadi,s10,deadlift,50591643,anca,dx,0.9916
+yolo26x_pose,due stadi,s10,deadlift,50591643,anca,sx,0.9964
+yolo26x_pose,due stadi,s10,deadlift,50591643,gomito,dx,-0.0128
+yolo26x_pose,due stadi,s10,deadlift,50591643,gomito,sx,-0.0802
+yolo26x_pose,due stadi,s10,deadlift,58860488,ginocchio,dx,0.9516
+yolo26x_pose,due stadi,s10,deadlift,58860488,ginocchio,sx,0.8861
+yolo26x_pose,due stadi,s10,deadlift,58860488,anca,dx,0.998
+yolo26x_pose,due stadi,s10,deadlift,58860488,anca,sx,0.9956
+yolo26x_pose,due stadi,s10,deadlift,58860488,gomito,dx,0.3111
+yolo26x_pose,due stadi,s10,deadlift,58860488,gomito,sx,0.2101
+yolo26x_pose,due stadi,s10,deadlift,60457274,ginocchio,dx,0.9739
+yolo26x_pose,due stadi,s10,deadlift,60457274,ginocchio,sx,0.984
+yolo26x_pose,due stadi,s10,deadlift,60457274,anca,dx,0.9973
+yolo26x_pose,due stadi,s10,deadlift,60457274,anca,sx,0.9978
+yolo26x_pose,due stadi,s10,deadlift,60457274,gomito,dx,0.4754
+yolo26x_pose,due stadi,s10,deadlift,60457274,gomito,sx,0.249
+yolo26x_pose,due stadi,s10,deadlift,65906101,ginocchio,dx,0.9631
+yolo26x_pose,due stadi,s10,deadlift,65906101,ginocchio,sx,0.9819
+yolo26x_pose,due stadi,s10,deadlift,65906101,anca,dx,0.9979
+yolo26x_pose,due stadi,s10,deadlift,65906101,anca,sx,0.9981
+yolo26x_pose,due stadi,s10,deadlift,65906101,gomito,dx,0.1881
+yolo26x_pose,due stadi,s10,deadlift,65906101,gomito,sx,0.6559
+yolo26x_pose,due stadi,s10,squat,50591643,ginocchio,dx,0.985
+yolo26x_pose,due stadi,s10,squat,50591643,ginocchio,sx,0.9806
+yolo26x_pose,due stadi,s10,squat,50591643,anca,dx,0.9905
+yolo26x_pose,due stadi,s10,squat,50591643,anca,sx,0.9973
+yolo26x_pose,due stadi,s10,squat,50591643,gomito,dx,0.9801
+yolo26x_pose,due stadi,s10,squat,50591643,gomito,sx,0.9883
+yolo26x_pose,due stadi,s10,squat,58860488,ginocchio,dx,0.9875
+yolo26x_pose,due stadi,s10,squat,58860488,ginocchio,sx,0.9713
+yolo26x_pose,due stadi,s10,squat,58860488,anca,dx,0.998
+yolo26x_pose,due stadi,s10,squat,58860488,anca,sx,0.9967
+yolo26x_pose,due stadi,s10,squat,58860488,gomito,dx,0.9821
+yolo26x_pose,due stadi,s10,squat,58860488,gomito,sx,0.9826
+yolo26x_pose,due stadi,s10,squat,60457274,ginocchio,dx,0.9328
+yolo26x_pose,due stadi,s10,squat,60457274,ginocchio,sx,0.9869
+yolo26x_pose,due stadi,s10,squat,60457274,anca,dx,0.9961
+yolo26x_pose,due stadi,s10,squat,60457274,anca,sx,0.9968
+yolo26x_pose,due stadi,s10,squat,60457274,gomito,dx,0.9895
+yolo26x_pose,due stadi,s10,squat,60457274,gomito,sx,0.9851
+yolo26x_pose,due stadi,s10,squat,65906101,ginocchio,dx,0.9784
+yolo26x_pose,due stadi,s10,squat,65906101,ginocchio,sx,0.9799
+yolo26x_pose,due stadi,s10,squat,65906101,anca,dx,0.9974
+yolo26x_pose,due stadi,s10,squat,65906101,anca,sx,0.9974
+yolo26x_pose,due stadi,s10,squat,65906101,gomito,dx,0.9898
+yolo26x_pose,due stadi,s10,squat,65906101,gomito,sx,0.9905
+yolo26x_pose,due stadi,s11,deadlift,50591643,ginocchio,dx,0.9597
+yolo26x_pose,due stadi,s11,deadlift,50591643,ginocchio,sx,0.9652
+yolo26x_pose,due stadi,s11,deadlift,50591643,anca,dx,0.9907
+yolo26x_pose,due stadi,s11,deadlift,50591643,anca,sx,0.9976
+yolo26x_pose,due stadi,s11,deadlift,50591643,gomito,dx,-0.0325
+yolo26x_pose,due stadi,s11,deadlift,50591643,gomito,sx,0.7818
+yolo26x_pose,due stadi,s11,deadlift,58860488,ginocchio,dx,0.9729
+yolo26x_pose,due stadi,s11,deadlift,58860488,ginocchio,sx,0.9378
+yolo26x_pose,due stadi,s11,deadlift,58860488,anca,dx,0.9974
+yolo26x_pose,due stadi,s11,deadlift,58860488,anca,sx,0.9947
+yolo26x_pose,due stadi,s11,deadlift,58860488,gomito,dx,0.5948
+yolo26x_pose,due stadi,s11,deadlift,58860488,gomito,sx,0.068
+yolo26x_pose,due stadi,s11,deadlift,60457274,ginocchio,dx,0.9593
+yolo26x_pose,due stadi,s11,deadlift,60457274,ginocchio,sx,0.9547
+yolo26x_pose,due stadi,s11,deadlift,60457274,anca,dx,0.9984
+yolo26x_pose,due stadi,s11,deadlift,60457274,anca,sx,0.9976
+yolo26x_pose,due stadi,s11,deadlift,60457274,gomito,dx,0.7893
+yolo26x_pose,due stadi,s11,deadlift,60457274,gomito,sx,0.8031
+yolo26x_pose,due stadi,s11,deadlift,65906101,ginocchio,dx,0.9852
+yolo26x_pose,due stadi,s11,deadlift,65906101,ginocchio,sx,0.971
+yolo26x_pose,due stadi,s11,deadlift,65906101,anca,dx,0.9988
+yolo26x_pose,due stadi,s11,deadlift,65906101,anca,sx,0.998
+yolo26x_pose,due stadi,s11,deadlift,65906101,gomito,dx,0.7055
+yolo26x_pose,due stadi,s11,deadlift,65906101,gomito,sx,0.8873
+yolo26x_pose,due stadi,s11,squat,50591643,ginocchio,dx,0.987
+yolo26x_pose,due stadi,s11,squat,50591643,ginocchio,sx,0.9843
+yolo26x_pose,due stadi,s11,squat,50591643,anca,dx,0.9821
+yolo26x_pose,due stadi,s11,squat,50591643,anca,sx,0.9966
+yolo26x_pose,due stadi,s11,squat,50591643,gomito,dx,0.9866
+yolo26x_pose,due stadi,s11,squat,50591643,gomito,sx,0.9934
+yolo26x_pose,due stadi,s11,squat,58860488,ginocchio,dx,0.9856
+yolo26x_pose,due stadi,s11,squat,58860488,ginocchio,sx,0.9669
+yolo26x_pose,due stadi,s11,squat,58860488,anca,dx,0.9957
+yolo26x_pose,due stadi,s11,squat,58860488,anca,sx,0.9857
+yolo26x_pose,due stadi,s11,squat,58860488,gomito,dx,0.9883
+yolo26x_pose,due stadi,s11,squat,58860488,gomito,sx,0.9806
+yolo26x_pose,due stadi,s11,squat,60457274,ginocchio,dx,0.8461
+yolo26x_pose,due stadi,s11,squat,60457274,ginocchio,sx,0.9633
+yolo26x_pose,due stadi,s11,squat,60457274,anca,dx,0.9945
+yolo26x_pose,due stadi,s11,squat,60457274,anca,sx,0.9949
+yolo26x_pose,due stadi,s11,squat,60457274,gomito,dx,0.9875
+yolo26x_pose,due stadi,s11,squat,60457274,gomito,sx,0.992
+yolo26x_pose,due stadi,s11,squat,65906101,ginocchio,dx,0.958
+yolo26x_pose,due stadi,s11,squat,65906101,ginocchio,sx,0.9109
+yolo26x_pose,due stadi,s11,squat,65906101,anca,dx,0.9947
+yolo26x_pose,due stadi,s11,squat,65906101,anca,sx,0.9939
+yolo26x_pose,due stadi,s11,squat,65906101,gomito,dx,0.9892
+yolo26x_pose,due stadi,s11,squat,65906101,gomito,sx,0.9911
+blazepose_heavy,end-to-end,s03,deadlift,50591643,ginocchio,dx,0.6964
+blazepose_heavy,end-to-end,s03,deadlift,50591643,ginocchio,sx,0.9458
+blazepose_heavy,end-to-end,s03,deadlift,50591643,anca,dx,0.6342
+blazepose_heavy,end-to-end,s03,deadlift,50591643,anca,sx,0.861
+blazepose_heavy,end-to-end,s03,deadlift,50591643,gomito,dx,0.088
+blazepose_heavy,end-to-end,s03,deadlift,50591643,gomito,sx,-0.2021
+blazepose_heavy,end-to-end,s03,deadlift,58860488,ginocchio,dx,0.9536
+blazepose_heavy,end-to-end,s03,deadlift,58860488,ginocchio,sx,0.9001
+blazepose_heavy,end-to-end,s03,deadlift,58860488,anca,dx,0.9848
+blazepose_heavy,end-to-end,s03,deadlift,58860488,anca,sx,0.9457
+blazepose_heavy,end-to-end,s03,deadlift,58860488,gomito,dx,-0.2683
+blazepose_heavy,end-to-end,s03,deadlift,58860488,gomito,sx,0.0332
+blazepose_heavy,end-to-end,s03,deadlift,60457274,ginocchio,dx,0.9095
+blazepose_heavy,end-to-end,s03,deadlift,60457274,ginocchio,sx,0.8789
+blazepose_heavy,end-to-end,s03,deadlift,60457274,anca,dx,0.9889
+blazepose_heavy,end-to-end,s03,deadlift,60457274,anca,sx,0.9898
+blazepose_heavy,end-to-end,s03,deadlift,60457274,gomito,dx,0.3108
+blazepose_heavy,end-to-end,s03,deadlift,60457274,gomito,sx,0.5745
+blazepose_heavy,end-to-end,s03,deadlift,65906101,ginocchio,dx,0.9508
+blazepose_heavy,end-to-end,s03,deadlift,65906101,ginocchio,sx,0.8745
+blazepose_heavy,end-to-end,s03,deadlift,65906101,anca,dx,0.9904
+blazepose_heavy,end-to-end,s03,deadlift,65906101,anca,sx,0.9815
+blazepose_heavy,end-to-end,s03,deadlift,65906101,gomito,dx,-0.0839
+blazepose_heavy,end-to-end,s03,deadlift,65906101,gomito,sx,0.5859
+blazepose_heavy,end-to-end,s03,squat,50591643,ginocchio,dx,0.8281
+blazepose_heavy,end-to-end,s03,squat,50591643,ginocchio,sx,0.9653
+blazepose_heavy,end-to-end,s03,squat,50591643,anca,dx,0.8545
+blazepose_heavy,end-to-end,s03,squat,50591643,anca,sx,0.9061
+blazepose_heavy,end-to-end,s03,squat,50591643,gomito,dx,0.9545
+blazepose_heavy,end-to-end,s03,squat,50591643,gomito,sx,0.9042
+blazepose_heavy,end-to-end,s03,squat,58860488,ginocchio,dx,0.967
+blazepose_heavy,end-to-end,s03,squat,58860488,ginocchio,sx,0.8556
+blazepose_heavy,end-to-end,s03,squat,58860488,anca,dx,0.9798
+blazepose_heavy,end-to-end,s03,squat,58860488,anca,sx,0.9265
+blazepose_heavy,end-to-end,s03,squat,58860488,gomito,dx,0.9736
+blazepose_heavy,end-to-end,s03,squat,58860488,gomito,sx,0.9275
+blazepose_heavy,end-to-end,s03,squat,60457274,ginocchio,dx,0.9588
+blazepose_heavy,end-to-end,s03,squat,60457274,ginocchio,sx,0.9475
+blazepose_heavy,end-to-end,s03,squat,60457274,anca,dx,0.9725
+blazepose_heavy,end-to-end,s03,squat,60457274,anca,sx,0.9761
+blazepose_heavy,end-to-end,s03,squat,60457274,gomito,dx,0.9724
+blazepose_heavy,end-to-end,s03,squat,60457274,gomito,sx,0.9762
+blazepose_heavy,end-to-end,s03,squat,65906101,ginocchio,dx,0.8965
+blazepose_heavy,end-to-end,s03,squat,65906101,ginocchio,sx,0.8616
+blazepose_heavy,end-to-end,s03,squat,65906101,anca,dx,0.9743
+blazepose_heavy,end-to-end,s03,squat,65906101,anca,sx,0.9618
+blazepose_heavy,end-to-end,s03,squat,65906101,gomito,dx,0.9626
+blazepose_heavy,end-to-end,s03,squat,65906101,gomito,sx,0.9838
+blazepose_heavy,end-to-end,s04,deadlift,50591643,ginocchio,dx,0.648
+blazepose_heavy,end-to-end,s04,deadlift,50591643,ginocchio,sx,0.897
+blazepose_heavy,end-to-end,s04,deadlift,50591643,anca,dx,0.9284
+blazepose_heavy,end-to-end,s04,deadlift,50591643,anca,sx,0.9603
+blazepose_heavy,end-to-end,s04,deadlift,50591643,gomito,dx,-0.1031
+blazepose_heavy,end-to-end,s04,deadlift,50591643,gomito,sx,-0.1631
+blazepose_heavy,end-to-end,s04,deadlift,58860488,ginocchio,dx,0.3158
+blazepose_heavy,end-to-end,s04,deadlift,58860488,ginocchio,sx,0.2395
+blazepose_heavy,end-to-end,s04,deadlift,58860488,anca,dx,0.6852
+blazepose_heavy,end-to-end,s04,deadlift,58860488,anca,sx,0.622
+blazepose_heavy,end-to-end,s04,deadlift,58860488,gomito,dx,0.044
+blazepose_heavy,end-to-end,s04,deadlift,58860488,gomito,sx,0.1628
+blazepose_heavy,end-to-end,s04,deadlift,60457274,ginocchio,dx,0.5995
+blazepose_heavy,end-to-end,s04,deadlift,60457274,ginocchio,sx,0.4928
+blazepose_heavy,end-to-end,s04,deadlift,60457274,anca,dx,0.9523
+blazepose_heavy,end-to-end,s04,deadlift,60457274,anca,sx,0.9475
+blazepose_heavy,end-to-end,s04,deadlift,60457274,gomito,dx,-0.0496
+blazepose_heavy,end-to-end,s04,deadlift,60457274,gomito,sx,-0.1677
+blazepose_heavy,end-to-end,s04,deadlift,65906101,ginocchio,dx,0.3657
+blazepose_heavy,end-to-end,s04,deadlift,65906101,ginocchio,sx,0.083
+blazepose_heavy,end-to-end,s04,deadlift,65906101,anca,dx,0.9672
+blazepose_heavy,end-to-end,s04,deadlift,65906101,anca,sx,0.9628
+blazepose_heavy,end-to-end,s04,deadlift,65906101,gomito,dx,-0.3471
+blazepose_heavy,end-to-end,s04,deadlift,65906101,gomito,sx,0.1688
+blazepose_heavy,end-to-end,s04,squat,50591643,ginocchio,dx,0.7919
+blazepose_heavy,end-to-end,s04,squat,50591643,ginocchio,sx,0.9841
+blazepose_heavy,end-to-end,s04,squat,50591643,anca,dx,0.9667
+blazepose_heavy,end-to-end,s04,squat,50591643,anca,sx,0.9895
+blazepose_heavy,end-to-end,s04,squat,50591643,gomito,dx,0.9675
+blazepose_heavy,end-to-end,s04,squat,50591643,gomito,sx,0.8978
+blazepose_heavy,end-to-end,s04,squat,58860488,ginocchio,dx,0.7618
+blazepose_heavy,end-to-end,s04,squat,58860488,ginocchio,sx,0.6314
+blazepose_heavy,end-to-end,s04,squat,58860488,anca,dx,0.7271
+blazepose_heavy,end-to-end,s04,squat,58860488,anca,sx,0.5913
+blazepose_heavy,end-to-end,s04,squat,58860488,gomito,dx,0.8961
+blazepose_heavy,end-to-end,s04,squat,58860488,gomito,sx,0.8879
+blazepose_heavy,end-to-end,s04,squat,60457274,ginocchio,dx,0.9175
+blazepose_heavy,end-to-end,s04,squat,60457274,ginocchio,sx,0.8724
+blazepose_heavy,end-to-end,s04,squat,60457274,anca,dx,0.6259
+blazepose_heavy,end-to-end,s04,squat,60457274,anca,sx,0.651
+blazepose_heavy,end-to-end,s04,squat,60457274,gomito,dx,0.9504
+blazepose_heavy,end-to-end,s04,squat,60457274,gomito,sx,0.9626
+blazepose_heavy,end-to-end,s04,squat,65906101,ginocchio,dx,0.8923
+blazepose_heavy,end-to-end,s04,squat,65906101,ginocchio,sx,0.8987
+blazepose_heavy,end-to-end,s04,squat,65906101,anca,dx,0.9655
+blazepose_heavy,end-to-end,s04,squat,65906101,anca,sx,0.9588
+blazepose_heavy,end-to-end,s04,squat,65906101,gomito,dx,0.9432
+blazepose_heavy,end-to-end,s04,squat,65906101,gomito,sx,0.9724
+blazepose_heavy,end-to-end,s05,deadlift,50591643,ginocchio,dx,0.8825
+blazepose_heavy,end-to-end,s05,deadlift,50591643,ginocchio,sx,0.925
+blazepose_heavy,end-to-end,s05,deadlift,50591643,anca,dx,0.947
+blazepose_heavy,end-to-end,s05,deadlift,50591643,anca,sx,0.9818
+blazepose_heavy,end-to-end,s05,deadlift,50591643,gomito,dx,0.3212
+blazepose_heavy,end-to-end,s05,deadlift,50591643,gomito,sx,0.1593
+blazepose_heavy,end-to-end,s05,deadlift,58860488,ginocchio,dx,0.9707
+blazepose_heavy,end-to-end,s05,deadlift,58860488,ginocchio,sx,0.695
+blazepose_heavy,end-to-end,s05,deadlift,58860488,anca,dx,0.9931
+blazepose_heavy,end-to-end,s05,deadlift,58860488,anca,sx,0.982
+blazepose_heavy,end-to-end,s05,deadlift,58860488,gomito,dx,0.2831
+blazepose_heavy,end-to-end,s05,deadlift,58860488,gomito,sx,0.0827
+blazepose_heavy,end-to-end,s05,deadlift,60457274,ginocchio,dx,0.7989
+blazepose_heavy,end-to-end,s05,deadlift,60457274,ginocchio,sx,0.4948
+blazepose_heavy,end-to-end,s05,deadlift,60457274,anca,dx,0.9692
+blazepose_heavy,end-to-end,s05,deadlift,60457274,anca,sx,0.9806
+blazepose_heavy,end-to-end,s05,deadlift,60457274,gomito,dx,0.0032
+blazepose_heavy,end-to-end,s05,deadlift,60457274,gomito,sx,0.1896
+blazepose_heavy,end-to-end,s05,deadlift,65906101,ginocchio,dx,0.9118
+blazepose_heavy,end-to-end,s05,deadlift,65906101,ginocchio,sx,0.8534
+blazepose_heavy,end-to-end,s05,deadlift,65906101,anca,dx,0.9927
+blazepose_heavy,end-to-end,s05,deadlift,65906101,anca,sx,0.9908
+blazepose_heavy,end-to-end,s05,deadlift,65906101,gomito,dx,0.2191
+blazepose_heavy,end-to-end,s05,deadlift,65906101,gomito,sx,0.573
+blazepose_heavy,end-to-end,s05,squat,50591643,ginocchio,dx,0.8458
+blazepose_heavy,end-to-end,s05,squat,50591643,ginocchio,sx,0.9849
+blazepose_heavy,end-to-end,s05,squat,50591643,anca,dx,0.9406
+blazepose_heavy,end-to-end,s05,squat,50591643,anca,sx,0.9797
+blazepose_heavy,end-to-end,s05,squat,50591643,gomito,dx,0.9384
+blazepose_heavy,end-to-end,s05,squat,50591643,gomito,sx,0.8498
+blazepose_heavy,end-to-end,s05,squat,58860488,ginocchio,dx,0.985
+blazepose_heavy,end-to-end,s05,squat,58860488,ginocchio,sx,0.8687
+blazepose_heavy,end-to-end,s05,squat,58860488,anca,dx,0.9602
+blazepose_heavy,end-to-end,s05,squat,58860488,anca,sx,0.8863
+blazepose_heavy,end-to-end,s05,squat,58860488,gomito,dx,0.9611
+blazepose_heavy,end-to-end,s05,squat,58860488,gomito,sx,0.9313
+blazepose_heavy,end-to-end,s05,squat,60457274,ginocchio,dx,0.942
+blazepose_heavy,end-to-end,s05,squat,60457274,ginocchio,sx,0.9819
+blazepose_heavy,end-to-end,s05,squat,60457274,anca,dx,0.929
+blazepose_heavy,end-to-end,s05,squat,60457274,anca,sx,0.9703
+blazepose_heavy,end-to-end,s05,squat,60457274,gomito,dx,0.9705
+blazepose_heavy,end-to-end,s05,squat,60457274,gomito,sx,0.9813
+blazepose_heavy,end-to-end,s05,squat,65906101,ginocchio,dx,0.975
+blazepose_heavy,end-to-end,s05,squat,65906101,ginocchio,sx,0.976
+blazepose_heavy,end-to-end,s05,squat,65906101,anca,dx,0.9805
+blazepose_heavy,end-to-end,s05,squat,65906101,anca,sx,0.9497
+blazepose_heavy,end-to-end,s05,squat,65906101,gomito,dx,0.9609
+blazepose_heavy,end-to-end,s05,squat,65906101,gomito,sx,0.9827
+blazepose_heavy,end-to-end,s07,deadlift,50591643,ginocchio,dx,0.9034
+blazepose_heavy,end-to-end,s07,deadlift,50591643,ginocchio,sx,0.9619
+blazepose_heavy,end-to-end,s07,deadlift,50591643,anca,dx,0.959
+blazepose_heavy,end-to-end,s07,deadlift,50591643,anca,sx,0.9936
+blazepose_heavy,end-to-end,s07,deadlift,50591643,gomito,dx,0.3426
+blazepose_heavy,end-to-end,s07,deadlift,50591643,gomito,sx,0.0778
+blazepose_heavy,end-to-end,s07,deadlift,58860488,ginocchio,dx,0.9614
+blazepose_heavy,end-to-end,s07,deadlift,58860488,ginocchio,sx,0.9261
+blazepose_heavy,end-to-end,s07,deadlift,58860488,anca,dx,0.9896
+blazepose_heavy,end-to-end,s07,deadlift,58860488,anca,sx,0.9724
+blazepose_heavy,end-to-end,s07,deadlift,58860488,gomito,dx,0.3389
+blazepose_heavy,end-to-end,s07,deadlift,58860488,gomito,sx,0.5329
+blazepose_heavy,end-to-end,s07,deadlift,60457274,ginocchio,dx,0.9204
+blazepose_heavy,end-to-end,s07,deadlift,60457274,ginocchio,sx,0.9061
+blazepose_heavy,end-to-end,s07,deadlift,60457274,anca,dx,0.988
+blazepose_heavy,end-to-end,s07,deadlift,60457274,anca,sx,0.9889
+blazepose_heavy,end-to-end,s07,deadlift,60457274,gomito,dx,-0.3457
+blazepose_heavy,end-to-end,s07,deadlift,60457274,gomito,sx,0.1236
+blazepose_heavy,end-to-end,s07,deadlift,65906101,ginocchio,dx,0.9133
+blazepose_heavy,end-to-end,s07,deadlift,65906101,ginocchio,sx,0.8442
+blazepose_heavy,end-to-end,s07,deadlift,65906101,anca,dx,0.9914
+blazepose_heavy,end-to-end,s07,deadlift,65906101,anca,sx,0.986
+blazepose_heavy,end-to-end,s07,deadlift,65906101,gomito,dx,-0.3601
+blazepose_heavy,end-to-end,s07,deadlift,65906101,gomito,sx,0.4813
+blazepose_heavy,end-to-end,s07,squat,50591643,ginocchio,dx,0.6787
+blazepose_heavy,end-to-end,s07,squat,50591643,ginocchio,sx,0.9746
+blazepose_heavy,end-to-end,s07,squat,50591643,anca,dx,0.9354
+blazepose_heavy,end-to-end,s07,squat,50591643,anca,sx,0.9906
+blazepose_heavy,end-to-end,s07,squat,50591643,gomito,dx,0.9422
+blazepose_heavy,end-to-end,s07,squat,50591643,gomito,sx,0.9219
+blazepose_heavy,end-to-end,s07,squat,58860488,ginocchio,dx,0.9589
+blazepose_heavy,end-to-end,s07,squat,58860488,ginocchio,sx,0.8483
+blazepose_heavy,end-to-end,s07,squat,58860488,anca,dx,0.9886
+blazepose_heavy,end-to-end,s07,squat,58860488,anca,sx,0.9706
+blazepose_heavy,end-to-end,s07,squat,58860488,gomito,dx,0.9573
+blazepose_heavy,end-to-end,s07,squat,58860488,gomito,sx,0.9466
+blazepose_heavy,end-to-end,s07,squat,60457274,ginocchio,dx,0.9212
+blazepose_heavy,end-to-end,s07,squat,60457274,ginocchio,sx,0.9492
+blazepose_heavy,end-to-end,s07,squat,60457274,anca,dx,0.9596
+blazepose_heavy,end-to-end,s07,squat,60457274,anca,sx,0.9868
+blazepose_heavy,end-to-end,s07,squat,60457274,gomito,dx,0.9786
+blazepose_heavy,end-to-end,s07,squat,60457274,gomito,sx,0.9689
+blazepose_heavy,end-to-end,s07,squat,65906101,ginocchio,dx,0.9355
+blazepose_heavy,end-to-end,s07,squat,65906101,ginocchio,sx,0.8697
+blazepose_heavy,end-to-end,s07,squat,65906101,anca,dx,0.9803
+blazepose_heavy,end-to-end,s07,squat,65906101,anca,sx,0.9487
+blazepose_heavy,end-to-end,s07,squat,65906101,gomito,dx,0.9537
+blazepose_heavy,end-to-end,s07,squat,65906101,gomito,sx,0.9752
+blazepose_heavy,end-to-end,s08,deadlift,50591643,ginocchio,dx,0.8629
+blazepose_heavy,end-to-end,s08,deadlift,50591643,ginocchio,sx,0.8769
+blazepose_heavy,end-to-end,s08,deadlift,50591643,anca,dx,0.9406
+blazepose_heavy,end-to-end,s08,deadlift,50591643,anca,sx,0.9869
+blazepose_heavy,end-to-end,s08,deadlift,50591643,gomito,dx,0.0846
+blazepose_heavy,end-to-end,s08,deadlift,50591643,gomito,sx,-0.1262
+blazepose_heavy,end-to-end,s08,deadlift,58860488,ginocchio,dx,0.9263
+blazepose_heavy,end-to-end,s08,deadlift,58860488,ginocchio,sx,0.8882
+blazepose_heavy,end-to-end,s08,deadlift,58860488,anca,dx,0.9903
+blazepose_heavy,end-to-end,s08,deadlift,58860488,anca,sx,0.982
+blazepose_heavy,end-to-end,s08,deadlift,58860488,gomito,dx,0.1297
+blazepose_heavy,end-to-end,s08,deadlift,58860488,gomito,sx,0.5772
+blazepose_heavy,end-to-end,s08,deadlift,60457274,ginocchio,dx,0.7789
+blazepose_heavy,end-to-end,s08,deadlift,60457274,ginocchio,sx,0.7155
+blazepose_heavy,end-to-end,s08,deadlift,60457274,anca,dx,0.9789
+blazepose_heavy,end-to-end,s08,deadlift,60457274,anca,sx,0.9857
+blazepose_heavy,end-to-end,s08,deadlift,60457274,gomito,dx,0.2508
+blazepose_heavy,end-to-end,s08,deadlift,60457274,gomito,sx,0.4397
+blazepose_heavy,end-to-end,s08,deadlift,65906101,ginocchio,dx,0.8186
+blazepose_heavy,end-to-end,s08,deadlift,65906101,ginocchio,sx,0.7539
+blazepose_heavy,end-to-end,s08,deadlift,65906101,anca,dx,0.9851
+blazepose_heavy,end-to-end,s08,deadlift,65906101,anca,sx,0.9778
+blazepose_heavy,end-to-end,s08,deadlift,65906101,gomito,dx,-0.2833
+blazepose_heavy,end-to-end,s08,deadlift,65906101,gomito,sx,0.6954
+blazepose_heavy,end-to-end,s08,squat,50591643,ginocchio,dx,0.8765
+blazepose_heavy,end-to-end,s08,squat,50591643,ginocchio,sx,0.9839
+blazepose_heavy,end-to-end,s08,squat,50591643,anca,dx,0.9523
+blazepose_heavy,end-to-end,s08,squat,50591643,anca,sx,0.9947
+blazepose_heavy,end-to-end,s08,squat,50591643,gomito,dx,0.8801
+blazepose_heavy,end-to-end,s08,squat,50591643,gomito,sx,0.8267
+blazepose_heavy,end-to-end,s08,squat,58860488,ginocchio,dx,0.9739
+blazepose_heavy,end-to-end,s08,squat,58860488,ginocchio,sx,0.9296
+blazepose_heavy,end-to-end,s08,squat,58860488,anca,dx,0.9861
+blazepose_heavy,end-to-end,s08,squat,58860488,anca,sx,0.9689
+blazepose_heavy,end-to-end,s08,squat,58860488,gomito,dx,0.9515
+blazepose_heavy,end-to-end,s08,squat,58860488,gomito,sx,0.8717
+blazepose_heavy,end-to-end,s08,squat,60457274,ginocchio,dx,0.8198
+blazepose_heavy,end-to-end,s08,squat,60457274,ginocchio,sx,0.8674
+blazepose_heavy,end-to-end,s08,squat,60457274,anca,dx,0.9715
+blazepose_heavy,end-to-end,s08,squat,60457274,anca,sx,0.9836
+blazepose_heavy,end-to-end,s08,squat,60457274,gomito,dx,0.9489
+blazepose_heavy,end-to-end,s08,squat,60457274,gomito,sx,0.8592
+blazepose_heavy,end-to-end,s08,squat,65906101,ginocchio,dx,0.8151
+blazepose_heavy,end-to-end,s08,squat,65906101,ginocchio,sx,0.9047
+blazepose_heavy,end-to-end,s08,squat,65906101,anca,dx,0.9848
+blazepose_heavy,end-to-end,s08,squat,65906101,anca,sx,0.9469
+blazepose_heavy,end-to-end,s08,squat,65906101,gomito,dx,0.6771
+blazepose_heavy,end-to-end,s08,squat,65906101,gomito,sx,0.856
+blazepose_heavy,end-to-end,s09,deadlift,50591643,ginocchio,dx,0.8422
+blazepose_heavy,end-to-end,s09,deadlift,50591643,ginocchio,sx,0.9551
+blazepose_heavy,end-to-end,s09,deadlift,50591643,anca,dx,0.8911
+blazepose_heavy,end-to-end,s09,deadlift,50591643,anca,sx,0.9823
+blazepose_heavy,end-to-end,s09,deadlift,50591643,gomito,dx,0.2047
+blazepose_heavy,end-to-end,s09,deadlift,50591643,gomito,sx,0.1676
+blazepose_heavy,end-to-end,s09,deadlift,58860488,ginocchio,dx,0.9611
+blazepose_heavy,end-to-end,s09,deadlift,58860488,ginocchio,sx,0.883
+blazepose_heavy,end-to-end,s09,deadlift,58860488,anca,dx,0.9909
+blazepose_heavy,end-to-end,s09,deadlift,58860488,anca,sx,0.973
+blazepose_heavy,end-to-end,s09,deadlift,58860488,gomito,dx,0.1475
+blazepose_heavy,end-to-end,s09,deadlift,58860488,gomito,sx,-0.1611
+blazepose_heavy,end-to-end,s09,deadlift,60457274,ginocchio,dx,0.8258
+blazepose_heavy,end-to-end,s09,deadlift,60457274,ginocchio,sx,0.7935
+blazepose_heavy,end-to-end,s09,deadlift,60457274,anca,dx,0.9741
+blazepose_heavy,end-to-end,s09,deadlift,60457274,anca,sx,0.9766
+blazepose_heavy,end-to-end,s09,deadlift,60457274,gomito,dx,-0.1974
+blazepose_heavy,end-to-end,s09,deadlift,60457274,gomito,sx,0.1197
+blazepose_heavy,end-to-end,s09,deadlift,65906101,ginocchio,dx,0.929
+blazepose_heavy,end-to-end,s09,deadlift,65906101,ginocchio,sx,0.4798
+blazepose_heavy,end-to-end,s09,deadlift,65906101,anca,dx,0.9903
+blazepose_heavy,end-to-end,s09,deadlift,65906101,anca,sx,0.9782
+blazepose_heavy,end-to-end,s09,deadlift,65906101,gomito,dx,-0.627
+blazepose_heavy,end-to-end,s09,deadlift,65906101,gomito,sx,0.6703
+blazepose_heavy,end-to-end,s09,squat,50591643,ginocchio,dx,0.8884
+blazepose_heavy,end-to-end,s09,squat,50591643,ginocchio,sx,0.9872
+blazepose_heavy,end-to-end,s09,squat,50591643,anca,dx,0.9209
+blazepose_heavy,end-to-end,s09,squat,50591643,anca,sx,0.9822
+blazepose_heavy,end-to-end,s09,squat,50591643,gomito,dx,0.9532
+blazepose_heavy,end-to-end,s09,squat,50591643,gomito,sx,0.9208
+blazepose_heavy,end-to-end,s09,squat,58860488,ginocchio,dx,0.9807
+blazepose_heavy,end-to-end,s09,squat,58860488,ginocchio,sx,0.9423
+blazepose_heavy,end-to-end,s09,squat,58860488,anca,dx,0.9824
+blazepose_heavy,end-to-end,s09,squat,58860488,anca,sx,0.9762
+blazepose_heavy,end-to-end,s09,squat,58860488,gomito,dx,0.9709
+blazepose_heavy,end-to-end,s09,squat,58860488,gomito,sx,0.9306
+blazepose_heavy,end-to-end,s09,squat,60457274,ginocchio,dx,0.9492
+blazepose_heavy,end-to-end,s09,squat,60457274,ginocchio,sx,0.9362
+blazepose_heavy,end-to-end,s09,squat,60457274,anca,dx,0.968
+blazepose_heavy,end-to-end,s09,squat,60457274,anca,sx,0.9924
+blazepose_heavy,end-to-end,s09,squat,60457274,gomito,dx,0.9612
+blazepose_heavy,end-to-end,s09,squat,60457274,gomito,sx,0.9567
+blazepose_heavy,end-to-end,s09,squat,65906101,ginocchio,dx,0.9809
+blazepose_heavy,end-to-end,s09,squat,65906101,ginocchio,sx,0.8922
+blazepose_heavy,end-to-end,s09,squat,65906101,anca,dx,0.9875
+blazepose_heavy,end-to-end,s09,squat,65906101,anca,sx,0.9592
+blazepose_heavy,end-to-end,s09,squat,65906101,gomito,dx,0.9546
+blazepose_heavy,end-to-end,s09,squat,65906101,gomito,sx,0.9776
+blazepose_heavy,end-to-end,s10,deadlift,50591643,ginocchio,dx,0.6991
+blazepose_heavy,end-to-end,s10,deadlift,50591643,ginocchio,sx,0.868
+blazepose_heavy,end-to-end,s10,deadlift,50591643,anca,dx,0.9189
+blazepose_heavy,end-to-end,s10,deadlift,50591643,anca,sx,0.9475
+blazepose_heavy,end-to-end,s10,deadlift,50591643,gomito,dx,-0.2332
+blazepose_heavy,end-to-end,s10,deadlift,50591643,gomito,sx,-0.0253
+blazepose_heavy,end-to-end,s10,deadlift,58860488,ginocchio,dx,0.8739
+blazepose_heavy,end-to-end,s10,deadlift,58860488,ginocchio,sx,0.584
+blazepose_heavy,end-to-end,s10,deadlift,58860488,anca,dx,0.8619
+blazepose_heavy,end-to-end,s10,deadlift,58860488,anca,sx,0.772
+blazepose_heavy,end-to-end,s10,deadlift,58860488,gomito,dx,0.3684
+blazepose_heavy,end-to-end,s10,deadlift,58860488,gomito,sx,0.2626
+blazepose_heavy,end-to-end,s10,deadlift,60457274,ginocchio,dx,0.7693
+blazepose_heavy,end-to-end,s10,deadlift,60457274,ginocchio,sx,0.7464
+blazepose_heavy,end-to-end,s10,deadlift,60457274,anca,dx,0.978
+blazepose_heavy,end-to-end,s10,deadlift,60457274,anca,sx,0.9837
+blazepose_heavy,end-to-end,s10,deadlift,60457274,gomito,dx,0.1537
+blazepose_heavy,end-to-end,s10,deadlift,60457274,gomito,sx,0.505
+blazepose_heavy,end-to-end,s10,deadlift,65906101,ginocchio,dx,0.9259
+blazepose_heavy,end-to-end,s10,deadlift,65906101,ginocchio,sx,0.6615
+blazepose_heavy,end-to-end,s10,deadlift,65906101,anca,dx,0.9918
+blazepose_heavy,end-to-end,s10,deadlift,65906101,anca,sx,0.978
+blazepose_heavy,end-to-end,s10,deadlift,65906101,gomito,dx,-0.4175
+blazepose_heavy,end-to-end,s10,deadlift,65906101,gomito,sx,0.4454
+blazepose_heavy,end-to-end,s10,squat,50591643,ginocchio,dx,0.8289
+blazepose_heavy,end-to-end,s10,squat,50591643,ginocchio,sx,0.972
+blazepose_heavy,end-to-end,s10,squat,50591643,anca,dx,0.9164
+blazepose_heavy,end-to-end,s10,squat,50591643,anca,sx,0.9544
+blazepose_heavy,end-to-end,s10,squat,50591643,gomito,dx,0.9526
+blazepose_heavy,end-to-end,s10,squat,50591643,gomito,sx,0.8769
+blazepose_heavy,end-to-end,s10,squat,58860488,ginocchio,dx,0.8777
+blazepose_heavy,end-to-end,s10,squat,58860488,ginocchio,sx,0.8136
+blazepose_heavy,end-to-end,s10,squat,58860488,anca,dx,0.8091
+blazepose_heavy,end-to-end,s10,squat,58860488,anca,sx,0.7447
+blazepose_heavy,end-to-end,s10,squat,58860488,gomito,dx,0.9396
+blazepose_heavy,end-to-end,s10,squat,58860488,gomito,sx,0.9422
+blazepose_heavy,end-to-end,s10,squat,60457274,ginocchio,dx,0.8482
+blazepose_heavy,end-to-end,s10,squat,60457274,ginocchio,sx,0.8168
+blazepose_heavy,end-to-end,s10,squat,60457274,anca,dx,0.7374
+blazepose_heavy,end-to-end,s10,squat,60457274,anca,sx,0.8086
+blazepose_heavy,end-to-end,s10,squat,60457274,gomito,dx,0.854
+blazepose_heavy,end-to-end,s10,squat,60457274,gomito,sx,0.8706
+blazepose_heavy,end-to-end,s10,squat,65906101,ginocchio,dx,0.9856
+blazepose_heavy,end-to-end,s10,squat,65906101,ginocchio,sx,0.9263
+blazepose_heavy,end-to-end,s10,squat,65906101,anca,dx,0.9915
+blazepose_heavy,end-to-end,s10,squat,65906101,anca,sx,0.9539
+blazepose_heavy,end-to-end,s10,squat,65906101,gomito,dx,0.9566
+blazepose_heavy,end-to-end,s10,squat,65906101,gomito,sx,0.9766
+blazepose_heavy,end-to-end,s11,deadlift,50591643,ginocchio,dx,0.8443
+blazepose_heavy,end-to-end,s11,deadlift,50591643,ginocchio,sx,0.9214
+blazepose_heavy,end-to-end,s11,deadlift,50591643,anca,dx,0.9011
+blazepose_heavy,end-to-end,s11,deadlift,50591643,anca,sx,0.9884
+blazepose_heavy,end-to-end,s11,deadlift,50591643,gomito,dx,-0.0749
+blazepose_heavy,end-to-end,s11,deadlift,50591643,gomito,sx,-0.5746
+blazepose_heavy,end-to-end,s11,deadlift,58860488,ginocchio,dx,0.9682
+blazepose_heavy,end-to-end,s11,deadlift,58860488,ginocchio,sx,0.8103
+blazepose_heavy,end-to-end,s11,deadlift,58860488,anca,dx,0.9904
+blazepose_heavy,end-to-end,s11,deadlift,58860488,anca,sx,0.9588
+blazepose_heavy,end-to-end,s11,deadlift,58860488,gomito,dx,-0.4064
+blazepose_heavy,end-to-end,s11,deadlift,58860488,gomito,sx,0.5185
+blazepose_heavy,end-to-end,s11,deadlift,60457274,ginocchio,dx,0.8063
+blazepose_heavy,end-to-end,s11,deadlift,60457274,ginocchio,sx,0.7782
+blazepose_heavy,end-to-end,s11,deadlift,60457274,anca,dx,0.9781
+blazepose_heavy,end-to-end,s11,deadlift,60457274,anca,sx,0.9831
+blazepose_heavy,end-to-end,s11,deadlift,60457274,gomito,dx,0.1368
+blazepose_heavy,end-to-end,s11,deadlift,60457274,gomito,sx,0.287
+blazepose_heavy,end-to-end,s11,deadlift,65906101,ginocchio,dx,0.9101
+blazepose_heavy,end-to-end,s11,deadlift,65906101,ginocchio,sx,0.7789
+blazepose_heavy,end-to-end,s11,deadlift,65906101,anca,dx,0.9902
+blazepose_heavy,end-to-end,s11,deadlift,65906101,anca,sx,0.9731
+blazepose_heavy,end-to-end,s11,deadlift,65906101,gomito,dx,0.4751
+blazepose_heavy,end-to-end,s11,deadlift,65906101,gomito,sx,0.7288
+blazepose_heavy,end-to-end,s11,squat,50591643,ginocchio,dx,0.8864
+blazepose_heavy,end-to-end,s11,squat,50591643,ginocchio,sx,0.976
+blazepose_heavy,end-to-end,s11,squat,50591643,anca,dx,0.9168
+blazepose_heavy,end-to-end,s11,squat,50591643,anca,sx,0.9823
+blazepose_heavy,end-to-end,s11,squat,50591643,gomito,dx,0.9518
+blazepose_heavy,end-to-end,s11,squat,50591643,gomito,sx,0.9106
+blazepose_heavy,end-to-end,s11,squat,58860488,ginocchio,dx,0.9782
+blazepose_heavy,end-to-end,s11,squat,58860488,ginocchio,sx,0.9099
+blazepose_heavy,end-to-end,s11,squat,58860488,anca,dx,0.9884
+blazepose_heavy,end-to-end,s11,squat,58860488,anca,sx,0.9591
+blazepose_heavy,end-to-end,s11,squat,58860488,gomito,dx,0.9656
+blazepose_heavy,end-to-end,s11,squat,58860488,gomito,sx,0.9084
+blazepose_heavy,end-to-end,s11,squat,60457274,ginocchio,dx,0.9294
+blazepose_heavy,end-to-end,s11,squat,60457274,ginocchio,sx,0.9202
+blazepose_heavy,end-to-end,s11,squat,60457274,anca,dx,0.9741
+blazepose_heavy,end-to-end,s11,squat,60457274,anca,sx,0.9892
+blazepose_heavy,end-to-end,s11,squat,60457274,gomito,dx,0.9596
+blazepose_heavy,end-to-end,s11,squat,60457274,gomito,sx,0.9779
+blazepose_heavy,end-to-end,s11,squat,65906101,ginocchio,dx,0.8983
+blazepose_heavy,end-to-end,s11,squat,65906101,ginocchio,sx,0.8241
+blazepose_heavy,end-to-end,s11,squat,65906101,anca,dx,0.9835
+blazepose_heavy,end-to-end,s11,squat,65906101,anca,sx,0.9659
+blazepose_heavy,end-to-end,s11,squat,65906101,gomito,dx,0.976
+blazepose_heavy,end-to-end,s11,squat,65906101,gomito,sx,0.9723
+rtmw3d_x,end-to-end,s03,deadlift,50591643,ginocchio,dx,0.9276
+rtmw3d_x,end-to-end,s03,deadlift,50591643,ginocchio,sx,0.9818
+rtmw3d_x,end-to-end,s03,deadlift,50591643,anca,dx,0.9059
+rtmw3d_x,end-to-end,s03,deadlift,50591643,anca,sx,0.9892
+rtmw3d_x,end-to-end,s03,deadlift,50591643,gomito,dx,0.3604
+rtmw3d_x,end-to-end,s03,deadlift,50591643,gomito,sx,0.1396
+rtmw3d_x,end-to-end,s03,deadlift,58860488,ginocchio,dx,0.99
+rtmw3d_x,end-to-end,s03,deadlift,58860488,ginocchio,sx,0.9663
+rtmw3d_x,end-to-end,s03,deadlift,58860488,anca,dx,0.9937
+rtmw3d_x,end-to-end,s03,deadlift,58860488,anca,sx,0.9334
+rtmw3d_x,end-to-end,s03,deadlift,58860488,gomito,dx,0.3162
+rtmw3d_x,end-to-end,s03,deadlift,58860488,gomito,sx,0.109
+rtmw3d_x,end-to-end,s03,deadlift,60457274,ginocchio,dx,0.9337
+rtmw3d_x,end-to-end,s03,deadlift,60457274,ginocchio,sx,0.9666
+rtmw3d_x,end-to-end,s03,deadlift,60457274,anca,dx,0.7571
+rtmw3d_x,end-to-end,s03,deadlift,60457274,anca,sx,0.9365
+rtmw3d_x,end-to-end,s03,deadlift,60457274,gomito,dx,0.6789
+rtmw3d_x,end-to-end,s03,deadlift,60457274,gomito,sx,0.0541
+rtmw3d_x,end-to-end,s03,deadlift,65906101,ginocchio,dx,0.9793
+rtmw3d_x,end-to-end,s03,deadlift,65906101,ginocchio,sx,0.9235
+rtmw3d_x,end-to-end,s03,deadlift,65906101,anca,dx,0.9655
+rtmw3d_x,end-to-end,s03,deadlift,65906101,anca,sx,0.8276
+rtmw3d_x,end-to-end,s03,deadlift,65906101,gomito,dx,-0.2079
+rtmw3d_x,end-to-end,s03,deadlift,65906101,gomito,sx,0.8344
+rtmw3d_x,end-to-end,s03,squat,50591643,ginocchio,dx,0.9544
+rtmw3d_x,end-to-end,s03,squat,50591643,ginocchio,sx,0.9855
+rtmw3d_x,end-to-end,s03,squat,50591643,anca,dx,0.8672
+rtmw3d_x,end-to-end,s03,squat,50591643,anca,sx,0.9879
+rtmw3d_x,end-to-end,s03,squat,50591643,gomito,dx,0.985
+rtmw3d_x,end-to-end,s03,squat,50591643,gomito,sx,0.9963
+rtmw3d_x,end-to-end,s03,squat,58860488,ginocchio,dx,0.9846
+rtmw3d_x,end-to-end,s03,squat,58860488,ginocchio,sx,0.9595
+rtmw3d_x,end-to-end,s03,squat,58860488,anca,dx,0.9927
+rtmw3d_x,end-to-end,s03,squat,58860488,anca,sx,0.9001
+rtmw3d_x,end-to-end,s03,squat,58860488,gomito,dx,0.994
+rtmw3d_x,end-to-end,s03,squat,58860488,gomito,sx,0.9838
+rtmw3d_x,end-to-end,s03,squat,60457274,ginocchio,dx,0.9628
+rtmw3d_x,end-to-end,s03,squat,60457274,ginocchio,sx,0.9918
+rtmw3d_x,end-to-end,s03,squat,60457274,anca,dx,0.7891
+rtmw3d_x,end-to-end,s03,squat,60457274,anca,sx,0.959
+rtmw3d_x,end-to-end,s03,squat,60457274,gomito,dx,0.9895
+rtmw3d_x,end-to-end,s03,squat,60457274,gomito,sx,0.9933
+rtmw3d_x,end-to-end,s03,squat,65906101,ginocchio,dx,0.9923
+rtmw3d_x,end-to-end,s03,squat,65906101,ginocchio,sx,0.9489
+rtmw3d_x,end-to-end,s03,squat,65906101,anca,dx,0.9316
+rtmw3d_x,end-to-end,s03,squat,65906101,anca,sx,0.6584
+rtmw3d_x,end-to-end,s03,squat,65906101,gomito,dx,0.994
+rtmw3d_x,end-to-end,s03,squat,65906101,gomito,sx,0.9922
+rtmw3d_x,end-to-end,s04,deadlift,50591643,ginocchio,dx,0.9591
+rtmw3d_x,end-to-end,s04,deadlift,50591643,ginocchio,sx,0.99
+rtmw3d_x,end-to-end,s04,deadlift,50591643,anca,dx,0.9661
+rtmw3d_x,end-to-end,s04,deadlift,50591643,anca,sx,0.9941
+rtmw3d_x,end-to-end,s04,deadlift,50591643,gomito,dx,-0.2327
+rtmw3d_x,end-to-end,s04,deadlift,50591643,gomito,sx,-0.3169
+rtmw3d_x,end-to-end,s04,deadlift,58860488,ginocchio,dx,0.9798
+rtmw3d_x,end-to-end,s04,deadlift,58860488,ginocchio,sx,0.8906
+rtmw3d_x,end-to-end,s04,deadlift,58860488,anca,dx,0.9868
+rtmw3d_x,end-to-end,s04,deadlift,58860488,anca,sx,0.9164
+rtmw3d_x,end-to-end,s04,deadlift,58860488,gomito,dx,0.1072
+rtmw3d_x,end-to-end,s04,deadlift,58860488,gomito,sx,-0.1703
+rtmw3d_x,end-to-end,s04,deadlift,60457274,ginocchio,dx,0.9335
+rtmw3d_x,end-to-end,s04,deadlift,60457274,ginocchio,sx,0.9778
+rtmw3d_x,end-to-end,s04,deadlift,60457274,anca,dx,0.9318
+rtmw3d_x,end-to-end,s04,deadlift,60457274,anca,sx,0.985
+rtmw3d_x,end-to-end,s04,deadlift,60457274,gomito,dx,0.4361
+rtmw3d_x,end-to-end,s04,deadlift,60457274,gomito,sx,-0.2531
+rtmw3d_x,end-to-end,s04,deadlift,65906101,ginocchio,dx,0.9472
+rtmw3d_x,end-to-end,s04,deadlift,65906101,ginocchio,sx,0.6931
+rtmw3d_x,end-to-end,s04,deadlift,65906101,anca,dx,0.966
+rtmw3d_x,end-to-end,s04,deadlift,65906101,anca,sx,0.8893
+rtmw3d_x,end-to-end,s04,deadlift,65906101,gomito,dx,0.0502
+rtmw3d_x,end-to-end,s04,deadlift,65906101,gomito,sx,0.2892
+rtmw3d_x,end-to-end,s04,squat,50591643,ginocchio,dx,0.9336
+rtmw3d_x,end-to-end,s04,squat,50591643,ginocchio,sx,0.9879
+rtmw3d_x,end-to-end,s04,squat,50591643,anca,dx,0.926
+rtmw3d_x,end-to-end,s04,squat,50591643,anca,sx,0.9881
+rtmw3d_x,end-to-end,s04,squat,50591643,gomito,dx,0.9819
+rtmw3d_x,end-to-end,s04,squat,50591643,gomito,sx,0.9916
+rtmw3d_x,end-to-end,s04,squat,58860488,ginocchio,dx,0.969
+rtmw3d_x,end-to-end,s04,squat,58860488,ginocchio,sx,0.8641
+rtmw3d_x,end-to-end,s04,squat,58860488,anca,dx,0.9779
+rtmw3d_x,end-to-end,s04,squat,58860488,anca,sx,0.8614
+rtmw3d_x,end-to-end,s04,squat,58860488,gomito,dx,0.9909
+rtmw3d_x,end-to-end,s04,squat,58860488,gomito,sx,0.9805
+rtmw3d_x,end-to-end,s04,squat,60457274,ginocchio,dx,0.9608
+rtmw3d_x,end-to-end,s04,squat,60457274,ginocchio,sx,0.9938
+rtmw3d_x,end-to-end,s04,squat,60457274,anca,dx,0.8382
+rtmw3d_x,end-to-end,s04,squat,60457274,anca,sx,0.9715
+rtmw3d_x,end-to-end,s04,squat,60457274,gomito,dx,0.9846
+rtmw3d_x,end-to-end,s04,squat,60457274,gomito,sx,0.9936
+rtmw3d_x,end-to-end,s04,squat,65906101,ginocchio,dx,0.9884
+rtmw3d_x,end-to-end,s04,squat,65906101,ginocchio,sx,0.9212
+rtmw3d_x,end-to-end,s04,squat,65906101,anca,dx,0.9463
+rtmw3d_x,end-to-end,s04,squat,65906101,anca,sx,0.7827
+rtmw3d_x,end-to-end,s04,squat,65906101,gomito,dx,0.9921
+rtmw3d_x,end-to-end,s04,squat,65906101,gomito,sx,0.9892
+rtmw3d_x,end-to-end,s05,deadlift,50591643,ginocchio,dx,0.9589
+rtmw3d_x,end-to-end,s05,deadlift,50591643,ginocchio,sx,0.989
+rtmw3d_x,end-to-end,s05,deadlift,50591643,anca,dx,0.9639
+rtmw3d_x,end-to-end,s05,deadlift,50591643,anca,sx,0.9974
+rtmw3d_x,end-to-end,s05,deadlift,50591643,gomito,dx,0.6557
+rtmw3d_x,end-to-end,s05,deadlift,50591643,gomito,sx,-0.1628
+rtmw3d_x,end-to-end,s05,deadlift,58860488,ginocchio,dx,0.9903
+rtmw3d_x,end-to-end,s05,deadlift,58860488,ginocchio,sx,0.9557
+rtmw3d_x,end-to-end,s05,deadlift,58860488,anca,dx,0.9967
+rtmw3d_x,end-to-end,s05,deadlift,58860488,anca,sx,0.9477
+rtmw3d_x,end-to-end,s05,deadlift,58860488,gomito,dx,0.4904
+rtmw3d_x,end-to-end,s05,deadlift,58860488,gomito,sx,0.4067
+rtmw3d_x,end-to-end,s05,deadlift,60457274,ginocchio,dx,0.6682
+rtmw3d_x,end-to-end,s05,deadlift,60457274,ginocchio,sx,0.9924
+rtmw3d_x,end-to-end,s05,deadlift,60457274,anca,dx,0.9469
+rtmw3d_x,end-to-end,s05,deadlift,60457274,anca,sx,0.9863
+rtmw3d_x,end-to-end,s05,deadlift,60457274,gomito,dx,0.9036
+rtmw3d_x,end-to-end,s05,deadlift,60457274,gomito,sx,-0.0685
+rtmw3d_x,end-to-end,s05,deadlift,65906101,ginocchio,dx,0.9893
+rtmw3d_x,end-to-end,s05,deadlift,65906101,ginocchio,sx,0.7322
+rtmw3d_x,end-to-end,s05,deadlift,65906101,anca,dx,0.9863
+rtmw3d_x,end-to-end,s05,deadlift,65906101,anca,sx,0.9271
+rtmw3d_x,end-to-end,s05,deadlift,65906101,gomito,dx,-0.0498
+rtmw3d_x,end-to-end,s05,deadlift,65906101,gomito,sx,0.7489
+rtmw3d_x,end-to-end,s05,squat,50591643,ginocchio,dx,0.8973
+rtmw3d_x,end-to-end,s05,squat,50591643,ginocchio,sx,0.9967
+rtmw3d_x,end-to-end,s05,squat,50591643,anca,dx,0.9001
+rtmw3d_x,end-to-end,s05,squat,50591643,anca,sx,0.9906
+rtmw3d_x,end-to-end,s05,squat,50591643,gomito,dx,0.9839
+rtmw3d_x,end-to-end,s05,squat,50591643,gomito,sx,0.9939
+rtmw3d_x,end-to-end,s05,squat,58860488,ginocchio,dx,0.9977
+rtmw3d_x,end-to-end,s05,squat,58860488,ginocchio,sx,0.9051
+rtmw3d_x,end-to-end,s05,squat,58860488,anca,dx,0.9866
+rtmw3d_x,end-to-end,s05,squat,58860488,anca,sx,0.8809
+rtmw3d_x,end-to-end,s05,squat,58860488,gomito,dx,0.9925
+rtmw3d_x,end-to-end,s05,squat,58860488,gomito,sx,0.9785
+rtmw3d_x,end-to-end,s05,squat,60457274,ginocchio,dx,0.9387
+rtmw3d_x,end-to-end,s05,squat,60457274,ginocchio,sx,0.995
+rtmw3d_x,end-to-end,s05,squat,60457274,anca,dx,0.8075
+rtmw3d_x,end-to-end,s05,squat,60457274,anca,sx,0.9602
+rtmw3d_x,end-to-end,s05,squat,60457274,gomito,dx,0.9895
+rtmw3d_x,end-to-end,s05,squat,60457274,gomito,sx,0.9934
+rtmw3d_x,end-to-end,s05,squat,65906101,ginocchio,dx,0.9954
+rtmw3d_x,end-to-end,s05,squat,65906101,ginocchio,sx,0.9788
+rtmw3d_x,end-to-end,s05,squat,65906101,anca,dx,0.9574
+rtmw3d_x,end-to-end,s05,squat,65906101,anca,sx,0.82
+rtmw3d_x,end-to-end,s05,squat,65906101,gomito,dx,0.9937
+rtmw3d_x,end-to-end,s05,squat,65906101,gomito,sx,0.992
+rtmw3d_x,end-to-end,s07,deadlift,50591643,ginocchio,dx,0.9908
+rtmw3d_x,end-to-end,s07,deadlift,50591643,ginocchio,sx,0.9893
+rtmw3d_x,end-to-end,s07,deadlift,50591643,anca,dx,0.9874
+rtmw3d_x,end-to-end,s07,deadlift,50591643,anca,sx,0.9952
+rtmw3d_x,end-to-end,s07,deadlift,50591643,gomito,dx,0.1892
+rtmw3d_x,end-to-end,s07,deadlift,50591643,gomito,sx,0.4141
+rtmw3d_x,end-to-end,s07,deadlift,58860488,ginocchio,dx,0.9914
+rtmw3d_x,end-to-end,s07,deadlift,58860488,ginocchio,sx,0.9782
+rtmw3d_x,end-to-end,s07,deadlift,58860488,anca,dx,0.9967
+rtmw3d_x,end-to-end,s07,deadlift,58860488,anca,sx,0.9836
+rtmw3d_x,end-to-end,s07,deadlift,58860488,gomito,dx,0.2984
+rtmw3d_x,end-to-end,s07,deadlift,58860488,gomito,sx,0.2837
+rtmw3d_x,end-to-end,s07,deadlift,60457274,ginocchio,dx,0.9628
+rtmw3d_x,end-to-end,s07,deadlift,60457274,ginocchio,sx,0.9914
+rtmw3d_x,end-to-end,s07,deadlift,60457274,anca,dx,0.9472
+rtmw3d_x,end-to-end,s07,deadlift,60457274,anca,sx,0.9886
+rtmw3d_x,end-to-end,s07,deadlift,60457274,gomito,dx,0.598
+rtmw3d_x,end-to-end,s07,deadlift,60457274,gomito,sx,0.3346
+rtmw3d_x,end-to-end,s07,deadlift,65906101,ginocchio,dx,0.9927
+rtmw3d_x,end-to-end,s07,deadlift,65906101,ginocchio,sx,0.9333
+rtmw3d_x,end-to-end,s07,deadlift,65906101,anca,dx,0.9783
+rtmw3d_x,end-to-end,s07,deadlift,65906101,anca,sx,0.8878
+rtmw3d_x,end-to-end,s07,deadlift,65906101,gomito,dx,0.2178
+rtmw3d_x,end-to-end,s07,deadlift,65906101,gomito,sx,0.7968
+rtmw3d_x,end-to-end,s07,squat,50591643,ginocchio,dx,0.9364
+rtmw3d_x,end-to-end,s07,squat,50591643,ginocchio,sx,0.9858
+rtmw3d_x,end-to-end,s07,squat,50591643,anca,dx,0.9565
+rtmw3d_x,end-to-end,s07,squat,50591643,anca,sx,0.9886
+rtmw3d_x,end-to-end,s07,squat,50591643,gomito,dx,0.9835
+rtmw3d_x,end-to-end,s07,squat,50591643,gomito,sx,0.9904
+rtmw3d_x,end-to-end,s07,squat,58860488,ginocchio,dx,0.9834
+rtmw3d_x,end-to-end,s07,squat,58860488,ginocchio,sx,0.9597
+rtmw3d_x,end-to-end,s07,squat,58860488,anca,dx,0.9873
+rtmw3d_x,end-to-end,s07,squat,58860488,anca,sx,0.9626
+rtmw3d_x,end-to-end,s07,squat,58860488,gomito,dx,0.9896
+rtmw3d_x,end-to-end,s07,squat,58860488,gomito,sx,0.9773
+rtmw3d_x,end-to-end,s07,squat,60457274,ginocchio,dx,0.9572
+rtmw3d_x,end-to-end,s07,squat,60457274,ginocchio,sx,0.9882
+rtmw3d_x,end-to-end,s07,squat,60457274,anca,dx,0.8808
+rtmw3d_x,end-to-end,s07,squat,60457274,anca,sx,0.9732
+rtmw3d_x,end-to-end,s07,squat,60457274,gomito,dx,0.9911
+rtmw3d_x,end-to-end,s07,squat,60457274,gomito,sx,0.9919
+rtmw3d_x,end-to-end,s07,squat,65906101,ginocchio,dx,0.9742
+rtmw3d_x,end-to-end,s07,squat,65906101,ginocchio,sx,0.9529
+rtmw3d_x,end-to-end,s07,squat,65906101,anca,dx,0.9479
+rtmw3d_x,end-to-end,s07,squat,65906101,anca,sx,0.8152
+rtmw3d_x,end-to-end,s07,squat,65906101,gomito,dx,0.9866
+rtmw3d_x,end-to-end,s07,squat,65906101,gomito,sx,0.9935
+rtmw3d_x,end-to-end,s08,deadlift,50591643,ginocchio,dx,0.9578
+rtmw3d_x,end-to-end,s08,deadlift,50591643,ginocchio,sx,0.9866
+rtmw3d_x,end-to-end,s08,deadlift,50591643,anca,dx,0.9883
+rtmw3d_x,end-to-end,s08,deadlift,50591643,anca,sx,0.9897
+rtmw3d_x,end-to-end,s08,deadlift,50591643,gomito,dx,0.1189
+rtmw3d_x,end-to-end,s08,deadlift,50591643,gomito,sx,0.6943
+rtmw3d_x,end-to-end,s08,deadlift,58860488,ginocchio,dx,0.9708
+rtmw3d_x,end-to-end,s08,deadlift,58860488,ginocchio,sx,0.9336
+rtmw3d_x,end-to-end,s08,deadlift,58860488,anca,dx,0.9888
+rtmw3d_x,end-to-end,s08,deadlift,58860488,anca,sx,0.9587
+rtmw3d_x,end-to-end,s08,deadlift,58860488,gomito,dx,0.5517
+rtmw3d_x,end-to-end,s08,deadlift,58860488,gomito,sx,0.5994
+rtmw3d_x,end-to-end,s08,deadlift,60457274,ginocchio,dx,0.9102
+rtmw3d_x,end-to-end,s08,deadlift,60457274,ginocchio,sx,0.9733
+rtmw3d_x,end-to-end,s08,deadlift,60457274,anca,dx,0.9498
+rtmw3d_x,end-to-end,s08,deadlift,60457274,anca,sx,0.9818
+rtmw3d_x,end-to-end,s08,deadlift,60457274,gomito,dx,0.8848
+rtmw3d_x,end-to-end,s08,deadlift,60457274,gomito,sx,0.6663
+rtmw3d_x,end-to-end,s08,deadlift,65906101,ginocchio,dx,0.9657
+rtmw3d_x,end-to-end,s08,deadlift,65906101,ginocchio,sx,0.8055
+rtmw3d_x,end-to-end,s08,deadlift,65906101,anca,dx,0.9709
+rtmw3d_x,end-to-end,s08,deadlift,65906101,anca,sx,0.8958
+rtmw3d_x,end-to-end,s08,deadlift,65906101,gomito,dx,0.4863
+rtmw3d_x,end-to-end,s08,deadlift,65906101,gomito,sx,0.9223
+rtmw3d_x,end-to-end,s08,squat,50591643,ginocchio,dx,0.9485
+rtmw3d_x,end-to-end,s08,squat,50591643,ginocchio,sx,0.9944
+rtmw3d_x,end-to-end,s08,squat,50591643,anca,dx,0.9497
+rtmw3d_x,end-to-end,s08,squat,50591643,anca,sx,0.987
+rtmw3d_x,end-to-end,s08,squat,50591643,gomito,dx,0.9744
+rtmw3d_x,end-to-end,s08,squat,50591643,gomito,sx,0.9876
+rtmw3d_x,end-to-end,s08,squat,58860488,ginocchio,dx,0.9806
+rtmw3d_x,end-to-end,s08,squat,58860488,ginocchio,sx,0.9323
+rtmw3d_x,end-to-end,s08,squat,58860488,anca,dx,0.989
+rtmw3d_x,end-to-end,s08,squat,58860488,anca,sx,0.9131
+rtmw3d_x,end-to-end,s08,squat,58860488,gomito,dx,0.9868
+rtmw3d_x,end-to-end,s08,squat,58860488,gomito,sx,0.9744
+rtmw3d_x,end-to-end,s08,squat,60457274,ginocchio,dx,0.9248
+rtmw3d_x,end-to-end,s08,squat,60457274,ginocchio,sx,0.9895
+rtmw3d_x,end-to-end,s08,squat,60457274,anca,dx,0.8139
+rtmw3d_x,end-to-end,s08,squat,60457274,anca,sx,0.9696
+rtmw3d_x,end-to-end,s08,squat,60457274,gomito,dx,0.9269
+rtmw3d_x,end-to-end,s08,squat,60457274,gomito,sx,0.8572
+rtmw3d_x,end-to-end,s08,squat,65906101,ginocchio,dx,0.9739
+rtmw3d_x,end-to-end,s08,squat,65906101,ginocchio,sx,0.663
+rtmw3d_x,end-to-end,s08,squat,65906101,anca,dx,0.9446
+rtmw3d_x,end-to-end,s08,squat,65906101,anca,sx,0.7278
+rtmw3d_x,end-to-end,s08,squat,65906101,gomito,dx,0.9594
+rtmw3d_x,end-to-end,s08,squat,65906101,gomito,sx,0.9039
+rtmw3d_x,end-to-end,s09,deadlift,50591643,ginocchio,dx,0.9827
+rtmw3d_x,end-to-end,s09,deadlift,50591643,ginocchio,sx,0.9874
+rtmw3d_x,end-to-end,s09,deadlift,50591643,anca,dx,0.964
+rtmw3d_x,end-to-end,s09,deadlift,50591643,anca,sx,0.9969
+rtmw3d_x,end-to-end,s09,deadlift,50591643,gomito,dx,0.2704
+rtmw3d_x,end-to-end,s09,deadlift,50591643,gomito,sx,-0.3368
+rtmw3d_x,end-to-end,s09,deadlift,58860488,ginocchio,dx,0.9891
+rtmw3d_x,end-to-end,s09,deadlift,58860488,ginocchio,sx,0.9683
+rtmw3d_x,end-to-end,s09,deadlift,58860488,anca,dx,0.9954
+rtmw3d_x,end-to-end,s09,deadlift,58860488,anca,sx,0.9558
+rtmw3d_x,end-to-end,s09,deadlift,58860488,gomito,dx,0.1591
+rtmw3d_x,end-to-end,s09,deadlift,58860488,gomito,sx,0.0106
+rtmw3d_x,end-to-end,s09,deadlift,60457274,ginocchio,dx,0.8722
+rtmw3d_x,end-to-end,s09,deadlift,60457274,ginocchio,sx,0.9857
+rtmw3d_x,end-to-end,s09,deadlift,60457274,anca,dx,0.9238
+rtmw3d_x,end-to-end,s09,deadlift,60457274,anca,sx,0.9851
+rtmw3d_x,end-to-end,s09,deadlift,60457274,gomito,dx,0.5731
+rtmw3d_x,end-to-end,s09,deadlift,60457274,gomito,sx,-0.3558
+rtmw3d_x,end-to-end,s09,deadlift,65906101,ginocchio,dx,0.9561
+rtmw3d_x,end-to-end,s09,deadlift,65906101,ginocchio,sx,0.497
+rtmw3d_x,end-to-end,s09,deadlift,65906101,anca,dx,0.9795
+rtmw3d_x,end-to-end,s09,deadlift,65906101,anca,sx,0.8945
+rtmw3d_x,end-to-end,s09,deadlift,65906101,gomito,dx,0.085
+rtmw3d_x,end-to-end,s09,deadlift,65906101,gomito,sx,0.4986
+rtmw3d_x,end-to-end,s09,squat,50591643,ginocchio,dx,0.9456
+rtmw3d_x,end-to-end,s09,squat,50591643,ginocchio,sx,0.9932
+rtmw3d_x,end-to-end,s09,squat,50591643,anca,dx,0.8581
+rtmw3d_x,end-to-end,s09,squat,50591643,anca,sx,0.9909
+rtmw3d_x,end-to-end,s09,squat,50591643,gomito,dx,0.9785
+rtmw3d_x,end-to-end,s09,squat,50591643,gomito,sx,0.9963
+rtmw3d_x,end-to-end,s09,squat,58860488,ginocchio,dx,0.9933
+rtmw3d_x,end-to-end,s09,squat,58860488,ginocchio,sx,0.9293
+rtmw3d_x,end-to-end,s09,squat,58860488,anca,dx,0.9842
+rtmw3d_x,end-to-end,s09,squat,58860488,anca,sx,0.7961
+rtmw3d_x,end-to-end,s09,squat,58860488,gomito,dx,0.9943
+rtmw3d_x,end-to-end,s09,squat,58860488,gomito,sx,0.978
+rtmw3d_x,end-to-end,s09,squat,60457274,ginocchio,dx,0.9566
+rtmw3d_x,end-to-end,s09,squat,60457274,ginocchio,sx,0.9948
+rtmw3d_x,end-to-end,s09,squat,60457274,anca,dx,0.7947
+rtmw3d_x,end-to-end,s09,squat,60457274,anca,sx,0.9744
+rtmw3d_x,end-to-end,s09,squat,60457274,gomito,dx,0.9858
+rtmw3d_x,end-to-end,s09,squat,60457274,gomito,sx,0.9947
+rtmw3d_x,end-to-end,s09,squat,65906101,ginocchio,dx,0.9896
+rtmw3d_x,end-to-end,s09,squat,65906101,ginocchio,sx,0.8434
+rtmw3d_x,end-to-end,s09,squat,65906101,anca,dx,0.9741
+rtmw3d_x,end-to-end,s09,squat,65906101,anca,sx,0.7036
+rtmw3d_x,end-to-end,s09,squat,65906101,gomito,dx,0.9916
+rtmw3d_x,end-to-end,s09,squat,65906101,gomito,sx,0.986
+rtmw3d_x,end-to-end,s10,deadlift,50591643,ginocchio,dx,0.9936
+rtmw3d_x,end-to-end,s10,deadlift,50591643,ginocchio,sx,0.9966
+rtmw3d_x,end-to-end,s10,deadlift,50591643,anca,dx,0.9642
+rtmw3d_x,end-to-end,s10,deadlift,50591643,anca,sx,0.9885
+rtmw3d_x,end-to-end,s10,deadlift,50591643,gomito,dx,0.5012
+rtmw3d_x,end-to-end,s10,deadlift,50591643,gomito,sx,-0.4295
+rtmw3d_x,end-to-end,s10,deadlift,58860488,ginocchio,dx,0.9911
+rtmw3d_x,end-to-end,s10,deadlift,58860488,ginocchio,sx,0.9299
+rtmw3d_x,end-to-end,s10,deadlift,58860488,anca,dx,0.995
+rtmw3d_x,end-to-end,s10,deadlift,58860488,anca,sx,0.9591
+rtmw3d_x,end-to-end,s10,deadlift,58860488,gomito,dx,0.121
+rtmw3d_x,end-to-end,s10,deadlift,58860488,gomito,sx,0.4733
+rtmw3d_x,end-to-end,s10,deadlift,60457274,ginocchio,dx,0.9232
+rtmw3d_x,end-to-end,s10,deadlift,60457274,ginocchio,sx,0.9781
+rtmw3d_x,end-to-end,s10,deadlift,60457274,anca,dx,0.8894
+rtmw3d_x,end-to-end,s10,deadlift,60457274,anca,sx,0.9657
+rtmw3d_x,end-to-end,s10,deadlift,60457274,gomito,dx,0.8818
+rtmw3d_x,end-to-end,s10,deadlift,60457274,gomito,sx,-0.2018
+rtmw3d_x,end-to-end,s10,deadlift,65906101,ginocchio,dx,0.968
+rtmw3d_x,end-to-end,s10,deadlift,65906101,ginocchio,sx,0.5562
+rtmw3d_x,end-to-end,s10,deadlift,65906101,anca,dx,0.9731
+rtmw3d_x,end-to-end,s10,deadlift,65906101,anca,sx,0.8799
+rtmw3d_x,end-to-end,s10,deadlift,65906101,gomito,dx,-0.0629
+rtmw3d_x,end-to-end,s10,deadlift,65906101,gomito,sx,0.8886
+rtmw3d_x,end-to-end,s10,squat,50591643,ginocchio,dx,0.9306
+rtmw3d_x,end-to-end,s10,squat,50591643,ginocchio,sx,0.9874
+rtmw3d_x,end-to-end,s10,squat,50591643,anca,dx,0.8747
+rtmw3d_x,end-to-end,s10,squat,50591643,anca,sx,0.9952
+rtmw3d_x,end-to-end,s10,squat,50591643,gomito,dx,0.985
+rtmw3d_x,end-to-end,s10,squat,50591643,gomito,sx,0.9939
+rtmw3d_x,end-to-end,s10,squat,58860488,ginocchio,dx,0.9842
+rtmw3d_x,end-to-end,s10,squat,58860488,ginocchio,sx,0.8847
+rtmw3d_x,end-to-end,s10,squat,58860488,anca,dx,0.9962
+rtmw3d_x,end-to-end,s10,squat,58860488,anca,sx,0.8579
+rtmw3d_x,end-to-end,s10,squat,58860488,gomito,dx,0.9918
+rtmw3d_x,end-to-end,s10,squat,58860488,gomito,sx,0.9894
+rtmw3d_x,end-to-end,s10,squat,60457274,ginocchio,dx,0.9495
+rtmw3d_x,end-to-end,s10,squat,60457274,ginocchio,sx,0.9907
+rtmw3d_x,end-to-end,s10,squat,60457274,anca,dx,0.7666
+rtmw3d_x,end-to-end,s10,squat,60457274,anca,sx,0.9583
+rtmw3d_x,end-to-end,s10,squat,60457274,gomito,dx,0.9878
+rtmw3d_x,end-to-end,s10,squat,60457274,gomito,sx,0.9623
+rtmw3d_x,end-to-end,s10,squat,65906101,ginocchio,dx,0.989
+rtmw3d_x,end-to-end,s10,squat,65906101,ginocchio,sx,0.9125
+rtmw3d_x,end-to-end,s10,squat,65906101,anca,dx,0.95
+rtmw3d_x,end-to-end,s10,squat,65906101,anca,sx,0.7658
+rtmw3d_x,end-to-end,s10,squat,65906101,gomito,dx,0.9908
+rtmw3d_x,end-to-end,s10,squat,65906101,gomito,sx,0.9907
+rtmw3d_x,end-to-end,s11,deadlift,50591643,ginocchio,dx,0.973
+rtmw3d_x,end-to-end,s11,deadlift,50591643,ginocchio,sx,0.9841
+rtmw3d_x,end-to-end,s11,deadlift,50591643,anca,dx,0.9586
+rtmw3d_x,end-to-end,s11,deadlift,50591643,anca,sx,0.9963
+rtmw3d_x,end-to-end,s11,deadlift,50591643,gomito,dx,0.5355
+rtmw3d_x,end-to-end,s11,deadlift,50591643,gomito,sx,0.7069
+rtmw3d_x,end-to-end,s11,deadlift,58860488,ginocchio,dx,0.9863
+rtmw3d_x,end-to-end,s11,deadlift,58860488,ginocchio,sx,0.9503
+rtmw3d_x,end-to-end,s11,deadlift,58860488,anca,dx,0.9976
+rtmw3d_x,end-to-end,s11,deadlift,58860488,anca,sx,0.8821
+rtmw3d_x,end-to-end,s11,deadlift,58860488,gomito,dx,0.6223
+rtmw3d_x,end-to-end,s11,deadlift,58860488,gomito,sx,0.5376
+rtmw3d_x,end-to-end,s11,deadlift,60457274,ginocchio,dx,0.9105
+rtmw3d_x,end-to-end,s11,deadlift,60457274,ginocchio,sx,0.9766
+rtmw3d_x,end-to-end,s11,deadlift,60457274,anca,dx,0.8922
+rtmw3d_x,end-to-end,s11,deadlift,60457274,anca,sx,0.9866
+rtmw3d_x,end-to-end,s11,deadlift,60457274,gomito,dx,0.8828
+rtmw3d_x,end-to-end,s11,deadlift,60457274,gomito,sx,0.7645
+rtmw3d_x,end-to-end,s11,deadlift,65906101,ginocchio,dx,0.983
+rtmw3d_x,end-to-end,s11,deadlift,65906101,ginocchio,sx,0.4341
+rtmw3d_x,end-to-end,s11,deadlift,65906101,anca,dx,0.9723
+rtmw3d_x,end-to-end,s11,deadlift,65906101,anca,sx,0.744
+rtmw3d_x,end-to-end,s11,deadlift,65906101,gomito,dx,0.6667
+rtmw3d_x,end-to-end,s11,deadlift,65906101,gomito,sx,0.9034
+rtmw3d_x,end-to-end,s11,squat,50591643,ginocchio,dx,0.9006
+rtmw3d_x,end-to-end,s11,squat,50591643,ginocchio,sx,0.9921
+rtmw3d_x,end-to-end,s11,squat,50591643,anca,dx,0.8723
+rtmw3d_x,end-to-end,s11,squat,50591643,anca,sx,0.9939
+rtmw3d_x,end-to-end,s11,squat,50591643,gomito,dx,0.9804
+rtmw3d_x,end-to-end,s11,squat,50591643,gomito,sx,0.9933
+rtmw3d_x,end-to-end,s11,squat,58860488,ginocchio,dx,0.9912
+rtmw3d_x,end-to-end,s11,squat,58860488,ginocchio,sx,0.8697
+rtmw3d_x,end-to-end,s11,squat,58860488,anca,dx,0.9915
+rtmw3d_x,end-to-end,s11,squat,58860488,anca,sx,0.8175
+rtmw3d_x,end-to-end,s11,squat,58860488,gomito,dx,0.9933
+rtmw3d_x,end-to-end,s11,squat,58860488,gomito,sx,0.9682
+rtmw3d_x,end-to-end,s11,squat,60457274,ginocchio,dx,0.8368
+rtmw3d_x,end-to-end,s11,squat,60457274,ginocchio,sx,0.9879
+rtmw3d_x,end-to-end,s11,squat,60457274,anca,dx,0.7882
+rtmw3d_x,end-to-end,s11,squat,60457274,anca,sx,0.9605
+rtmw3d_x,end-to-end,s11,squat,60457274,gomito,dx,0.9915
+rtmw3d_x,end-to-end,s11,squat,60457274,gomito,sx,0.9919
+rtmw3d_x,end-to-end,s11,squat,65906101,ginocchio,dx,0.9877
+rtmw3d_x,end-to-end,s11,squat,65906101,ginocchio,sx,0.7737
+rtmw3d_x,end-to-end,s11,squat,65906101,anca,dx,0.9502
+rtmw3d_x,end-to-end,s11,squat,65906101,anca,sx,0.7509
+rtmw3d_x,end-to-end,s11,squat,65906101,gomito,dx,0.9897
+rtmw3d_x,end-to-end,s11,squat,65906101,gomito,sx,0.9898
+pear,end-to-end,s03,deadlift,50591643,ginocchio,dx,0.9878
+pear,end-to-end,s03,deadlift,50591643,ginocchio,sx,0.9894
+pear,end-to-end,s03,deadlift,50591643,anca,dx,0.9983
+pear,end-to-end,s03,deadlift,50591643,anca,sx,0.9985
+pear,end-to-end,s03,deadlift,50591643,gomito,dx,-0.0473
+pear,end-to-end,s03,deadlift,50591643,gomito,sx,0.6429
+pear,end-to-end,s03,deadlift,58860488,ginocchio,dx,0.9863
+pear,end-to-end,s03,deadlift,58860488,ginocchio,sx,0.9838
+pear,end-to-end,s03,deadlift,58860488,anca,dx,0.9977
+pear,end-to-end,s03,deadlift,58860488,anca,sx,0.9985
+pear,end-to-end,s03,deadlift,58860488,gomito,dx,0.16
+pear,end-to-end,s03,deadlift,58860488,gomito,sx,0.2167
+pear,end-to-end,s03,deadlift,60457274,ginocchio,dx,0.9743
+pear,end-to-end,s03,deadlift,60457274,ginocchio,sx,0.9801
+pear,end-to-end,s03,deadlift,60457274,anca,dx,0.9906
+pear,end-to-end,s03,deadlift,60457274,anca,sx,0.9943
+pear,end-to-end,s03,deadlift,60457274,gomito,dx,0.8843
+pear,end-to-end,s03,deadlift,60457274,gomito,sx,0.6331
+pear,end-to-end,s03,deadlift,65906101,ginocchio,dx,0.9907
+pear,end-to-end,s03,deadlift,65906101,ginocchio,sx,0.9765
+pear,end-to-end,s03,deadlift,65906101,anca,dx,0.996
+pear,end-to-end,s03,deadlift,65906101,anca,sx,0.9934
+pear,end-to-end,s03,deadlift,65906101,gomito,dx,0.6276
+pear,end-to-end,s03,deadlift,65906101,gomito,sx,0.967
+pear,end-to-end,s03,squat,50591643,ginocchio,dx,0.9897
+pear,end-to-end,s03,squat,50591643,ginocchio,sx,0.9897
+pear,end-to-end,s03,squat,50591643,anca,dx,0.9933
+pear,end-to-end,s03,squat,50591643,anca,sx,0.9917
+pear,end-to-end,s03,squat,50591643,gomito,dx,0.9946
+pear,end-to-end,s03,squat,50591643,gomito,sx,0.9976
+pear,end-to-end,s03,squat,58860488,ginocchio,dx,0.9917
+pear,end-to-end,s03,squat,58860488,ginocchio,sx,0.9868
+pear,end-to-end,s03,squat,58860488,anca,dx,0.9916
+pear,end-to-end,s03,squat,58860488,anca,sx,0.9922
+pear,end-to-end,s03,squat,58860488,gomito,dx,0.9963
+pear,end-to-end,s03,squat,58860488,gomito,sx,0.9962
+pear,end-to-end,s03,squat,60457274,ginocchio,dx,0.984
+pear,end-to-end,s03,squat,60457274,ginocchio,sx,0.9866
+pear,end-to-end,s03,squat,60457274,anca,dx,0.9843
+pear,end-to-end,s03,squat,60457274,anca,sx,0.9797
+pear,end-to-end,s03,squat,60457274,gomito,dx,0.9942
+pear,end-to-end,s03,squat,60457274,gomito,sx,0.9975
+pear,end-to-end,s03,squat,65906101,ginocchio,dx,0.9849
+pear,end-to-end,s03,squat,65906101,ginocchio,sx,0.9802
+pear,end-to-end,s03,squat,65906101,anca,dx,0.9781
+pear,end-to-end,s03,squat,65906101,anca,sx,0.9794
+pear,end-to-end,s03,squat,65906101,gomito,dx,0.982
+pear,end-to-end,s03,squat,65906101,gomito,sx,0.9952
+pear,end-to-end,s04,deadlift,50591643,ginocchio,dx,0.9753
+pear,end-to-end,s04,deadlift,50591643,ginocchio,sx,0.9865
+pear,end-to-end,s04,deadlift,50591643,anca,dx,0.9959
+pear,end-to-end,s04,deadlift,50591643,anca,sx,0.995
+pear,end-to-end,s04,deadlift,50591643,gomito,dx,0.1564
+pear,end-to-end,s04,deadlift,50591643,gomito,sx,0.1147
+pear,end-to-end,s04,deadlift,58860488,ginocchio,dx,0.9758
+pear,end-to-end,s04,deadlift,58860488,ginocchio,sx,0.9634
+pear,end-to-end,s04,deadlift,58860488,anca,dx,0.9949
+pear,end-to-end,s04,deadlift,58860488,anca,sx,0.9951
+pear,end-to-end,s04,deadlift,58860488,gomito,dx,0.1543
+pear,end-to-end,s04,deadlift,58860488,gomito,sx,-0.3252
+pear,end-to-end,s04,deadlift,60457274,ginocchio,dx,0.9291
+pear,end-to-end,s04,deadlift,60457274,ginocchio,sx,0.9386
+pear,end-to-end,s04,deadlift,60457274,anca,dx,0.9923
+pear,end-to-end,s04,deadlift,60457274,anca,sx,0.9953
+pear,end-to-end,s04,deadlift,60457274,gomito,dx,0.8474
+pear,end-to-end,s04,deadlift,60457274,gomito,sx,0.2248
+pear,end-to-end,s04,deadlift,65906101,ginocchio,dx,0.9429
+pear,end-to-end,s04,deadlift,65906101,ginocchio,sx,0.9635
+pear,end-to-end,s04,deadlift,65906101,anca,dx,0.9941
+pear,end-to-end,s04,deadlift,65906101,anca,sx,0.9948
+pear,end-to-end,s04,deadlift,65906101,gomito,dx,0.1104
+pear,end-to-end,s04,deadlift,65906101,gomito,sx,0.8617
+pear,end-to-end,s04,squat,50591643,ginocchio,dx,0.9914
+pear,end-to-end,s04,squat,50591643,ginocchio,sx,0.9869
+pear,end-to-end,s04,squat,50591643,anca,dx,0.9947
+pear,end-to-end,s04,squat,50591643,anca,sx,0.9938
+pear,end-to-end,s04,squat,50591643,gomito,dx,0.9878
+pear,end-to-end,s04,squat,50591643,gomito,sx,0.9953
+pear,end-to-end,s04,squat,58860488,ginocchio,dx,0.9865
+pear,end-to-end,s04,squat,58860488,ginocchio,sx,0.9711
+pear,end-to-end,s04,squat,58860488,anca,dx,0.9892
+pear,end-to-end,s04,squat,58860488,anca,sx,0.9922
+pear,end-to-end,s04,squat,58860488,gomito,dx,0.994
+pear,end-to-end,s04,squat,58860488,gomito,sx,0.991
+pear,end-to-end,s04,squat,60457274,ginocchio,dx,0.9906
+pear,end-to-end,s04,squat,60457274,ginocchio,sx,0.9877
+pear,end-to-end,s04,squat,60457274,anca,dx,0.9847
+pear,end-to-end,s04,squat,60457274,anca,sx,0.9792
+pear,end-to-end,s04,squat,60457274,gomito,dx,0.9922
+pear,end-to-end,s04,squat,60457274,gomito,sx,0.9931
+pear,end-to-end,s04,squat,65906101,ginocchio,dx,0.9911
+pear,end-to-end,s04,squat,65906101,ginocchio,sx,0.988
+pear,end-to-end,s04,squat,65906101,anca,dx,0.9772
+pear,end-to-end,s04,squat,65906101,anca,sx,0.9843
+pear,end-to-end,s04,squat,65906101,gomito,dx,0.967
+pear,end-to-end,s04,squat,65906101,gomito,sx,0.991
+pear,end-to-end,s05,deadlift,50591643,ginocchio,dx,0.9698
+pear,end-to-end,s05,deadlift,50591643,ginocchio,sx,0.985
+pear,end-to-end,s05,deadlift,50591643,anca,dx,0.9944
+pear,end-to-end,s05,deadlift,50591643,anca,sx,0.998
+pear,end-to-end,s05,deadlift,50591643,gomito,dx,0.7964
+pear,end-to-end,s05,deadlift,50591643,gomito,sx,0.5675
+pear,end-to-end,s05,deadlift,58860488,ginocchio,dx,0.9851
+pear,end-to-end,s05,deadlift,58860488,ginocchio,sx,0.9702
+pear,end-to-end,s05,deadlift,58860488,anca,dx,0.9973
+pear,end-to-end,s05,deadlift,58860488,anca,sx,0.9931
+pear,end-to-end,s05,deadlift,58860488,gomito,dx,0.8064
+pear,end-to-end,s05,deadlift,58860488,gomito,sx,0.267
+pear,end-to-end,s05,deadlift,60457274,ginocchio,dx,0.9762
+pear,end-to-end,s05,deadlift,60457274,ginocchio,sx,0.9763
+pear,end-to-end,s05,deadlift,60457274,anca,dx,0.9975
+pear,end-to-end,s05,deadlift,60457274,anca,sx,0.9978
+pear,end-to-end,s05,deadlift,60457274,gomito,dx,0.7539
+pear,end-to-end,s05,deadlift,60457274,gomito,sx,0.516
+pear,end-to-end,s05,deadlift,65906101,ginocchio,dx,0.9836
+pear,end-to-end,s05,deadlift,65906101,ginocchio,sx,0.9774
+pear,end-to-end,s05,deadlift,65906101,anca,dx,0.9974
+pear,end-to-end,s05,deadlift,65906101,anca,sx,0.9976
+pear,end-to-end,s05,deadlift,65906101,gomito,dx,0.5852
+pear,end-to-end,s05,deadlift,65906101,gomito,sx,0.6665
+pear,end-to-end,s05,squat,50591643,ginocchio,dx,0.984
+pear,end-to-end,s05,squat,50591643,ginocchio,sx,0.996
+pear,end-to-end,s05,squat,50591643,anca,dx,0.9929
+pear,end-to-end,s05,squat,50591643,anca,sx,0.9889
+pear,end-to-end,s05,squat,50591643,gomito,dx,0.9958
+pear,end-to-end,s05,squat,50591643,gomito,sx,0.9971
+pear,end-to-end,s05,squat,58860488,ginocchio,dx,0.9951
+pear,end-to-end,s05,squat,58860488,ginocchio,sx,0.9871
+pear,end-to-end,s05,squat,58860488,anca,dx,0.9885
+pear,end-to-end,s05,squat,58860488,anca,sx,0.9862
+pear,end-to-end,s05,squat,58860488,gomito,dx,0.997
+pear,end-to-end,s05,squat,58860488,gomito,sx,0.9962
+pear,end-to-end,s05,squat,60457274,ginocchio,dx,0.967
+pear,end-to-end,s05,squat,60457274,ginocchio,sx,0.9725
+pear,end-to-end,s05,squat,60457274,anca,dx,0.9842
+pear,end-to-end,s05,squat,60457274,anca,sx,0.9875
+pear,end-to-end,s05,squat,60457274,gomito,dx,0.9941
+pear,end-to-end,s05,squat,60457274,gomito,sx,0.9927
+pear,end-to-end,s05,squat,65906101,ginocchio,dx,0.9928
+pear,end-to-end,s05,squat,65906101,ginocchio,sx,0.995
+pear,end-to-end,s05,squat,65906101,anca,dx,0.9893
+pear,end-to-end,s05,squat,65906101,anca,sx,0.9892
+pear,end-to-end,s05,squat,65906101,gomito,dx,0.9482
+pear,end-to-end,s05,squat,65906101,gomito,sx,0.9947
+pear,end-to-end,s07,deadlift,50591643,ginocchio,dx,0.9945
+pear,end-to-end,s07,deadlift,50591643,ginocchio,sx,0.9937
+pear,end-to-end,s07,deadlift,50591643,anca,dx,0.9947
+pear,end-to-end,s07,deadlift,50591643,anca,sx,0.9969
+pear,end-to-end,s07,deadlift,50591643,gomito,dx,0.5807
+pear,end-to-end,s07,deadlift,50591643,gomito,sx,0.836
+pear,end-to-end,s07,deadlift,58860488,ginocchio,dx,0.9929
+pear,end-to-end,s07,deadlift,58860488,ginocchio,sx,0.994
+pear,end-to-end,s07,deadlift,58860488,anca,dx,0.9964
+pear,end-to-end,s07,deadlift,58860488,anca,sx,0.9957
+pear,end-to-end,s07,deadlift,58860488,gomito,dx,0.8401
+pear,end-to-end,s07,deadlift,58860488,gomito,sx,0.5863
+pear,end-to-end,s07,deadlift,60457274,ginocchio,dx,0.9883
+pear,end-to-end,s07,deadlift,60457274,ginocchio,sx,0.9954
+pear,end-to-end,s07,deadlift,60457274,anca,dx,0.9941
+pear,end-to-end,s07,deadlift,60457274,anca,sx,0.9965
+pear,end-to-end,s07,deadlift,60457274,gomito,dx,0.5389
+pear,end-to-end,s07,deadlift,60457274,gomito,sx,0.4551
+pear,end-to-end,s07,deadlift,65906101,ginocchio,dx,0.995
+pear,end-to-end,s07,deadlift,65906101,ginocchio,sx,0.9955
+pear,end-to-end,s07,deadlift,65906101,anca,dx,0.9964
+pear,end-to-end,s07,deadlift,65906101,anca,sx,0.9965
+pear,end-to-end,s07,deadlift,65906101,gomito,dx,0.0273
+pear,end-to-end,s07,deadlift,65906101,gomito,sx,0.7617
+pear,end-to-end,s07,squat,50591643,ginocchio,dx,0.9601
+pear,end-to-end,s07,squat,50591643,ginocchio,sx,0.9656
+pear,end-to-end,s07,squat,50591643,anca,dx,0.9847
+pear,end-to-end,s07,squat,50591643,anca,sx,0.989
+pear,end-to-end,s07,squat,50591643,gomito,dx,0.9937
+pear,end-to-end,s07,squat,50591643,gomito,sx,0.9976
+pear,end-to-end,s07,squat,58860488,ginocchio,dx,0.9642
+pear,end-to-end,s07,squat,58860488,ginocchio,sx,0.9666
+pear,end-to-end,s07,squat,58860488,anca,dx,0.9847
+pear,end-to-end,s07,squat,58860488,anca,sx,0.9837
+pear,end-to-end,s07,squat,58860488,gomito,dx,0.997
+pear,end-to-end,s07,squat,58860488,gomito,sx,0.9919
+pear,end-to-end,s07,squat,60457274,ginocchio,dx,0.9646
+pear,end-to-end,s07,squat,60457274,ginocchio,sx,0.9637
+pear,end-to-end,s07,squat,60457274,anca,dx,0.9742
+pear,end-to-end,s07,squat,60457274,anca,sx,0.9836
+pear,end-to-end,s07,squat,60457274,gomito,dx,0.9928
+pear,end-to-end,s07,squat,60457274,gomito,sx,0.9798
+pear,end-to-end,s07,squat,65906101,ginocchio,dx,0.9466
+pear,end-to-end,s07,squat,65906101,ginocchio,sx,0.9443
+pear,end-to-end,s07,squat,65906101,anca,dx,0.9715
+pear,end-to-end,s07,squat,65906101,anca,sx,0.9721
+pear,end-to-end,s07,squat,65906101,gomito,dx,0.9662
+pear,end-to-end,s07,squat,65906101,gomito,sx,0.9949
+pear,end-to-end,s08,deadlift,50591643,ginocchio,dx,0.968
+pear,end-to-end,s08,deadlift,50591643,ginocchio,sx,0.9823
+pear,end-to-end,s08,deadlift,50591643,anca,dx,0.9942
+pear,end-to-end,s08,deadlift,50591643,anca,sx,0.9938
+pear,end-to-end,s08,deadlift,50591643,gomito,dx,0.4636
+pear,end-to-end,s08,deadlift,50591643,gomito,sx,0.9279
+pear,end-to-end,s08,deadlift,58860488,ginocchio,dx,0.9672
+pear,end-to-end,s08,deadlift,58860488,ginocchio,sx,0.9818
+pear,end-to-end,s08,deadlift,58860488,anca,dx,0.9949
+pear,end-to-end,s08,deadlift,58860488,anca,sx,0.9948
+pear,end-to-end,s08,deadlift,58860488,gomito,dx,0.8055
+pear,end-to-end,s08,deadlift,58860488,gomito,sx,0.5793
+pear,end-to-end,s08,deadlift,60457274,ginocchio,dx,0.9504
+pear,end-to-end,s08,deadlift,60457274,ginocchio,sx,0.9802
+pear,end-to-end,s08,deadlift,60457274,anca,dx,0.9966
+pear,end-to-end,s08,deadlift,60457274,anca,sx,0.9962
+pear,end-to-end,s08,deadlift,60457274,gomito,dx,0.5633
+pear,end-to-end,s08,deadlift,60457274,gomito,sx,0.8544
+pear,end-to-end,s08,deadlift,65906101,ginocchio,dx,0.9558
+pear,end-to-end,s08,deadlift,65906101,ginocchio,sx,0.9302
+pear,end-to-end,s08,deadlift,65906101,anca,dx,0.9971
+pear,end-to-end,s08,deadlift,65906101,anca,sx,0.9973
+pear,end-to-end,s08,deadlift,65906101,gomito,dx,0.5479
+pear,end-to-end,s08,deadlift,65906101,gomito,sx,0.8412
+pear,end-to-end,s08,squat,50591643,ginocchio,dx,0.9679
+pear,end-to-end,s08,squat,50591643,ginocchio,sx,0.9878
+pear,end-to-end,s08,squat,50591643,anca,dx,0.9905
+pear,end-to-end,s08,squat,50591643,anca,sx,0.9894
+pear,end-to-end,s08,squat,50591643,gomito,dx,0.9857
+pear,end-to-end,s08,squat,50591643,gomito,sx,0.9953
+pear,end-to-end,s08,squat,58860488,ginocchio,dx,0.9608
+pear,end-to-end,s08,squat,58860488,ginocchio,sx,0.9806
+pear,end-to-end,s08,squat,58860488,anca,dx,0.9835
+pear,end-to-end,s08,squat,58860488,anca,sx,0.9902
+pear,end-to-end,s08,squat,58860488,gomito,dx,0.9874
+pear,end-to-end,s08,squat,58860488,gomito,sx,0.9876
+pear,end-to-end,s08,squat,60457274,ginocchio,dx,0.9608
+pear,end-to-end,s08,squat,60457274,ginocchio,sx,0.9885
+pear,end-to-end,s08,squat,60457274,anca,dx,0.9873
+pear,end-to-end,s08,squat,60457274,anca,sx,0.9934
+pear,end-to-end,s08,squat,60457274,gomito,dx,0.9713
+pear,end-to-end,s08,squat,60457274,gomito,sx,0.984
+pear,end-to-end,s08,squat,65906101,ginocchio,dx,0.9624
+pear,end-to-end,s08,squat,65906101,ginocchio,sx,0.9328
+pear,end-to-end,s08,squat,65906101,anca,dx,0.9866
+pear,end-to-end,s08,squat,65906101,anca,sx,0.9829
+pear,end-to-end,s08,squat,65906101,gomito,dx,0.9678
+pear,end-to-end,s08,squat,65906101,gomito,sx,0.9848
+pear,end-to-end,s09,deadlift,50591643,ginocchio,dx,0.9826
+pear,end-to-end,s09,deadlift,50591643,ginocchio,sx,0.9855
+pear,end-to-end,s09,deadlift,50591643,anca,dx,0.9955
+pear,end-to-end,s09,deadlift,50591643,anca,sx,0.9976
+pear,end-to-end,s09,deadlift,50591643,gomito,dx,0.2229
+pear,end-to-end,s09,deadlift,50591643,gomito,sx,0.3772
+pear,end-to-end,s09,deadlift,58860488,ginocchio,dx,0.9791
+pear,end-to-end,s09,deadlift,58860488,ginocchio,sx,0.9757
+pear,end-to-end,s09,deadlift,58860488,anca,dx,0.9978
+pear,end-to-end,s09,deadlift,58860488,anca,sx,0.9953
+pear,end-to-end,s09,deadlift,58860488,gomito,dx,0.413
+pear,end-to-end,s09,deadlift,58860488,gomito,sx,0.4061
+pear,end-to-end,s09,deadlift,60457274,ginocchio,dx,0.9523
+pear,end-to-end,s09,deadlift,60457274,ginocchio,sx,0.9635
+pear,end-to-end,s09,deadlift,60457274,anca,dx,0.9911
+pear,end-to-end,s09,deadlift,60457274,anca,sx,0.995
+pear,end-to-end,s09,deadlift,60457274,gomito,dx,0.692
+pear,end-to-end,s09,deadlift,60457274,gomito,sx,0.4627
+pear,end-to-end,s09,deadlift,65906101,ginocchio,dx,0.9806
+pear,end-to-end,s09,deadlift,65906101,ginocchio,sx,0.961
+pear,end-to-end,s09,deadlift,65906101,anca,dx,0.9952
+pear,end-to-end,s09,deadlift,65906101,anca,sx,0.994
+pear,end-to-end,s09,deadlift,65906101,gomito,dx,0.1073
+pear,end-to-end,s09,deadlift,65906101,gomito,sx,0.7423
+pear,end-to-end,s09,squat,50591643,ginocchio,dx,0.9801
+pear,end-to-end,s09,squat,50591643,ginocchio,sx,0.9884
+pear,end-to-end,s09,squat,50591643,anca,dx,0.9887
+pear,end-to-end,s09,squat,50591643,anca,sx,0.9896
+pear,end-to-end,s09,squat,50591643,gomito,dx,0.9887
+pear,end-to-end,s09,squat,50591643,gomito,sx,0.9968
+pear,end-to-end,s09,squat,58860488,ginocchio,dx,0.9909
+pear,end-to-end,s09,squat,58860488,ginocchio,sx,0.9821
+pear,end-to-end,s09,squat,58860488,anca,dx,0.9898
+pear,end-to-end,s09,squat,58860488,anca,sx,0.9879
+pear,end-to-end,s09,squat,58860488,gomito,dx,0.9965
+pear,end-to-end,s09,squat,58860488,gomito,sx,0.9923
+pear,end-to-end,s09,squat,60457274,ginocchio,dx,0.9789
+pear,end-to-end,s09,squat,60457274,ginocchio,sx,0.9906
+pear,end-to-end,s09,squat,60457274,anca,dx,0.9771
+pear,end-to-end,s09,squat,60457274,anca,sx,0.9868
+pear,end-to-end,s09,squat,60457274,gomito,dx,0.9965
+pear,end-to-end,s09,squat,60457274,gomito,sx,0.9947
+pear,end-to-end,s09,squat,65906101,ginocchio,dx,0.9912
+pear,end-to-end,s09,squat,65906101,ginocchio,sx,0.9813
+pear,end-to-end,s09,squat,65906101,anca,dx,0.9859
+pear,end-to-end,s09,squat,65906101,anca,sx,0.9808
+pear,end-to-end,s09,squat,65906101,gomito,dx,0.9682
+pear,end-to-end,s09,squat,65906101,gomito,sx,0.9954
+pear,end-to-end,s10,deadlift,50591643,ginocchio,dx,0.9867
+pear,end-to-end,s10,deadlift,50591643,ginocchio,sx,0.9924
+pear,end-to-end,s10,deadlift,50591643,anca,dx,0.9982
+pear,end-to-end,s10,deadlift,50591643,anca,sx,0.9987
+pear,end-to-end,s10,deadlift,50591643,gomito,dx,0.1227
+pear,end-to-end,s10,deadlift,50591643,gomito,sx,0.6003
+pear,end-to-end,s10,deadlift,58860488,ginocchio,dx,0.9876
+pear,end-to-end,s10,deadlift,58860488,ginocchio,sx,0.9898
+pear,end-to-end,s10,deadlift,58860488,anca,dx,0.9983
+pear,end-to-end,s10,deadlift,58860488,anca,sx,0.9979
+pear,end-to-end,s10,deadlift,58860488,gomito,dx,0.373
+pear,end-to-end,s10,deadlift,58860488,gomito,sx,0.1607
+pear,end-to-end,s10,deadlift,60457274,ginocchio,dx,0.9681
+pear,end-to-end,s10,deadlift,60457274,ginocchio,sx,0.976
+pear,end-to-end,s10,deadlift,60457274,anca,dx,0.9974
+pear,end-to-end,s10,deadlift,60457274,anca,sx,0.9972
+pear,end-to-end,s10,deadlift,60457274,gomito,dx,0.8907
+pear,end-to-end,s10,deadlift,60457274,gomito,sx,0.4448
+pear,end-to-end,s10,deadlift,65906101,ginocchio,dx,0.9575
+pear,end-to-end,s10,deadlift,65906101,ginocchio,sx,0.9656
+pear,end-to-end,s10,deadlift,65906101,anca,dx,0.9971
+pear,end-to-end,s10,deadlift,65906101,anca,sx,0.9981
+pear,end-to-end,s10,deadlift,65906101,gomito,dx,0.351
+pear,end-to-end,s10,deadlift,65906101,gomito,sx,0.9177
+pear,end-to-end,s10,squat,50591643,ginocchio,dx,0.9924
+pear,end-to-end,s10,squat,50591643,ginocchio,sx,0.9942
+pear,end-to-end,s10,squat,50591643,anca,dx,0.9973
+pear,end-to-end,s10,squat,50591643,anca,sx,0.9971
+pear,end-to-end,s10,squat,50591643,gomito,dx,0.9884
+pear,end-to-end,s10,squat,50591643,gomito,sx,0.9962
+pear,end-to-end,s10,squat,58860488,ginocchio,dx,0.9948
+pear,end-to-end,s10,squat,58860488,ginocchio,sx,0.9937
+pear,end-to-end,s10,squat,58860488,anca,dx,0.9967
+pear,end-to-end,s10,squat,58860488,anca,sx,0.9968
+pear,end-to-end,s10,squat,58860488,gomito,dx,0.9938
+pear,end-to-end,s10,squat,58860488,gomito,sx,0.9903
+pear,end-to-end,s10,squat,60457274,ginocchio,dx,0.984
+pear,end-to-end,s10,squat,60457274,ginocchio,sx,0.9856
+pear,end-to-end,s10,squat,60457274,anca,dx,0.9934
+pear,end-to-end,s10,squat,60457274,anca,sx,0.9922
+pear,end-to-end,s10,squat,60457274,gomito,dx,0.9928
+pear,end-to-end,s10,squat,60457274,gomito,sx,0.994
+pear,end-to-end,s10,squat,65906101,ginocchio,dx,0.9643
+pear,end-to-end,s10,squat,65906101,ginocchio,sx,0.9804
+pear,end-to-end,s10,squat,65906101,anca,dx,0.988
+pear,end-to-end,s10,squat,65906101,anca,sx,0.996
+pear,end-to-end,s10,squat,65906101,gomito,dx,0.9025
+pear,end-to-end,s10,squat,65906101,gomito,sx,0.9926
+pear,end-to-end,s11,deadlift,50591643,ginocchio,dx,0.9676
+pear,end-to-end,s11,deadlift,50591643,ginocchio,sx,0.9779
+pear,end-to-end,s11,deadlift,50591643,anca,dx,0.9976
+pear,end-to-end,s11,deadlift,50591643,anca,sx,0.9989
+pear,end-to-end,s11,deadlift,50591643,gomito,dx,0.4308
+pear,end-to-end,s11,deadlift,50591643,gomito,sx,0.8339
+pear,end-to-end,s11,deadlift,58860488,ginocchio,dx,0.9836
+pear,end-to-end,s11,deadlift,58860488,ginocchio,sx,0.952
+pear,end-to-end,s11,deadlift,58860488,anca,dx,0.9986
+pear,end-to-end,s11,deadlift,58860488,anca,sx,0.9955
+pear,end-to-end,s11,deadlift,58860488,gomito,dx,0.7574
+pear,end-to-end,s11,deadlift,58860488,gomito,sx,0.4908
+pear,end-to-end,s11,deadlift,60457274,ginocchio,dx,0.9633
+pear,end-to-end,s11,deadlift,60457274,ginocchio,sx,0.9507
+pear,end-to-end,s11,deadlift,60457274,anca,dx,0.9966
+pear,end-to-end,s11,deadlift,60457274,anca,sx,0.9969
+pear,end-to-end,s11,deadlift,60457274,gomito,dx,0.9658
+pear,end-to-end,s11,deadlift,60457274,gomito,sx,0.8034
+pear,end-to-end,s11,deadlift,65906101,ginocchio,dx,0.9751
+pear,end-to-end,s11,deadlift,65906101,ginocchio,sx,0.955
+pear,end-to-end,s11,deadlift,65906101,anca,dx,0.9971
+pear,end-to-end,s11,deadlift,65906101,anca,sx,0.9954
+pear,end-to-end,s11,deadlift,65906101,gomito,dx,0.8749
+pear,end-to-end,s11,deadlift,65906101,gomito,sx,0.925
+pear,end-to-end,s11,squat,50591643,ginocchio,dx,0.9776
+pear,end-to-end,s11,squat,50591643,ginocchio,sx,0.9789
+pear,end-to-end,s11,squat,50591643,anca,dx,0.9939
+pear,end-to-end,s11,squat,50591643,anca,sx,0.9932
+pear,end-to-end,s11,squat,50591643,gomito,dx,0.9891
+pear,end-to-end,s11,squat,50591643,gomito,sx,0.9971
+pear,end-to-end,s11,squat,58860488,ginocchio,dx,0.9877
+pear,end-to-end,s11,squat,58860488,ginocchio,sx,0.9678
+pear,end-to-end,s11,squat,58860488,anca,dx,0.9937
+pear,end-to-end,s11,squat,58860488,anca,sx,0.992
+pear,end-to-end,s11,squat,58860488,gomito,dx,0.997
+pear,end-to-end,s11,squat,58860488,gomito,sx,0.9855
+pear,end-to-end,s11,squat,60457274,ginocchio,dx,0.9538
+pear,end-to-end,s11,squat,60457274,ginocchio,sx,0.9703
+pear,end-to-end,s11,squat,60457274,anca,dx,0.9682
+pear,end-to-end,s11,squat,60457274,anca,sx,0.9864
+pear,end-to-end,s11,squat,60457274,gomito,dx,0.9974
+pear,end-to-end,s11,squat,60457274,gomito,sx,0.9971
+pear,end-to-end,s11,squat,65906101,ginocchio,dx,0.9756
+pear,end-to-end,s11,squat,65906101,ginocchio,sx,0.9423
+pear,end-to-end,s11,squat,65906101,anca,dx,0.9854
+pear,end-to-end,s11,squat,65906101,anca,sx,0.9744
+pear,end-to-end,s11,squat,65906101,gomito,dx,0.994
+pear,end-to-end,s11,squat,65906101,gomito,sx,0.996

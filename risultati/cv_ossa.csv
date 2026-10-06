@@ -1,0 +1,449 @@
+sistema,ramo,soggetto,esercizio,camera,cv_percento
+lagann,due stadi,s03,deadlift,50591643,2.089
+lagann,due stadi,s03,deadlift,58860488,1.925
+lagann,due stadi,s03,deadlift,60457274,1.969
+lagann,due stadi,s03,deadlift,65906101,1.613
+lagann,due stadi,s03,squat,50591643,2.08
+lagann,due stadi,s03,squat,58860488,2.338
+lagann,due stadi,s03,squat,60457274,4.363
+lagann,due stadi,s03,squat,65906101,3.489
+lagann,due stadi,s04,deadlift,50591643,2.39
+lagann,due stadi,s04,deadlift,58860488,2.704
+lagann,due stadi,s04,deadlift,60457274,1.627
+lagann,due stadi,s04,deadlift,65906101,1.444
+lagann,due stadi,s04,squat,50591643,2.655
+lagann,due stadi,s04,squat,58860488,2.532
+lagann,due stadi,s04,squat,60457274,3.062
+lagann,due stadi,s04,squat,65906101,3.065
+lagann,due stadi,s05,deadlift,50591643,2.804
+lagann,due stadi,s05,deadlift,58860488,2.147
+lagann,due stadi,s05,deadlift,60457274,3.447
+lagann,due stadi,s05,deadlift,65906101,3.273
+lagann,due stadi,s05,squat,50591643,3.131
+lagann,due stadi,s05,squat,58860488,3.626
+lagann,due stadi,s05,squat,60457274,3.727
+lagann,due stadi,s05,squat,65906101,3.82
+lagann,due stadi,s07,deadlift,50591643,3.164
+lagann,due stadi,s07,deadlift,58860488,1.738
+lagann,due stadi,s07,deadlift,60457274,2.136
+lagann,due stadi,s07,deadlift,65906101,2.117
+lagann,due stadi,s07,squat,50591643,3.946
+lagann,due stadi,s07,squat,58860488,3.795
+lagann,due stadi,s07,squat,60457274,3.776
+lagann,due stadi,s07,squat,65906101,3.401
+lagann,due stadi,s08,deadlift,50591643,2.309
+lagann,due stadi,s08,deadlift,58860488,2.686
+lagann,due stadi,s08,deadlift,60457274,2.305
+lagann,due stadi,s08,deadlift,65906101,2.293
+lagann,due stadi,s08,squat,50591643,4.009
+lagann,due stadi,s08,squat,58860488,3.705
+lagann,due stadi,s08,squat,60457274,6.05
+lagann,due stadi,s08,squat,65906101,7.084
+lagann,due stadi,s09,deadlift,50591643,1.618
+lagann,due stadi,s09,deadlift,58860488,2.136
+lagann,due stadi,s09,deadlift,60457274,1.879
+lagann,due stadi,s09,deadlift,65906101,1.494
+lagann,due stadi,s09,squat,50591643,2.55
+lagann,due stadi,s09,squat,58860488,3.043
+lagann,due stadi,s09,squat,60457274,4.073
+lagann,due stadi,s09,squat,65906101,3.385
+lagann,due stadi,s10,deadlift,50591643,2.666
+lagann,due stadi,s10,deadlift,58860488,2.737
+lagann,due stadi,s10,deadlift,60457274,1.968
+lagann,due stadi,s10,deadlift,65906101,1.821
+lagann,due stadi,s10,squat,50591643,3.631
+lagann,due stadi,s10,squat,58860488,3.828
+lagann,due stadi,s10,squat,60457274,4.628
+lagann,due stadi,s10,squat,65906101,4.28
+lagann,due stadi,s11,deadlift,50591643,2.267
+lagann,due stadi,s11,deadlift,58860488,2.763
+lagann,due stadi,s11,deadlift,60457274,1.815
+lagann,due stadi,s11,deadlift,65906101,1.523
+lagann,due stadi,s11,squat,50591643,2.742
+lagann,due stadi,s11,squat,58860488,3.077
+lagann,due stadi,s11,squat,60457274,5.273
+lagann,due stadi,s11,squat,65906101,4.5
+hrnet_w48_384x288,due stadi,s03,deadlift,50591643,2.465
+hrnet_w48_384x288,due stadi,s03,deadlift,58860488,2.152
+hrnet_w48_384x288,due stadi,s03,deadlift,60457274,2.354
+hrnet_w48_384x288,due stadi,s03,deadlift,65906101,2.719
+hrnet_w48_384x288,due stadi,s03,squat,50591643,2.884
+hrnet_w48_384x288,due stadi,s03,squat,58860488,2.772
+hrnet_w48_384x288,due stadi,s03,squat,60457274,4.873
+hrnet_w48_384x288,due stadi,s03,squat,65906101,3.931
+hrnet_w48_384x288,due stadi,s04,deadlift,50591643,2.298
+hrnet_w48_384x288,due stadi,s04,deadlift,58860488,2.84
+hrnet_w48_384x288,due stadi,s04,deadlift,60457274,2.777
+hrnet_w48_384x288,due stadi,s04,deadlift,65906101,2.794
+hrnet_w48_384x288,due stadi,s04,squat,50591643,3.759
+hrnet_w48_384x288,due stadi,s04,squat,58860488,3.297
+hrnet_w48_384x288,due stadi,s04,squat,60457274,3.653
+hrnet_w48_384x288,due stadi,s04,squat,65906101,3.033
+hrnet_w48_384x288,due stadi,s05,deadlift,50591643,1.708
+hrnet_w48_384x288,due stadi,s05,deadlift,58860488,1.659
+hrnet_w48_384x288,due stadi,s05,deadlift,60457274,2.781
+hrnet_w48_384x288,due stadi,s05,deadlift,65906101,2.595
+hrnet_w48_384x288,due stadi,s05,squat,50591643,3.4
+hrnet_w48_384x288,due stadi,s05,squat,58860488,3.242
+hrnet_w48_384x288,due stadi,s05,squat,60457274,3.805
+hrnet_w48_384x288,due stadi,s05,squat,65906101,3.661
+hrnet_w48_384x288,due stadi,s07,deadlift,50591643,2.571
+hrnet_w48_384x288,due stadi,s07,deadlift,58860488,1.737
+hrnet_w48_384x288,due stadi,s07,deadlift,60457274,4.085
+hrnet_w48_384x288,due stadi,s07,deadlift,65906101,2.142
+hrnet_w48_384x288,due stadi,s07,squat,50591643,3.113
+hrnet_w48_384x288,due stadi,s07,squat,58860488,2.889
+hrnet_w48_384x288,due stadi,s07,squat,60457274,4.158
+hrnet_w48_384x288,due stadi,s07,squat,65906101,3.377
+hrnet_w48_384x288,due stadi,s08,deadlift,50591643,2.218
+hrnet_w48_384x288,due stadi,s08,deadlift,58860488,2.166
+hrnet_w48_384x288,due stadi,s08,deadlift,60457274,3.737
+hrnet_w48_384x288,due stadi,s08,deadlift,65906101,2.527
+hrnet_w48_384x288,due stadi,s08,squat,50591643,3.97
+hrnet_w48_384x288,due stadi,s08,squat,58860488,3.224
+hrnet_w48_384x288,due stadi,s08,squat,60457274,7.571
+hrnet_w48_384x288,due stadi,s08,squat,65906101,6.006
+hrnet_w48_384x288,due stadi,s09,deadlift,50591643,2.228
+hrnet_w48_384x288,due stadi,s09,deadlift,58860488,2.06
+hrnet_w48_384x288,due stadi,s09,deadlift,60457274,3.765
+hrnet_w48_384x288,due stadi,s09,deadlift,65906101,2.766
+hrnet_w48_384x288,due stadi,s09,squat,50591643,3.609
+hrnet_w48_384x288,due stadi,s09,squat,58860488,3.262
+hrnet_w48_384x288,due stadi,s09,squat,60457274,6.523
+hrnet_w48_384x288,due stadi,s09,squat,65906101,4.226
+hrnet_w48_384x288,due stadi,s10,deadlift,50591643,2.222
+hrnet_w48_384x288,due stadi,s10,deadlift,58860488,1.997
+hrnet_w48_384x288,due stadi,s10,deadlift,60457274,2.564
+hrnet_w48_384x288,due stadi,s10,deadlift,65906101,1.8
+hrnet_w48_384x288,due stadi,s10,squat,50591643,3.552
+hrnet_w48_384x288,due stadi,s10,squat,58860488,3.823
+hrnet_w48_384x288,due stadi,s10,squat,60457274,5.985
+hrnet_w48_384x288,due stadi,s10,squat,65906101,5.034
+hrnet_w48_384x288,due stadi,s11,deadlift,50591643,1.689
+hrnet_w48_384x288,due stadi,s11,deadlift,58860488,2.409
+hrnet_w48_384x288,due stadi,s11,deadlift,60457274,3.448
+hrnet_w48_384x288,due stadi,s11,deadlift,65906101,3.056
+hrnet_w48_384x288,due stadi,s11,squat,50591643,2.806
+hrnet_w48_384x288,due stadi,s11,squat,58860488,2.877
+hrnet_w48_384x288,due stadi,s11,squat,60457274,5.463
+hrnet_w48_384x288,due stadi,s11,squat,65906101,4.301
+vitpose_plus_huge,due stadi,s03,deadlift,50591643,2.25
+vitpose_plus_huge,due stadi,s03,deadlift,58860488,1.966
+vitpose_plus_huge,due stadi,s03,deadlift,60457274,2.996
+vitpose_plus_huge,due stadi,s03,deadlift,65906101,2.817
+vitpose_plus_huge,due stadi,s03,squat,50591643,2.663
+vitpose_plus_huge,due stadi,s03,squat,58860488,2.951
+vitpose_plus_huge,due stadi,s03,squat,60457274,5.198
+vitpose_plus_huge,due stadi,s03,squat,65906101,4.025
+vitpose_plus_huge,due stadi,s04,deadlift,50591643,2.717
+vitpose_plus_huge,due stadi,s04,deadlift,58860488,2.31
+vitpose_plus_huge,due stadi,s04,deadlift,60457274,2.7
+vitpose_plus_huge,due stadi,s04,deadlift,65906101,2.994
+vitpose_plus_huge,due stadi,s04,squat,50591643,3.576
+vitpose_plus_huge,due stadi,s04,squat,58860488,3.167
+vitpose_plus_huge,due stadi,s04,squat,60457274,3.56
+vitpose_plus_huge,due stadi,s04,squat,65906101,3.075
+vitpose_plus_huge,due stadi,s05,deadlift,50591643,1.833
+vitpose_plus_huge,due stadi,s05,deadlift,58860488,1.61
+vitpose_plus_huge,due stadi,s05,deadlift,60457274,2.441
+vitpose_plus_huge,due stadi,s05,deadlift,65906101,2.444
+vitpose_plus_huge,due stadi,s05,squat,50591643,3.264
+vitpose_plus_huge,due stadi,s05,squat,58860488,3.463
+vitpose_plus_huge,due stadi,s05,squat,60457274,4.007
+vitpose_plus_huge,due stadi,s05,squat,65906101,3.839
+vitpose_plus_huge,due stadi,s07,deadlift,50591643,1.652
+vitpose_plus_huge,due stadi,s07,deadlift,58860488,1.702
+vitpose_plus_huge,due stadi,s07,deadlift,60457274,4.276
+vitpose_plus_huge,due stadi,s07,deadlift,65906101,2.173
+vitpose_plus_huge,due stadi,s07,squat,50591643,2.818
+vitpose_plus_huge,due stadi,s07,squat,58860488,2.725
+vitpose_plus_huge,due stadi,s07,squat,60457274,4.537
+vitpose_plus_huge,due stadi,s07,squat,65906101,3.483
+vitpose_plus_huge,due stadi,s08,deadlift,50591643,1.823
+vitpose_plus_huge,due stadi,s08,deadlift,58860488,1.973
+vitpose_plus_huge,due stadi,s08,deadlift,60457274,3.752
+vitpose_plus_huge,due stadi,s08,deadlift,65906101,2.595
+vitpose_plus_huge,due stadi,s08,squat,50591643,3.494
+vitpose_plus_huge,due stadi,s08,squat,58860488,3.183
+vitpose_plus_huge,due stadi,s08,squat,60457274,7.391
+vitpose_plus_huge,due stadi,s08,squat,65906101,5.827
+vitpose_plus_huge,due stadi,s09,deadlift,50591643,1.904
+vitpose_plus_huge,due stadi,s09,deadlift,58860488,1.919
+vitpose_plus_huge,due stadi,s09,deadlift,60457274,3.964
+vitpose_plus_huge,due stadi,s09,deadlift,65906101,3.204
+vitpose_plus_huge,due stadi,s09,squat,50591643,3.281
+vitpose_plus_huge,due stadi,s09,squat,58860488,3.252
+vitpose_plus_huge,due stadi,s09,squat,60457274,7.33
+vitpose_plus_huge,due stadi,s09,squat,65906101,4.691
+vitpose_plus_huge,due stadi,s10,deadlift,50591643,2.05
+vitpose_plus_huge,due stadi,s10,deadlift,58860488,1.963
+vitpose_plus_huge,due stadi,s10,deadlift,60457274,2.014
+vitpose_plus_huge,due stadi,s10,deadlift,65906101,1.643
+vitpose_plus_huge,due stadi,s10,squat,50591643,3.491
+vitpose_plus_huge,due stadi,s10,squat,58860488,3.599
+vitpose_plus_huge,due stadi,s10,squat,60457274,5.275
+vitpose_plus_huge,due stadi,s10,squat,65906101,4.256
+vitpose_plus_huge,due stadi,s11,deadlift,50591643,1.877
+vitpose_plus_huge,due stadi,s11,deadlift,58860488,2.127
+vitpose_plus_huge,due stadi,s11,deadlift,60457274,3.459
+vitpose_plus_huge,due stadi,s11,deadlift,65906101,2.976
+vitpose_plus_huge,due stadi,s11,squat,50591643,2.608
+vitpose_plus_huge,due stadi,s11,squat,58860488,2.771
+vitpose_plus_huge,due stadi,s11,squat,60457274,5.69
+vitpose_plus_huge,due stadi,s11,squat,65906101,4.357
+yolo26x_pose,due stadi,s03,deadlift,50591643,1.358
+yolo26x_pose,due stadi,s03,deadlift,58860488,1.536
+yolo26x_pose,due stadi,s03,deadlift,60457274,2.885
+yolo26x_pose,due stadi,s03,deadlift,65906101,2.821
+yolo26x_pose,due stadi,s03,squat,50591643,2.224
+yolo26x_pose,due stadi,s03,squat,58860488,2.317
+yolo26x_pose,due stadi,s03,squat,60457274,5.23
+yolo26x_pose,due stadi,s03,squat,65906101,4.181
+yolo26x_pose,due stadi,s04,deadlift,50591643,5.671
+yolo26x_pose,due stadi,s04,deadlift,58860488,8.838
+yolo26x_pose,due stadi,s04,deadlift,60457274,10.221
+yolo26x_pose,due stadi,s04,deadlift,65906101,11.642
+yolo26x_pose,due stadi,s04,squat,50591643,5.54
+yolo26x_pose,due stadi,s04,squat,58860488,2.613
+yolo26x_pose,due stadi,s04,squat,60457274,8.049
+yolo26x_pose,due stadi,s04,squat,65906101,2.785
+yolo26x_pose,due stadi,s05,deadlift,50591643,1.568
+yolo26x_pose,due stadi,s05,deadlift,58860488,1.678
+yolo26x_pose,due stadi,s05,deadlift,60457274,2.864
+yolo26x_pose,due stadi,s05,deadlift,65906101,2.551
+yolo26x_pose,due stadi,s05,squat,50591643,2.688
+yolo26x_pose,due stadi,s05,squat,58860488,2.601
+yolo26x_pose,due stadi,s05,squat,60457274,4.019
+yolo26x_pose,due stadi,s05,squat,65906101,4.144
+yolo26x_pose,due stadi,s07,deadlift,50591643,8.391
+yolo26x_pose,due stadi,s07,deadlift,58860488,9.848
+yolo26x_pose,due stadi,s07,deadlift,60457274,13.439
+yolo26x_pose,due stadi,s07,deadlift,65906101,12.876
+yolo26x_pose,due stadi,s07,squat,50591643,2.438
+yolo26x_pose,due stadi,s07,squat,58860488,2.684
+yolo26x_pose,due stadi,s07,squat,60457274,4.32
+yolo26x_pose,due stadi,s07,squat,65906101,3.477
+yolo26x_pose,due stadi,s08,deadlift,50591643,1.953
+yolo26x_pose,due stadi,s08,deadlift,58860488,1.797
+yolo26x_pose,due stadi,s08,deadlift,60457274,4.027
+yolo26x_pose,due stadi,s08,deadlift,65906101,3.282
+yolo26x_pose,due stadi,s08,squat,50591643,3.41
+yolo26x_pose,due stadi,s08,squat,58860488,3.406
+yolo26x_pose,due stadi,s08,squat,60457274,7.368
+yolo26x_pose,due stadi,s08,squat,65906101,5.279
+yolo26x_pose,due stadi,s09,deadlift,50591643,1.519
+yolo26x_pose,due stadi,s09,deadlift,58860488,1.74
+yolo26x_pose,due stadi,s09,deadlift,60457274,4.075
+yolo26x_pose,due stadi,s09,deadlift,65906101,3.008
+yolo26x_pose,due stadi,s09,squat,50591643,2.884
+yolo26x_pose,due stadi,s09,squat,58860488,2.992
+yolo26x_pose,due stadi,s09,squat,60457274,7.113
+yolo26x_pose,due stadi,s09,squat,65906101,4.551
+yolo26x_pose,due stadi,s10,deadlift,50591643,1.614
+yolo26x_pose,due stadi,s10,deadlift,58860488,1.509
+yolo26x_pose,due stadi,s10,deadlift,60457274,2.0
+yolo26x_pose,due stadi,s10,deadlift,65906101,2.093
+yolo26x_pose,due stadi,s10,squat,50591643,2.927
+yolo26x_pose,due stadi,s10,squat,58860488,3.278
+yolo26x_pose,due stadi,s10,squat,60457274,6.261
+yolo26x_pose,due stadi,s10,squat,65906101,4.916
+yolo26x_pose,due stadi,s11,deadlift,50591643,1.495
+yolo26x_pose,due stadi,s11,deadlift,58860488,1.928
+yolo26x_pose,due stadi,s11,deadlift,60457274,3.876
+yolo26x_pose,due stadi,s11,deadlift,65906101,2.736
+yolo26x_pose,due stadi,s11,squat,50591643,2.12
+yolo26x_pose,due stadi,s11,squat,58860488,2.592
+yolo26x_pose,due stadi,s11,squat,60457274,5.477
+yolo26x_pose,due stadi,s11,squat,65906101,4.282
+blazepose_heavy,end-to-end,s03,deadlift,50591643,7.736
+blazepose_heavy,end-to-end,s03,deadlift,58860488,6.628
+blazepose_heavy,end-to-end,s03,deadlift,60457274,5.664
+blazepose_heavy,end-to-end,s03,deadlift,65906101,4.871
+blazepose_heavy,end-to-end,s03,squat,50591643,12.865
+blazepose_heavy,end-to-end,s03,squat,58860488,10.503
+blazepose_heavy,end-to-end,s03,squat,60457274,10.697
+blazepose_heavy,end-to-end,s03,squat,65906101,7.923
+blazepose_heavy,end-to-end,s04,deadlift,50591643,9.936
+blazepose_heavy,end-to-end,s04,deadlift,58860488,17.804
+blazepose_heavy,end-to-end,s04,deadlift,60457274,9.364
+blazepose_heavy,end-to-end,s04,deadlift,65906101,7.259
+blazepose_heavy,end-to-end,s04,squat,50591643,13.106
+blazepose_heavy,end-to-end,s04,squat,58860488,13.285
+blazepose_heavy,end-to-end,s04,squat,60457274,14.187
+blazepose_heavy,end-to-end,s04,squat,65906101,8.92
+blazepose_heavy,end-to-end,s05,deadlift,50591643,8.654
+blazepose_heavy,end-to-end,s05,deadlift,58860488,8.075
+blazepose_heavy,end-to-end,s05,deadlift,60457274,9.043
+blazepose_heavy,end-to-end,s05,deadlift,65906101,5.409
+blazepose_heavy,end-to-end,s05,squat,50591643,14.533
+blazepose_heavy,end-to-end,s05,squat,58860488,12.355
+blazepose_heavy,end-to-end,s05,squat,60457274,10.066
+blazepose_heavy,end-to-end,s05,squat,65906101,9.341
+blazepose_heavy,end-to-end,s07,deadlift,50591643,8.973
+blazepose_heavy,end-to-end,s07,deadlift,58860488,7.586
+blazepose_heavy,end-to-end,s07,deadlift,60457274,5.241
+blazepose_heavy,end-to-end,s07,deadlift,65906101,4.738
+blazepose_heavy,end-to-end,s07,squat,50591643,14.564
+blazepose_heavy,end-to-end,s07,squat,58860488,10.744
+blazepose_heavy,end-to-end,s07,squat,60457274,9.25
+blazepose_heavy,end-to-end,s07,squat,65906101,8.194
+blazepose_heavy,end-to-end,s08,deadlift,50591643,9.223
+blazepose_heavy,end-to-end,s08,deadlift,58860488,8.986
+blazepose_heavy,end-to-end,s08,deadlift,60457274,6.457
+blazepose_heavy,end-to-end,s08,deadlift,65906101,5.269
+blazepose_heavy,end-to-end,s08,squat,50591643,13.658
+blazepose_heavy,end-to-end,s08,squat,58860488,11.065
+blazepose_heavy,end-to-end,s08,squat,60457274,9.776
+blazepose_heavy,end-to-end,s08,squat,65906101,7.977
+blazepose_heavy,end-to-end,s09,deadlift,50591643,8.973
+blazepose_heavy,end-to-end,s09,deadlift,58860488,7.423
+blazepose_heavy,end-to-end,s09,deadlift,60457274,7.088
+blazepose_heavy,end-to-end,s09,deadlift,65906101,5.073
+blazepose_heavy,end-to-end,s09,squat,50591643,13.896
+blazepose_heavy,end-to-end,s09,squat,58860488,10.157
+blazepose_heavy,end-to-end,s09,squat,60457274,9.84
+blazepose_heavy,end-to-end,s09,squat,65906101,8.088
+blazepose_heavy,end-to-end,s10,deadlift,50591643,8.955
+blazepose_heavy,end-to-end,s10,deadlift,58860488,11.374
+blazepose_heavy,end-to-end,s10,deadlift,60457274,8.56
+blazepose_heavy,end-to-end,s10,deadlift,65906101,5.702
+blazepose_heavy,end-to-end,s10,squat,50591643,16.005
+blazepose_heavy,end-to-end,s10,squat,58860488,12.897
+blazepose_heavy,end-to-end,s10,squat,60457274,17.752
+blazepose_heavy,end-to-end,s10,squat,65906101,10.302
+blazepose_heavy,end-to-end,s11,deadlift,50591643,8.574
+blazepose_heavy,end-to-end,s11,deadlift,58860488,8.204
+blazepose_heavy,end-to-end,s11,deadlift,60457274,7.422
+blazepose_heavy,end-to-end,s11,deadlift,65906101,5.535
+blazepose_heavy,end-to-end,s11,squat,50591643,12.325
+blazepose_heavy,end-to-end,s11,squat,58860488,10.558
+blazepose_heavy,end-to-end,s11,squat,60457274,9.689
+blazepose_heavy,end-to-end,s11,squat,65906101,8.632
+rtmw3d_x,end-to-end,s03,deadlift,50591643,8.062
+rtmw3d_x,end-to-end,s03,deadlift,58860488,7.482
+rtmw3d_x,end-to-end,s03,deadlift,60457274,6.201
+rtmw3d_x,end-to-end,s03,deadlift,65906101,6.159
+rtmw3d_x,end-to-end,s03,squat,50591643,11.909
+rtmw3d_x,end-to-end,s03,squat,58860488,11.704
+rtmw3d_x,end-to-end,s03,squat,60457274,12.531
+rtmw3d_x,end-to-end,s03,squat,65906101,12.041
+rtmw3d_x,end-to-end,s04,deadlift,50591643,8.154
+rtmw3d_x,end-to-end,s04,deadlift,58860488,8.414
+rtmw3d_x,end-to-end,s04,deadlift,60457274,6.491
+rtmw3d_x,end-to-end,s04,deadlift,65906101,5.516
+rtmw3d_x,end-to-end,s04,squat,50591643,12.381
+rtmw3d_x,end-to-end,s04,squat,58860488,13.504
+rtmw3d_x,end-to-end,s04,squat,60457274,12.965
+rtmw3d_x,end-to-end,s04,squat,65906101,13.413
+rtmw3d_x,end-to-end,s05,deadlift,50591643,7.691
+rtmw3d_x,end-to-end,s05,deadlift,58860488,7.575
+rtmw3d_x,end-to-end,s05,deadlift,60457274,6.098
+rtmw3d_x,end-to-end,s05,deadlift,65906101,6.123
+rtmw3d_x,end-to-end,s05,squat,50591643,11.67
+rtmw3d_x,end-to-end,s05,squat,58860488,12.901
+rtmw3d_x,end-to-end,s05,squat,60457274,11.386
+rtmw3d_x,end-to-end,s05,squat,65906101,11.44
+rtmw3d_x,end-to-end,s07,deadlift,50591643,8.528
+rtmw3d_x,end-to-end,s07,deadlift,58860488,8.533
+rtmw3d_x,end-to-end,s07,deadlift,60457274,7.051
+rtmw3d_x,end-to-end,s07,deadlift,65906101,8.253
+rtmw3d_x,end-to-end,s07,squat,50591643,11.01
+rtmw3d_x,end-to-end,s07,squat,58860488,11.455
+rtmw3d_x,end-to-end,s07,squat,60457274,11.953
+rtmw3d_x,end-to-end,s07,squat,65906101,11.979
+rtmw3d_x,end-to-end,s08,deadlift,50591643,8.968
+rtmw3d_x,end-to-end,s08,deadlift,58860488,9.166
+rtmw3d_x,end-to-end,s08,deadlift,60457274,7.046
+rtmw3d_x,end-to-end,s08,deadlift,65906101,8.301
+rtmw3d_x,end-to-end,s08,squat,50591643,13.734
+rtmw3d_x,end-to-end,s08,squat,58860488,13.784
+rtmw3d_x,end-to-end,s08,squat,60457274,18.98
+rtmw3d_x,end-to-end,s08,squat,65906101,19.889
+rtmw3d_x,end-to-end,s09,deadlift,50591643,8.098
+rtmw3d_x,end-to-end,s09,deadlift,58860488,6.47
+rtmw3d_x,end-to-end,s09,deadlift,60457274,5.151
+rtmw3d_x,end-to-end,s09,deadlift,65906101,5.906
+rtmw3d_x,end-to-end,s09,squat,50591643,12.517
+rtmw3d_x,end-to-end,s09,squat,58860488,12.888
+rtmw3d_x,end-to-end,s09,squat,60457274,13.657
+rtmw3d_x,end-to-end,s09,squat,65906101,14.383
+rtmw3d_x,end-to-end,s10,deadlift,50591643,8.077
+rtmw3d_x,end-to-end,s10,deadlift,58860488,8.086
+rtmw3d_x,end-to-end,s10,deadlift,60457274,5.451
+rtmw3d_x,end-to-end,s10,deadlift,65906101,5.055
+rtmw3d_x,end-to-end,s10,squat,50591643,13.841
+rtmw3d_x,end-to-end,s10,squat,58860488,14.041
+rtmw3d_x,end-to-end,s10,squat,60457274,17.306
+rtmw3d_x,end-to-end,s10,squat,65906101,18.053
+rtmw3d_x,end-to-end,s11,deadlift,50591643,7.905
+rtmw3d_x,end-to-end,s11,deadlift,58860488,7.542
+rtmw3d_x,end-to-end,s11,deadlift,60457274,6.636
+rtmw3d_x,end-to-end,s11,deadlift,65906101,7.507
+rtmw3d_x,end-to-end,s11,squat,50591643,10.237
+rtmw3d_x,end-to-end,s11,squat,58860488,11.321
+rtmw3d_x,end-to-end,s11,squat,60457274,12.63
+rtmw3d_x,end-to-end,s11,squat,65906101,13.352
+pear,end-to-end,s03,deadlift,50591643,1.282
+pear,end-to-end,s03,deadlift,58860488,1.331
+pear,end-to-end,s03,deadlift,60457274,1.591
+pear,end-to-end,s03,deadlift,65906101,1.57
+pear,end-to-end,s03,squat,50591643,1.94
+pear,end-to-end,s03,squat,58860488,1.955
+pear,end-to-end,s03,squat,60457274,2.228
+pear,end-to-end,s03,squat,65906101,2.242
+pear,end-to-end,s04,deadlift,50591643,1.536
+pear,end-to-end,s04,deadlift,58860488,1.581
+pear,end-to-end,s04,deadlift,60457274,1.997
+pear,end-to-end,s04,deadlift,65906101,2.014
+pear,end-to-end,s04,squat,50591643,1.951
+pear,end-to-end,s04,squat,58860488,1.93
+pear,end-to-end,s04,squat,60457274,2.281
+pear,end-to-end,s04,squat,65906101,2.242
+pear,end-to-end,s05,deadlift,50591643,2.026
+pear,end-to-end,s05,deadlift,58860488,2.068
+pear,end-to-end,s05,deadlift,60457274,2.446
+pear,end-to-end,s05,deadlift,65906101,2.429
+pear,end-to-end,s05,squat,50591643,2.141
+pear,end-to-end,s05,squat,58860488,2.141
+pear,end-to-end,s05,squat,60457274,2.443
+pear,end-to-end,s05,squat,65906101,2.281
+pear,end-to-end,s07,deadlift,50591643,1.482
+pear,end-to-end,s07,deadlift,58860488,1.528
+pear,end-to-end,s07,deadlift,60457274,1.809
+pear,end-to-end,s07,deadlift,65906101,1.664
+pear,end-to-end,s07,squat,50591643,2.027
+pear,end-to-end,s07,squat,58860488,2.096
+pear,end-to-end,s07,squat,60457274,2.476
+pear,end-to-end,s07,squat,65906101,2.37
+pear,end-to-end,s08,deadlift,50591643,1.555
+pear,end-to-end,s08,deadlift,58860488,1.656
+pear,end-to-end,s08,deadlift,60457274,1.996
+pear,end-to-end,s08,deadlift,65906101,2.033
+pear,end-to-end,s08,squat,50591643,2.436
+pear,end-to-end,s08,squat,58860488,2.448
+pear,end-to-end,s08,squat,60457274,2.711
+pear,end-to-end,s08,squat,65906101,2.785
+pear,end-to-end,s09,deadlift,50591643,1.459
+pear,end-to-end,s09,deadlift,58860488,1.491
+pear,end-to-end,s09,deadlift,60457274,1.858
+pear,end-to-end,s09,deadlift,65906101,1.755
+pear,end-to-end,s09,squat,50591643,2.408
+pear,end-to-end,s09,squat,58860488,2.293
+pear,end-to-end,s09,squat,60457274,2.926
+pear,end-to-end,s09,squat,65906101,2.563
+pear,end-to-end,s10,deadlift,50591643,1.64
+pear,end-to-end,s10,deadlift,58860488,1.581
+pear,end-to-end,s10,deadlift,60457274,2.346
+pear,end-to-end,s10,deadlift,65906101,2.331
+pear,end-to-end,s10,squat,50591643,2.717
+pear,end-to-end,s10,squat,58860488,2.579
+pear,end-to-end,s10,squat,60457274,3.357
+pear,end-to-end,s10,squat,65906101,3.32
+pear,end-to-end,s11,deadlift,50591643,1.591
+pear,end-to-end,s11,deadlift,58860488,1.69
+pear,end-to-end,s11,deadlift,60457274,1.975
+pear,end-to-end,s11,deadlift,65906101,1.939
+pear,end-to-end,s11,squat,50591643,2.504
+pear,end-to-end,s11,squat,58860488,2.606
+pear,end-to-end,s11,squat,60457274,3.085
+pear,end-to-end,s11,squat,65906101,3.127
